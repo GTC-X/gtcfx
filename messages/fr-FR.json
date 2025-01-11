@@ -1,0 +1,286 @@
+{
+  "home": {
+    "metaData": {
+      "title": "Tradez le Forex et les CFD en ligne avec le courtier STP numéro un des Émirats arabes unis | GTCFX",
+      "des": "Négociez le Forex, les actions, l'énergie, les indices et les métaux en ligne avec GTCFX, le courtier STP numéro un des Émirats arabes unis, pour bénéficier de spreads serrés, d'une exécution ultra-rapide et bien plus encore. Échangeons maintenant!"
+    }
+  },
+  "about": {
+    "metaData": {
+      "title": "Profil de l'entreprise | GTCFX",
+      "des": "GTCFX est le meilleur courtier de trading Forex pour tous vos actifs mondiaux. Nous nous engageons à l’excellence lorsqu’il s’agit de répondre aux besoins de votre entreprise. Cliquez ici pour en savoir plus."
+    },
+    "why-gtc-group": {
+      "metaData": {
+        "title": "Pourquoi choisir | GTCFX",
+        "des": "Comment débloquer des opportunités rentables : Votre meilleur parcours d’investissement commence avec nous. Cliquez ici pour en savoir plus."
+      }
+    },
+    "gtc-regulations": {
+      "metaData": {
+        "title": "Règlements et accréditations | GTCFX",
+        "des": "Chez GTCFX, nous maintenons la conformité avec les autorités financières pour maintenir notre crédibilité et notre crédibilité. transparence. Cliquez ici pour en savoir plus sur nos accréditations."
+      }
+    },
+    "global-presence": {
+      "metaData": {
+        "title": "Notre présence mondiale | GTCFX",
+        "des": "Chez GTC, nous sommes une équipe mondiale présente dans plus de 16 destinations à travers le monde. Des villes animées aux coins reculés, notre réseau diversifié nous permet de nous connecter avec des clients partout dans le monde."
+      }
+    },
+    "awards": {
+      "metaData": {
+        "title": "Lauréats | GTCFX"
+      }
+    },
+    "company-news": {
+      "title": "Actualités de l'entreprise | GTCFX",
+      "sub_title": "Restez informé de toutes les dernières mises à jour et restructurations de l'entreprise. Restez informé et lisez tout ce qui se passe ici chez GTC dans notre propre section d'actualités de l'entreprise."
+    },
+    "careers": {
+      "metaData": {
+        "title": "Courses | GTCFX",
+        "des": "Nous sommes une société leader dans le domaine des technologies financières, spécialisée dans les solutions de trading de devises. Chez GTCFX, nous croyons en la promotion d'un environnement de travail dynamique et inclusif où l'innovation prospère et les talents sont nourris."
+      }
+    },
+    "contact-us": {
+      "metaData": {
+        "title": "Contactez-nous | GTCFX",
+        "des": "Notre équipe s’engage à aller au-delà de vos attentes pour répondre à vos besoins. Qu'il s'agisse de répondre à vos préoccupations, de vous aider à résoudre des problèmes techniques ou de vous fournir des conseils d'experts, nous sommes là pour vous servir."
+      }
+    }
+  },
+  "accounts": {
+    "live-account": {
+      "metaData": {
+        "title": "Ouvrir un compte de trading en direct | GTCFX",
+        "des": "Ouvrez rapidement votre compte de trading en direct GTCFX maintenant. Explorez le Forex, les CFD et les informations guidées par des experts. Votre succès commence ici !"
+      }
+    },
+    "deposit": {
+      "metaData": {
+        "title": "Alimenter votre compte | GTCFX",
+        "des": "Alimentez votre compte avec facilité et confort. Explorez le Forex, les CFD et obtenez des informations guidées par des experts. Votre succès commence ici !"
+      }
+    },
+    "account_types": {
+      "metaData": {
+        "title": "Types de comptes | GTCFX",
+        "des": " Libérez le potentiel de gains en ouvrant un compte réel et en négociant nos produits financiers compétitifs avec les spreads les plus favorables."
+      }
+    }
+  },
+  "Instruments": {
+    "commonTabs": {
+      "forex": "Forex",
+      "metals": "Métaux précieux",
+      "energy": "Énergie",
+      "stocks": "Actions",
+      "indices": "Indices boursiers",
+      "shares": "Partager",
+      "commodities": "Matières premières"
+    },
+    "metaDetails": {
+      "forex": {
+        "title": "Trading sur le Forex | GTCFX",
+        "des": "Le trading sur le Forex, abréviation de Foreign Exchange (FX), consiste à acheter et à vendre des devises sur le marché des changes dans le but de profiter des fluctuations des taux de change."
+      },
+      "energy": {
+        "title": "Commerce d'énergie",
+        "des": "Bénéficiez d’un avantage concurrentiel lorsque vous négociez avec nous sur les marchés de l’énergie."
+      },
+      "shares": {
+        "title": "Stock trading",
+        "des": "Diversifiez votre portefeuille d'investissement en ajoutant des actions de certaines des plus grandes marques mondiales, telles que Apple, Tesla, Netflix et autres."
+      },
+      "stock": {
+        "title": "Stock trading",
+        "des": "Notre plateforme offre un avantage rentable, vous permettant de capitaliser à la fois sur la hausse et la baisse des cours boursiers en période de volatilité des marchés."
+      },
+      "commodities": {
+        "title": "Négoce de matières premières",
+        "des": "Négociez des matières premières avec nous pour accéder à un monde d'opportunités, soutenu par les outils, le soutien et la sécurité nécessaires pour prospérer sur ce marché dynamique."
+      },
+      "indices": {
+        "title": "Négociation d'indices",
+        "des": "Débloquez un monde d'opportunités rentables en négociant des indices au comptant avec nous, en offrant les outils et l'accès au marché pour une expérience enrichissante."
+      },
+      "metals": {
+        "title": "Commerce de métaux",
+        "des": "Maximisez votre potentiel de profit avec nos spreads sur l'or ultra-compétitifs, à partir de seulement 4 cents."
+      }
+    }
+  },
+  "platform": {
+    "mt4PlatformPage": {
+      "metaData": {
+        "title": "Plateforme MetaTrader 4 ► Téléchargez MT4 pour Windows, Mac, iOS et Android | GTCFX",
+        "des": "Téléchargez Metatrader 4 (MT4) pour Windows, Mac, iOS et Android depuis GTCFX 📈 Négociez une variété de CFD sur le Forex, les indices boursiers, les matières premières, les obligations et les crypto-monnaies avec Meta Trader 4 de GTCFX. Ouvrez un compte MT4 maintenant !"
+      }
+    },
+    "mt5PlatformPage": {
+      "metaData": {
+        "title": "Plateforme MetaTrader 5 ► Téléchargez MT5 pour Windows, Mac, iOS et Android | GTCFX",
+        "des": "Téléchargez Metatrader 5 (MT5) pour Windows, Mac, iOS et Android depuis GTCFX 📈 Négociez une variété de CFD sur le Forex, les indices boursiers, les matières premières, les obligations et les crypto-monnaies avec Meta Trader 4 de GTCFX. Ouvrez un compte MT4 maintenant !"
+      }
+    },
+    "ctrader": {
+      "metaData": {
+        "title": "Plateforme cTrader ► Téléchargez cTrader pour Windows, Mac, iOS et Android | GTCFX",
+        "des": "Téléchargez cTrader pour Windows, Mac, iOS et Android par GTCFX 📈 Négociez une variété de CFD sur le Forex, les indices boursiers, les matières premières, les obligations et les crypto-monnaies avec cTrader par GTCFX. Ouvrez un compte cTrader maintenant !"
+      }
+    },
+    "downloadApp": {
+      "heading": "Tradez n'importe où, n'importe quand!",
+      "para": "Accédez facilement à nos plateformes intuitives depuis votre appareil préféré et tradez de manière transparente sur les marchés mondiaux, à tout moment et n'importe où!"
+    }
+  },
+  "tradingTools": {
+    "economicCal": {
+      "metaData": {
+        "title": "Calendrier économique | GTCFX",
+        "des": "Le calendrier économique en temps réel GTC Forex couvre les événements et indicateurs financiers du monde entier. Il se met à jour automatiquement lorsque de nouvelles données sont publiées."
+      }
+    },
+    "latestNews": {
+      "metaData": {
+        "title": "Dernières nouvelles | GTCFX",
+        "des": "Global Trade Capital Limited est une marque mondiale dédiée aux sociétés de courtage en ligne de matières premières et de changes. Cliquez ici pour lire nos dernières nouvelles maintenant!"
+      }
+    },
+    "ecoNews": {
+      "metaData": {
+        "title": "Service d'information économique | GTCFX",
+        "des": "Accédez aux actualités boursières en temps réel, aux actualités Forex et aux actualités générales des principaux événements financiers mondiaux avec GTCFX. Commencez à prendre des décisions éclairées dès maintenant !"
+      }
+    },
+    "marketOverView": {
+      "metaData": {
+        "title": "Aperçu du marché Actualités | GTCFX",
+        "des": "Restez à jour avec les dernières mises à jour et avis de l’entreprise. Restez informé et lisez tout ce qui se passe ici chez GTCFX dans notre section actualités de l'entreprise."
+      }
+    }
+  },
+  "partner": {
+    "IBProgram": {
+      "metaData": {
+        "title": "Programme d'introduction aux courtiers | GTCFX",
+        "des": "Libérez votre potentiel financier avec le programme de courtage d'introduction de GTCFX. Rejoignez notre réseau et gagnez des commissions attractives. Commencez votre parcours commercial dès aujourd'hui !"
+      }
+    },
+    "affiliateProgram": {
+      "metaData": {
+        "title": "Programme d'affiliation | GTCFX",
+        "des": "Explorez le potentiel de gagner des commissions impressionnantes en ligne grâce au programme d'affiliation GTCFX. Cliquez ici pour en savoir plus."
+      }
+    }
+  },
+  "footerPage": {
+    "clientAgreement": {
+      "metaData": {
+        "title": "Accord client | GTCFX",
+        "des": "GTCFX se conforme aux autorités financières pour maintenir sa crédibilité et sa transparence. Cliquez pour en savoir plus sur nos accords clients."
+      }
+    },
+    "restrictedCountry": {
+      "metaData": {
+        "title": "Pays restreints | GTCFX",
+        "des": "Sur ce site Internet, vous trouverez la liste des pays dans lesquels GTC Global Ltd. ne fournit pas de services concernant les risques de BC/FT. Cliquez pour en savoir plus!"
+      }
+    },
+    "riskWarning": {
+      "metaData": {
+        "title": "Avertissement sur les risques | GTCFX",
+        "des": "Les CFD sont des instruments complexes et présentent un risque élevé de perdre de l'argent rapidement en raison de l'effet de levier. Avant de commencer à trader GTCFX, veuillez lire cette page."
+      }
+    },
+    "termsCondition": {
+      "metaData": {
+        "title": "Termes et conditions | GTCFX",
+        "des": "Veuillez lire les conditions générales de GTCFX avant d'utiliser nos services. Cliquez ici pour découvrir comment GTCFX gère les flux de données, la confidentialité, la sécurité et bien plus encore."
+      }
+    },
+    "privacyPolicy": {
+      "metaData": {
+        "title": "Politique de confidentialité | GTCFX",
+        "des": "Chez GTCFX, votre vie privée est très importante pour nous et notre priorité est de sauvegarder et de protéger toutes les informations confidentielles liées aux individus. Apprendre encore plus!"
+      }
+    },
+    "withDrawal": {
+      "metaData": {
+        "title": "Politique de retrait | GTCFX",
+        "des": "Chez GTCFX, nous nous efforçons d'effectuer des retraits rapides, pratiques et faciles, tout en proposant de nombreux systèmes de paiement parmi lesquels choisir. Cliquez pour en savoir plus!"
+      }
+    },
+    "CompliancePolicy": {
+      "metaData": {
+        "title": "KYC/Politique de conformité | GTCFX",
+        "des": "Chez GTCFX, nous disposons d'une équipe juridique experte qui est en charge de la gestion des risques et veille à ce que les lois soient mises en œuvre pour protéger les intérêts de nos traders. Apprendre encore plus."
+      }
+    },
+    "RefundPolicy": {
+      "metaData": {
+        "title": "Politique de dépôt et de remboursement | GTCFX",
+        "des": "GTC fournit périodiquement des conditions de dépôt et de remboursement conformément à la politique d'exécution, et vous devez en prendre connaissance avant de procéder au dépôt de fonds sur vos comptes. Apprendre encore plus."
+      }
+    },
+    "DuePolicy": {
+      "metaData": {
+        "title": "Diligence raisonnable | GTCFX",
+        "des": "Chez GTCFX, nous veillons à ce que nos clients courent des risques d'investissement minimaux afin de prendre de meilleures décisions d'investissement grâce à une diligence raisonnable en matière d'investissement. Apprendre encore plus."
+      }
+    }
+  },
+  "prime-tech": {
+    "liquidity": {
+      "metaData": {
+        "title": "CG Prime | Liquidité de premier ordre | Commerce | Solutions de risque pour la communauté mondiale des affaires",
+        "des": "GTC Prime, doté d'une infrastructure avancée et d'une expertise complète, propose des tarifs personnalisés proposés par des banques de premier plan avec exécution DMA."
+      }
+    },
+    "socialTranding": {
+      "metaData": {
+        "title": "Plateforme de trading de copie aux EAU | GTCFX",
+        "des": "La meilleure plateforme de trading de copie GTCFX où vous pouvez simplement copier les meilleurs traders et laisser notre système fonctionner automatiquement pour vous ✅ Commencez le trading de copie avec nous maintenant !"
+      }
+    },
+    "pamm": {
+      "metaData": {
+        "title": "Compte PAMM | GTCFX",
+        "des": "Cette page contient des informations sur les comptes PAMM et leurs avantages pour les investisseurs et les gestionnaires de fonds."
+      }
+    },
+    "mam": {
+      "metaData": {
+        "title": "Compte MAM | GTCFX",
+        "des": "Un compte MAM (Multi-Account Manager) est un outil d'investissement spécialisé dans le monde du trading forex, conçu pour permettre aux traders professionnels"
+      }
+    },
+    "socialCentreTool": {
+      "metaData": {
+        "title": "Obtenez des informations sur le marché avec l'outil Signal Center | GTCFX",
+        "des": "Obtenez des idées et des informations de trading quotidiennes avec l'outil Signal Center de GTCFX. Gagnez du temps et des efforts avec les entrées et les stop loss. Cliquez pour télécharger maintenant pour améliorer votre jeu de trading."
+      }
+    },
+    "vpsHosting": {
+      "metaData": {
+        "title": "Serveurs privés virtuels puissants | GTCFX",
+        "des": "VPS est un service d'hébergement à distance qui fournit un environnement pour les plateformes MT4, MT5 et cTrader afin de garantir une expérience de trading à faible latence."
+      }
+    },
+    "technicalTool": {
+      "metaData": {
+        "title": "Outils experts d’analyse technique et de décision d’investissement | GTCFX",
+        "des": "GTCFX fournit de puissants outils d'analyse technique et de décision d'investissement pour vous aider à tirer le meilleur parti de votre trading. Cliquez ici pour en savoir plus."
+      }
+    }
+  },
+  "compaign": {
+    "tradeWin": {
+      "metaData": {
+        "title": "Tradez pour gagner - Promotion pour les clients | GTCFX",
+        "des": "GTC offre des méga prix à ses clients qui aiment trader. Tradez plus et gagnez des prix excitants. T&C s'appliquent!"
+      }
+    }
+  }
+}

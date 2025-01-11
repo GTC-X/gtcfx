@@ -1,0 +1,282 @@
+{
+  "home": {
+    "metaData": {
+      "title": "Perdagangkan Forex dan CFD online dengan broker STP nomor satu di UEA | GTCFX",
+      "des": "Perdagangkan Valas, Saham, Energi, Indeks, dan Logam secara online dengan GTCFX, broker STP nomor satu di UEA, untuk mendapatkan manfaat dari spread yang ketat, eksekusi ultra-cepat, dan banyak lagi. Berdagang sekarang!"
+    }
+  },
+  "about": {
+    "metaData": {
+      "title": "Profil Perusahaan | GTCFX",
+      "des": "GTCFX adalah broker perdagangan Forex terbaik untuk semua aset global Anda. Kami berkomitmen terhadap keunggulan dalam hal kebutuhan bisnis Anda. Klik di sini untuk mengetahui lebih lanjut."
+    },
+    "why-gtc-group": {
+      "metaData": {
+        "title": "Mengapa memilih | GTCFX",
+        "des": "Cara Membuka Peluang Menguntungkan: Perjalanan investasi terbaik Anda dimulai bersama kami. Klik di sini untuk mengetahui lebih lanjut."
+      }
+    },
+    "gtc-regulations": {
+      "metaData": {
+        "title": "Regulasi dan Akreditasi | GTCFX",
+        "des": "Di GTCFX, kami menjaga kepatuhan otoritas keuangan untuk menjaga kredibilitas dan kredibilitas. transparansi. Klik di sini untuk mempelajari lebih lanjut tentang akreditasi kami."
+      }
+    },
+    "global-presence": {
+      "metaData": {
+        "title": "Kehadiran Global Kami | GTCFX",
+        "des": "Di GTC, kami adalah tim global yang hadir di lebih dari 16 destinasi di seluruh dunia. Dari kota yang ramai hingga pelosok terpencil, jaringan kami yang beragam memungkinkan kami terhubung dengan klien di seluruh penjuru"
+      }
+    },
+    "awards": {
+      "metaData": {
+        "title": "Pemenang Penghargaan | GTCFX"
+      }
+    },
+    "company-news": {
+      "title": "Berita Perusahaan | GTCFX",
+      "sub_title": "Tetap up to date dengan semua pembaruan dan restrukturisasi perusahaan terkini. Tetap terinformasi dan baca semua yang terjadi di sini di GTC di bagian berita perusahaan kami sendiri."
+    },
+    "careers": {
+      "metaData": {
+        "title": "Balapan | GTCFX",
+        "des": "Kami adalah perusahaan teknologi keuangan terkemuka yang berspesialisasi dalam solusi perdagangan mata uang. Di GTCFX, kami berkomitmen untuk menciptakan lingkungan kerja yang dinamis dan inklusif di mana inovasi tumbuh subur dan bakat dipupuk."
+      }
+    },
+    "contact-us": {
+      "metaData": {
+        "title": "Hubungi kami | GTCFX",
+        "des": "Tim kami berkomitmen untuk melakukan yang terbaik untuk memenuhi kebutuhan Anda. Baik untuk mengatasi kekhawatiran Anda, membantu Anda mengatasi masalah teknis, atau memberikan panduan ahli, kami siap melayani Anda."
+      }
+    }
+  },
+  "accounts": {
+    "live-account": {
+      "metaData": {
+        "title": "Buka akun perdagangan langsung | GTCFX",
+        "des": "Buka akun perdagangan live GTCFX Anda dengan cepat sekarang. Jelajahi Forex, CFD, dan wawasan yang dipandu oleh para ahli. Kesuksesan Anda dimulai di sini!"
+      }
+    },
+    "deposit": {
+      "metaData": {
+        "title": "Danai Akun Anda | GTCFX",
+        "des": "Danai akun Anda dengan mudah dan nyaman. Jelajahi Forex, CFD, dan dapatkan wawasan yang dipandu oleh para ahli. Kesuksesan Anda dimulai di sini!"
+      }
+    },
+    "account_types": {
+      "metaData": {
+        "title": "Jenis akun | GTCFX",
+        "des": " Buka potensi penghasilan dengan membuka akun live dan memperdagangkan produk keuangan kompetitif kami dengan spread paling menguntungkan."
+      }
+    }
+  },
+  "Instruments": {
+    "commonTabs": {
+      "forex": "Valas",
+      "metals": "Logam mulia",
+      "energy": "Energi",
+      "stocks": "Saham",
+      "indices": "Indeks saham",
+      "shares": "Membagikan",
+      "commodities": "Bahan baku"
+    },
+    "metaDetails": {
+      "forex": {
+        "title": "Perdagangan Valas | GTCFX",
+        "des": "Perdagangan valas, kependekan dari perdagangan valuta asing (FX), melibatkan pembelian dan penjualan mata uang di pasar valuta asing dengan tujuan mendapatkan keuntungan dari fluktuasi nilai tukar mata uang."
+      },
+      "energy": {
+        "title": "Perdagangan Energi",
+        "des": "Rasakan keunggulan kompetitif saat berdagang di pasar energi bersama kami."
+      },
+      "shares": {
+        "title": "Perdagangan saham",
+        "des": "Diversifikasi portofolio investasi Anda dengan menambahkan saham beberapa merek global terbesar, seperti Apple, Tesla, Netflix, dan lainnya."
+      },
+      "stock": {
+        "title": "Perdagangan saham",
+        "des": "Platform kami menawarkan keuntungan yang menguntungkan, memungkinkan Anda memanfaatkan naik dan turunnya harga saham selama volatilitas pasar."
+      },
+      "commodities": {
+        "title": "Perdagangan Komoditas",
+        "des": "Perdagangkan komoditas bersama kami untuk mengakses dunia penuh peluang, yang didukung oleh alat, dukungan, dan keamanan untuk berkembang di pasar yang dinamis ini."
+      },
+      "indices": {
+        "title": "Perdagangan Indeks",
+        "des": "Buka peluang menguntungkan dalam memperdagangkan indeks tunai bersama kami, menawarkan alat dan akses pasar untuk pengalaman yang bermanfaat."
+      },
+      "metals": {
+        "title": "Perdagangan Logam",
+        "des": "Maksimalkan potensi keuntungan Anda dengan spread emas ultra-kompetitif kami, mulai dari hanya 4 sen."
+      }
+    }
+  },
+  "platform": {
+    "mt4PlatformPage": {
+      "metaData": {
+        "title": "Platform MetaTrader 4 ► Unduh MT4 untuk Windows, Mac, iOS dan Android | GTCFX",
+        "des": "Unduh Metatrader 4 (MT4) untuk Windows, Mac, iOS, dan Android dari GTCFX 📈 Perdagangkan berbagai CFD pada Forex, Indeks Saham, Komoditas, Obligasi, dan Mata Uang Kripto dengan Meta Trader 4 dari GTCFX. Buka akun MT4 sekarang!"
+      }
+    },
+    "mt5PlatformPage": {
+      "metaData": {
+        "title": "Platform MetaTrader 5 ► Unduh MT5 untuk Windows, Mac, iOS dan Android | GTCFX",
+        "des": "Unduh Metatrader 5 (MT5) untuk Windows, Mac, iOS, dan Android dari GTCFX 📈 Perdagangkan berbagai CFD pada Forex, Indeks Saham, Komoditas, Obligasi, dan Mata Uang Kripto dengan Meta Trader 4 dari GTCFX. Buka akun MT4 sekarang!"
+      }
+    },
+    "ctrader": {
+      "metaData": {
+        "title": "Platform cTrader ► Unduh cTrader untuk Windows, Mac, iOS dan Android | GTCFX",
+        "des": "Unduh cTrader untuk Windows, Mac, iOS dan Android oleh GTCFX 📈 Perdagangkan berbagai CFD di Forex, Indeks Saham, Komoditas, Obligasi, dan Mata Uang Kripto dengan cTrader oleh GTCFX. Buka akun cTrader sekarang!"
+      }
+    }
+  },
+  "tradingTools": {
+    "economicCal": {
+      "metaData": {
+        "title": "Kalender Ekonomi | GTCFX",
+        "des": "Kalender ekonomi real-time GTC Forex mencakup peristiwa dan indikator keuangan dari seluruh dunia. Ini diperbarui secara otomatis ketika data baru dipublikasikan."
+      }
+    },
+    "latestNews": {
+      "metaData": {
+        "title": "Berita terkini | GTCFX",
+        "des": "Global Trade Capital Limited adalah merek global yang didedikasikan untuk perusahaan pialang komoditas dan valuta asing online. Klik di sini untuk membaca berita terbaru kami sekarang!"
+      }
+    },
+    "ecoNews": {
+      "metaData": {
+        "title": "Layanan berita ekonomi | GTCFX",
+        "des": "Dapatkan akses ke berita pasar saham real-time, berita Forex, dan berita umum dari peristiwa keuangan besar dunia dengan GTCFX. Mulailah membuat keputusan yang tepat sekarang!"
+      }
+    },
+    "marketOverView": {
+      "metaData": {
+        "title": "Berita Tinjauan Pasar | GTCFX",
+        "des": "Tetap up to date dengan pembaruan dan ulasan perusahaan terbaru. Tetap terinformasi dan baca semua yang terjadi di sini di GTCFX di bagian berita perusahaan kami."
+      }
+    }
+  },
+  "partner": {
+    "IBProgram": {
+      "metaData": {
+        "title": "Program Pialang Pengantar | GTCFX",
+        "des": "Buka potensi finansial dengan program broker perkenalan GTCFX. Bergabunglah dengan jaringan kami dan dapatkan komisi menarik. Mulailah perjalanan perdagangan Anda hari ini!"
+      }
+    },
+    "affiliateProgram": {
+      "metaData": {
+        "title": "Program Afiliasi | GTCFX",
+        "des": "Jelajahi potensi untuk mendapatkan komisi yang mengesankan secara online melalui Program Afiliasi GTCFX. Klik di sini untuk mengetahui lebih lanjut."
+      }
+    }
+  },
+  "footerPage": {
+    "clientAgreement": {
+      "metaData": {
+        "title": "Perjanjian Pelanggan | GTCFX",
+        "des": "GTCFX menjaga kepatuhan otoritas keuangan untuk menjaga kredibilitas dan transparansi. Klik untuk mempelajari lebih lanjut tentang perjanjian pelanggan kami."
+      }
+    },
+    "restrictedCountry": {
+      "metaData": {
+        "title": "Negara yang dibatasi | GTCFX",
+        "des": "Di situs web ini Anda dapat menemukan daftar negara di mana GTC Global Ltd. tidak menyediakan layanan terkait risiko ML/FT. Klik untuk mempelajari lebih lanjut!"
+      }
+    },
+    "riskWarning": {
+      "metaData": {
+        "title": "Peringatan risiko | GTCFX",
+        "des": "CFD adalah instrumen yang kompleks dan memiliki risiko tinggi kehilangan uang dengan cepat karena leverage. Sebelum Anda memulai trading GTCFX, harap baca halaman ini."
+      }
+    },
+    "termsCondition": {
+      "metaData": {
+        "title": "Syarat dan ketentuan | GTCFX",
+        "des": "Harap baca Syarat dan Ketentuan GTCFX sebelum menggunakan layanan kami. Klik di sini untuk mempelajari cara GTCFX mengelola data feed, privasi, keamanan, dan banyak lagi."
+      }
+    },
+    "privacyPolicy": {
+      "metaData": {
+        "title": "Kebijakan Privasi | GTCFX",
+        "des": "Di GTCFX, privasi Anda sangat penting bagi kami dan prioritas kami adalah menjaga dan melindungi semua informasi rahasia yang berkaitan dengan individu. Belajarlah lagi!"
+      }
+    },
+    "withDrawal": {
+      "metaData": {
+        "title": "Kebijakan penarikan | GTCFX",
+        "des": "Di GTCFX, kami berupaya melakukan penarikan dengan cepat, nyaman, dan mudah, sekaligus menawarkan berbagai sistem pembayaran untuk dipilih. Klik untuk mempelajari lebih lanjut!"
+      }
+    },
+    "CompliancePolicy": {
+      "metaData": {
+        "title": "KYC/Kebijakan Kepatuhan | GTCFX",
+        "des": "Di GTCFX, kami memiliki tim ahli hukum yang bertanggung jawab atas manajemen risiko dan memastikan bahwa undang-undang diterapkan untuk melindungi kepentingan trader kami. Belajarlah lagi."
+      }
+    },
+    "RefundPolicy": {
+      "metaData": {
+        "title": "Kebijakan deposit dan pengembalian dana | GTCFX",
+        "des": "GTC secara berkala memberikan ketentuan setoran dan pengembalian dana sesuai dengan kebijakan pelaksanaan, dan Anda harus mengetahuinya sebelum melanjutkan untuk menyetor dana ke akun Anda. Belajarlah lagi."
+      }
+    },
+    "DuePolicy": {
+      "metaData": {
+        "title": "Uji tuntas | GTCFX",
+        "des": "Di GTCFX, kami memastikan bahwa klien kami mengalami risiko investasi minimal untuk membuat keputusan investasi yang lebih baik dengan uji tuntas investasi yang menyeluruh. Belajarlah lagi."
+      }
+    }
+  },
+  "prime-tech": {
+    "liquidity": {
+      "metaData": {
+        "title": "GTC Perdana | Likuiditas terbaik di kelasnya | Perdagangan | Solusi risiko untuk komunitas bisnis global",
+        "des": "GTC Prime, dengan infrastruktur canggih dan keahlian komprehensif, menawarkan harga yang disesuaikan dari bank papan atas dengan eksekusi DMA."
+      }
+    },
+    "socialTranding": {
+      "metaData": {
+        "title": "Salin platform perdagangan di UEA | GTCFX",
+        "des": "Platform copy trading GTCFX terbaik di mana Anda cukup menyalin trader terbaik dan membiarkan sistem kami bekerja secara otomatis untuk Anda ✅ Mulai copy trading bersama kami sekarang!"
+      }
+    },
+    "pamm": {
+      "metaData": {
+        "title": "Akun PAMM | GTCFX",
+        "des": "Halaman ini berisi informasi tentang akun PAMM dan keuntungannya bagi investor dan pengelola uang."
+      }
+    },
+    "mam": {
+      "metaData": {
+        "title": "Akun MAM | GTCFX",
+        "des": "Akun MAM (Manajer Multi-Akun) adalah alat investasi khusus di dunia perdagangan valas, yang dirancang untuk memungkinkan pedagang profesional"
+      }
+    },
+    "socialCentreTool": {
+      "metaData": {
+        "title": "Dapatkan wawasan pasar dengan alat Signal Center | GTCFX",
+        "des": "Dapatkan ide dan wawasan trading harian dengan alat Pusat Sinyal GTCFX. Hemat waktu dan tenaga dengan entry dan stop loss. Klik untuk mengunduh sekarang untuk meningkatkan permainan perdagangan Anda."
+      }
+    },
+    "vpsHosting": {
+      "metaData": {
+        "title": "Server pribadi virtual yang kuat | GTCFX",
+        "des": "VPS adalah layanan hosting jarak jauh yang menyediakan lingkungan untuk platform MT4, MT5, dan cTrader untuk memastikan pengalaman perdagangan dengan latensi rendah."
+      }
+    },
+    "technicalTool": {
+      "metaData": {
+        "title": "Analisis teknis ahli dan alat pengambilan keputusan investasi | GTCFX",
+        "des": "GTCFX menyediakan analisis teknis dan alat pengambilan keputusan investasi yang kuat untuk membantu Anda mendapatkan hasil maksimal dari perdagangan Anda. Klik di sini untuk mengetahui lebih lanjut."
+      }
+    }
+  },
+  "compaign": {
+    "tradeWin": {
+      "metaData": {
+        "title": "Perdagangan untuk Menang - Promosi Klien | GTCFX",
+        "des": "GTC menawarkan hadiah besar untuk kliennya yang suka berdagang. Berdagang lebih banyak dan menangkan hadiah menarik. S&K Berlaku!"
+      }
+    }
+  }
+}

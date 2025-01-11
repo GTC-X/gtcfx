@@ -1,0 +1,282 @@
+{
+  "home": {
+    "metaData": {
+      "title": "BAE'nin bir numaralı STP komisyoncusu ile çevrimiçi Forex ve CFD ticareti yapın | GTCFX",
+      "des": "Dar spreadlerden, ultra hızlı işlemden ve daha fazlasından yararlanmak için BAE'nin bir numaralı STP komisyoncusu GTCFX ile çevrimiçi Forex, Hisse Senedi, Enerji, Endeks ve Metal ticareti yapın. Şimdi ticaret yapın!"
+    }
+  },
+  "about": {
+    "metaData": {
+      "title": "Şirket profili | GTCFX",
+      "des": "GTCFX, tüm küresel varlıklarınız için en iyi Forex ticaret komisyoncusudur. İş ihtiyaçlarınız söz konusu olduğunda mükemmelliğe kendimizi adadık. Daha fazlasını öğrenmek için burayı tıklayın."
+    },
+    "why-gtc-group": {
+      "metaData": {
+        "title": "Neden seçmelisiniz | GTCFX",
+        "des": "Kârlı Fırsatların Kilidini Nasıl Açabilirsiniz: En iyi yatırım yolculuğunuz bizimle başlar. Daha fazlasını öğrenmek için burayı tıklayın."
+      }
+    },
+    "gtc-regulations": {
+      "metaData": {
+        "title": "Düzenlemeler ve Akreditasyonlar | GTCFX",
+        "des": "GTCFX'te güvenilirliği ve inanılırlığı sürdürmek için finansal otoritelerle uyumluluğu sürdürüyoruz. şeffaflık. Akreditasyonlarımız hakkında daha fazla bilgi edinmek için buraya tıklayın."
+      }
+    },
+    "global-presence": {
+      "metaData": {
+        "title": "Küresel Varlığımız | GTCFX",
+        "des": "GTC olarak dünya çapında 16'dan fazla destinasyonda varlığı bulunan küresel bir ekibiz. Kalabalık şehirlerden uzak köşelere kadar geniş ağımız, her yerdeki müşterilerle bağlantı kurmamıza olanak tanıyor"
+      }
+    },
+    "awards": {
+      "metaData": {
+        "title": "Ödül Kazananlar | GTCFX"
+      }
+    },
+    "company-news": {
+      "title": "Şirket Haberleri | GTCFX",
+      "sub_title": "En son şirket güncellemeleri ve yeniden yapılanmalarıyla güncel kalın. Gelişmelerden haberdar olun ve GTC'de olup biten her şeyi kendi şirket haberleri bölümümüzde okuyun."
+    },
+    "careers": {
+      "metaData": {
+        "title": "Yarış | GTCFX",
+        "des": "Döviz ticareti çözümlerinde uzmanlaşmış lider bir finansal teknoloji şirketiyiz. GTCFX olarak, yeniliğin geliştiği ve yeteneklerin beslendiği dinamik ve kapsayıcı bir çalışma ortamının teşvik edilmesine inanıyoruz."
+      }
+    },
+    "contact-us": {
+      "metaData": {
+        "title": "Bize ulaşın | GTCFX",
+        "des": "Ekibimiz ihtiyaçlarınızı karşılamak için yukarıda ve öteye gitmeye kararlıdır. İster endişelerinizi gidermek, ister teknik sorunlarda size yardımcı olmak, ister uzman rehberliği sağlamak olsun, size hizmet etmek için buradayız."
+      }
+    }
+  },
+  "accounts": {
+    "live-account": {
+      "metaData": {
+        "title": "Canlı bir ticaret hesabı açın | GTCFX",
+        "des": "GTCFX canlı işlem hesabınızı şimdi hızla açın. Forex'i, CFD'leri ve uzmanların rehberliğinde içgörüleri keşfedin. Başarınız burada başlıyor!"
+      }
+    },
+    "deposit": {
+      "metaData": {
+        "title": "Hesabınıza Para Yatırın | GTCFX",
+        "des": "Hesabınıza kolaylıkla ve rahatlıkla para yatırın. Forex'i ve CFD'leri keşfedin ve uzmanların rehberliğinde içgörüler edinin. Başarınız burada başlıyor!"
+      }
+    },
+    "account_types": {
+      "metaData": {
+        "title": "Hesap türleri | GTCFX",
+        "des": " Canlı bir hesap açarak ve rekabetçi finansal ürünlerimizle en uygun spreadlerle işlem yaparak kazanç potansiyelinin kilidini açın."
+      }
+    }
+  },
+  "Instruments": {
+    "commonTabs": {
+      "forex": "Forex",
+      "metals": "Değerli metaller",
+      "energy": "Enerji",
+      "stocks": "Hisse senetleri",
+      "indices": "Hisse senedi endeksleri",
+      "shares": "Paylaşmak",
+      "commodities": "İşlenmemiş içerikler"
+    },
+    "metaDetails": {
+      "forex": {
+        "title": "Forex Ticareti | GTCFX",
+        "des": "Döviz (FX) ticaretinin kısaltması olan forex ticareti, döviz kurlarındaki dalgalanmalardan kar elde etmek amacıyla döviz piyasasında para birimlerinin alınıp satılmasını içerir."
+      },
+      "energy": {
+        "title": "Enerji Ticareti",
+        "des": "Bizimle enerji piyasalarında ticaret yaparken rekabet avantajını yaşayın."
+      },
+      "shares": {
+        "title": "Hisse Senedi Ticareti",
+        "des": "Apple, Tesla, Netflix ve diğerleri gibi en büyük küresel markalardan bazılarının hisselerini ekleyerek yatırım portföyünüzü çeşitlendirin."
+      },
+      "stock": {
+        "title": "Hisse Senedi Ticareti",
+        "des": "Platformumuz, piyasadaki oynaklık sırasında hisse senedi fiyatlarının hem yükselişinden hem de düşüşünden yararlanmanıza olanak tanıyan karlı bir avantaj sunuyor."
+      },
+      "commodities": {
+        "title": "Emtia ticareti",
+        "des": "Bu dinamik pazarda başarılı olmanızı sağlayacak araçlar, destek ve güvenlikle desteklenen bir fırsatlar dünyasına erişmek için bizimle emtia ticareti yapın."
+      },
+      "indices": {
+        "title": "Endeks Ticareti",
+        "des": "Ödüllendirici bir deneyim için araçlar ve pazar erişimi sunarak, bizimle nakit endeks ticareti yapan karlı fırsatlar dünyasının kilidini açın."
+      },
+      "metals": {
+        "title": "Metal Ticareti",
+        "des": "Sadece 4 sentten başlayan ultra rekabetçi altın spreadlerimizle kâr potansiyelinizi en üst düzeye çıkarın."
+      }
+    }
+  },
+  "platform": {
+    "mt4PlatformPage": {
+      "metaData": {
+        "title": "MetaTrader 4 Platformu ► Windows, Mac, iOS ve Android için MT4'ü İndirin | GTCFX",
+        "des": "GTCFX'ten Windows, Mac, iOS ve Android için Metatrader 4'ü (MT4) indirin 📈 GTCFX'ten Meta Trader 4 ile Forex, Hisse Senedi Endeksleri, Emtialar, Tahviller ve Kripto Para Birimlerinde çeşitli CFD'lerde işlem yapın. Şimdi bir MT4 hesabı açın!"
+      }
+    },
+    "mt5PlatformPage": {
+      "metaData": {
+        "title": "MetaTrader 5 Platformu ► Windows, Mac, iOS ve Android için MT5'i İndirin | GTCFX",
+        "des": "GTCFX'ten Windows, Mac, iOS ve Android için Metatrader 5'i (MT5) indirin 📈 GTCFX'ten Meta Trader 4 ile Forex, Hisse Senedi Endeksleri, Emtialar, Tahviller ve Kripto Para Birimlerinde çeşitli CFD'lerde işlem yapın. Şimdi bir MT4 hesabı açın!"
+      }
+    },
+    "ctrader": {
+      "metaData": {
+        "title": "cTrader Platformu ► Windows, Mac, iOS ve Android için cTrader'ı indirin | GTCFX",
+        "des": "GTCFX'ten Windows, Mac, iOS ve Android için cTrader'ı indirin 📈 GTCFX'ten cTrader ile Forex, Hisse Senedi Endeksleri, Emtialar, Tahviller ve Kripto para birimlerinde çeşitli CFD'lerde işlem yapın. Şimdi bir cTrader hesabı açın!"
+      }
+    }
+  },
+  "tradingTools": {
+    "economicCal": {
+      "metaData": {
+        "title": "Ekonomik Takvim | GTCFX",
+        "des": "GTC Forex'in gerçek zamanlı ekonomik takvimi, dünyanın dört bir yanından finansal olayları ve göstergeleri kapsar. Yeni veriler yayınlandığında otomatik olarak güncellenir."
+      }
+    },
+    "latestNews": {
+      "metaData": {
+        "title": "En son haberler | GTCFX",
+        "des": "Global Trade Capital Limited, çevrimiçi emtialara ve döviz komisyonculuğu şirketlerine adanmış küresel bir markadır. En son haberlerimizi okumak için hemen tıklayın!"
+      }
+    },
+    "ecoNews": {
+      "metaData": {
+        "title": "Ekonomik haber hizmeti | GTCFX",
+        "des": "GTCFX ile gerçek zamanlı borsa haberlerine, Forex haberlerine ve dünyanın önemli finansal olaylarından genel haberlere erişin. Şimdi bilinçli kararlar vermeye başlayın!"
+      }
+    },
+    "marketOverView": {
+      "metaData": {
+        "title": "Piyasaya Genel Bakış Haberler | GTCFX",
+        "des": "En son şirket güncellemeleri ve incelemeleri ile güncel kalın. Gelişmelerden haberdar olun ve GTCFX'te olup biten her şeyi şirket haberleri bölümümüzde okuyun."
+      }
+    }
+  },
+  "partner": {
+    "IBProgram": {
+      "metaData": {
+        "title": "Tanıtıcı Broker Programı | GTCFX",
+        "des": "GTCFX'in tanıtım amaçlı broker programıyla finansal potansiyelin kilidini açın. Ağımıza katılın ve cazip komisyonlar kazanın. Ticaret yolculuğunuza bugün başlayın!"
+      }
+    },
+    "affiliateProgram": {
+      "metaData": {
+        "title": "Ortaklık Programı | GTCFX",
+        "des": "GTCFX Ortaklık Programı aracılığıyla etkileyici çevrimiçi komisyonlar kazanma potansiyelini keşfedin. Daha fazlasını öğrenmek için burayı tıklayın."
+      }
+    }
+  },
+  "footerPage": {
+    "clientAgreement": {
+      "metaData": {
+        "title": "Müşteri Sözleşmesi | GTCFX",
+        "des": "GTCFX, güvenilirliği ve şeffaflığı korumak için finansal otoritelerle uyumu korur. Müşteri anlaşmalarımız hakkında daha fazla bilgi edinmek için tıklayın."
+      }
+    },
+    "restrictedCountry": {
+      "metaData": {
+        "title": "Kısıtlı ülkeler | GTCFX",
+        "des": "Bu web sitesinde GTC Global Ltd.'nin ML/FT risklerine ilişkin hizmet vermediği ülkelerin listesini bulabilirsiniz. Daha fazlasını öğrenmek için tıklayın!"
+      }
+    },
+    "riskWarning": {
+      "metaData": {
+        "title": "Risk uyarısı | GTCFX",
+        "des": "CFD'ler karmaşık araçlardır ve kaldıraç nedeniyle hızla para kaybetme riski yüksektir. GTCFX yatırımına başlamadan önce lütfen bu sayfayı okuyun."
+      }
+    },
+    "termsCondition": {
+      "metaData": {
+        "title": "Şartlar ve koşullar | GTCFX",
+        "des": "Hizmetlerimizi kullanmadan önce lütfen GTCFX Hüküm ve Koşullarını okuyun. GTCFX'in veri akışlarını, gizliliği, güvenliği ve daha fazlasını nasıl yönettiğini öğrenmek için burayı tıklayın."
+      }
+    },
+    "privacyPolicy": {
+      "metaData": {
+        "title": "Gizlilik Politikası | GTCFX",
+        "des": "GTCFX'te gizliliğiniz bizim için çok önemlidir ve önceliğimiz bireylere ilişkin tüm gizli bilgilerin muhafaza edilmesi ve muhafaza edilmesidir. Daha fazla bilgi edin!"
+      }
+    },
+    "withDrawal": {
+      "metaData": {
+        "title": "Para çekme politikası | GTCFX",
+        "des": "GTCFX'te, aralarından seçim yapabileceğiniz çok sayıda ödeme sistemi sunarken, para çekme işlemlerini hızlı, rahat ve kolay hale getirmeye çalışıyoruz. Daha fazlasını öğrenmek için tıklayın!"
+      }
+    },
+    "CompliancePolicy": {
+      "metaData": {
+        "title": "KYC/Uyum Politikası | GTCFX",
+        "des": "GTCFX'te risk yönetiminden ve yatırımcılarımızın çıkarlarını korumak için yasaların uygulanmasından sorumlu uzman bir hukuk ekibimiz var. Daha fazla bilgi edin."
+      }
+    },
+    "RefundPolicy": {
+      "metaData": {
+        "title": "Depozito ve geri ödeme politikası | GTCFX",
+        "des": "GTC, uygulama politikası uyarınca periyodik olarak para yatırma ve geri ödeme koşulları sağlar ve hesaplarınıza para yatırmaya başlamadan önce bunların farkında olmalısınız. Daha fazla bilgi edin."
+      }
+    },
+    "DuePolicy": {
+      "metaData": {
+        "title": "Durum tespiti | GTCFX",
+        "des": "GTCFX'te, kapsamlı yatırım durum tespiti ile müşterilerimizin daha iyi yatırım kararları alabilmeleri için minimum yatırım riski yaşamalarını sağlıyoruz. Daha fazla bilgi edin."
+      }
+    }
+  },
+  "prime-tech": {
+    "liquidity": {
+      "metaData": {
+        "title": "GTC Başbakan | Sınıfının en iyisi likidite | Ticaret | Küresel iş dünyası için risk çözümleri",
+        "des": "GTC Prime, gelişmiş altyapısı ve kapsamlı uzmanlığıyla, DMA uygulamasıyla üst düzey bankalardan özelleştirilmiş fiyatlandırma sunuyor."
+      }
+    },
+    "socialTranding": {
+      "metaData": {
+        "title": "BAE'deki ticaret platformunu kopyala | GTCFX",
+        "des": "En iyi yatırımcıları kopyalayabileceğiniz ve sistemimizin sizin için otomatik olarak çalışmasına izin verebileceğiniz en iyi GTCFX kopya ticaret platformu ✅ Şimdi bizimle kopya ticaretine başlayın!"
+      }
+    },
+    "pamm": {
+      "metaData": {
+        "title": "PAMM Hesabı | GTCFX",
+        "des": "Bu sayfada PAMM hesapları ve bunların yatırımcılar ve para yöneticileri için avantajları hakkında bilgiler yer almaktadır."
+      }
+    },
+    "mam": {
+      "metaData": {
+        "title": "MAM Hesabı | GTCFX",
+        "des": "MAM (Çoklu Hesap Yöneticisi) hesabı, forex ticareti dünyasında profesyonel yatırımcılara izin vermek için tasarlanmış özel bir yatırım aracıdır."
+      }
+    },
+    "socialCentreTool": {
+      "metaData": {
+        "title": "Sinyal Merkezi aracıyla pazar öngörüleri edinin | GTCFX",
+        "des": "GTCFX'in Sinyal Merkezi aracıyla günlük ticaret fikirleri ve öngörüleri edinin. Giriş ve durdurma kayıpları ile zamandan ve emekten tasarruf edin. Ticaret oyununuzu geliştirmek için hemen indirmek için tıklayın."
+      }
+    },
+    "vpsHosting": {
+      "metaData": {
+        "title": "Güçlü sanal özel sunucular | GTCFX",
+        "des": "VPS, düşük gecikmeli bir ticaret deneyimi sağlamak amacıyla MT4, MT5 ve cTrader platformlarına ortam sağlayan bir uzaktan barındırma hizmetidir."
+      }
+    },
+    "technicalTool": {
+      "metaData": {
+        "title": "Uzman teknik analiz ve yatırım kararı araçları | GTCFX",
+        "des": "GTCFX, işlemlerinizden en iyi şekilde yararlanmanıza yardımcı olacak güçlü teknik analiz ve yatırım kararı araçları sağlar. Daha fazlasını öğrenmek için burayı tıklayın."
+      }
+    }
+  },
+  "compaign": {
+    "tradeWin": {
+      "metaData": {
+        "title": "Kazanmak için Ticaret - Müşteri Promosyonu | GTCFX",
+        "des": "GTC, ticareti seven müşterileri için büyük ödüller sunar. Daha fazla ticaret yapın ve heyecan verici ödüller kazanın. Şartlar ve Koşullar geçerlidir!"
+      }
+    }
+  }
+}
