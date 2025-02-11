@@ -37,7 +37,6 @@ const NavItem = ({
   const router = useRouter();
   const urlLocale = useLocale();
   const pathname = usePathname();
-  const isAr = pathname.includes("/ar-AE");
   const pathnameWithoutLocale = pathname.replace(`/${urlLocale}`, "");
   const innerActive = links?.some((single) => {
     return single?.items?.some((x) => x?.href === pathnameWithoutLocale);
@@ -67,9 +66,7 @@ const NavItem = ({
         }}
       >
         <button
-          className={`block cursor-pointer py-6  ${
-            isAr ? "pr-2 lg:pr-5 pl-2 lg:pl-5" : "pl-2 lg:pl-4 lg:pr-4"
-          }  lg:py-5 text-[sm] lg:text-[16px] 3xl:text-xl`}
+          className={`block cursor-pointer py-6  pl-2 lg:pl-4 lg:pr-4 lg:py-5 text-[sm] lg:text-[16px] 3xl:text-xl`}
         >
           {title}
         </button>
@@ -91,9 +88,7 @@ const NavItem = ({
               <div className=" basis-3/12 flex justify-between">
                 <ul key={index} className={`px-4 w-full  pb-6 pt-6 lg:pt-3`}>
                   <h3
-                    className={`flex gap-2 items-center underline text-[15px] 2xl:text-[19px] 3xl:text-xl text-secondary mb-2 ${
-                      isAr ? "text-right" : "text-left"
-                    }`}
+                    className={`flex gap-2 items-center underline text-[15px] 2xl:text-[19px] 3xl:text-xl text-secondary mb-2 text-left`}
                   >
                     <p className="text-primary text-2xl">{linkGroup.icon}</p>
                     {linkGroup.title}
@@ -144,14 +139,13 @@ const Header = ({currentLanguage}) => {
   const [href, setHref] = useState([
     {
       href: "/",
-      locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+      locale: "en,id-ID",
     },
   ]);
-  const isAr = pathname.includes("/ar-AE");
   const navigationData = [
     {
       title: t("about.lable"),
-      locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+      locale: "en,id-ID",
       description: t("about.des"),
       id: 1,
       links: [
@@ -162,17 +156,17 @@ const Header = ({currentLanguage}) => {
             {
               href: "/about-us",
               label: t("about.firstcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/why-gtc-group",
               label: t("about.firstcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/regulations",
               label: t("about.firstcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
 
           ],
@@ -184,12 +178,12 @@ const Header = ({currentLanguage}) => {
             {
               href: "/global-presence",
               label: t("about.secondcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/awards",
               label: t("about.secondcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/compensation-fund",
@@ -210,12 +204,12 @@ const Header = ({currentLanguage}) => {
             {
               href: "/careers",
               label: t("about.thirdcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/contact-us",
               label: t("about.thirdcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -224,7 +218,7 @@ const Header = ({currentLanguage}) => {
     {
       title: t("account.lable"),
       href: "#",
-      locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+      locale: "en,id-ID",
       description: t("account.des"),
       id: 2,
       links: [
@@ -235,17 +229,17 @@ const Header = ({currentLanguage}) => {
             {
               href: "https://mygtcfx.com/getview?view=register",
               label: t("account.firstcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/free-demo-account",
               label: t("account.firstcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/deposit",
               label: t("account.firstcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -256,7 +250,7 @@ const Header = ({currentLanguage}) => {
             {
               href: "/account-types",
               label: t("account.secondcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -287,32 +281,32 @@ const Header = ({currentLanguage}) => {
             {
               href: "/forex",
               label: t("trading.firstcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/precious-metals",
               label: t("trading.firstcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/stock",
               label: t("trading.firstcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/commodities",
               label: t("trading.firstcolumn.option4"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/indices",
               label: t("trading.firstcolumn.option5"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/cfd-energy",
               label: t("trading.firstcolumn.option6"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -323,17 +317,17 @@ const Header = ({currentLanguage}) => {
             {
               href: "/mt4-platform",
               label: t("trading.secondcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/mt5-platform",
               label: t("trading.secondcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/download-app",
               label: t("trading.secondcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -378,7 +372,7 @@ const Header = ({currentLanguage}) => {
             {
               href: "/introductory-broker",
               label: t("partner.firstcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -387,7 +381,7 @@ const Header = ({currentLanguage}) => {
             {
               href: "/affiliate-program",
               label: t("partner.thirdcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -396,7 +390,7 @@ const Header = ({currentLanguage}) => {
     {
       title: t("technology.lable"),
       href: "#",
-      locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+      locale: "en,id-ID",
       description: t("technology.des"),
       id: 5,
       links: [
@@ -407,12 +401,12 @@ const Header = ({currentLanguage}) => {
             {
               href: "/liquidity-technology",
               label: t("technology.firstcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/copy-trading",
               label: t("technology.firstcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -423,22 +417,22 @@ const Header = ({currentLanguage}) => {
             {
               href: "/pamm-account",
               label: t("technology.secondcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/mam-account",
               label: t("technology.secondcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/signal-centre-tool",
               label: t("technology.secondcolumn.option3"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/vps-hosting-services",
               label: t("technology.secondcolumn.option4"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -449,12 +443,12 @@ const Header = ({currentLanguage}) => {
             {
               href: "/technical-tools",
               label: t("technology.thirdcolumn.option1"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
             {
               href: "/autochartist",
               label: t("technology.thirdcolumn.option2"),
-              locale: "en,ar-AE,zh-hans,zh-TW,it-IT,tr-TR,fr-FR,es-ES,pt-PT,ur-PK,hi-IN,vi-VN,id-ID,fa-IR,tl-PH,th-TH,ml_IN,ja-JP,ms-MY",
+              locale: "en,id-ID",
             },
           ],
         },
@@ -554,9 +548,7 @@ const Header = ({currentLanguage}) => {
                 ))}
               </ul>
               <div
-                className={`flex items-center gap-2 ${
-                  isAr ? "md:mr-4" : "md:ml-4"
-                }`}
+                className={`flex items-center gap-2 md:ml-4`}
               ></div>
             </div>
             <div className="md:hidden flex gap-2 items-center">

@@ -34,110 +34,137 @@ const RegulationPage = () => {
         {t("sub_title")}
           </h3>
           
-          <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'>
-          <h3 className='text-xl font-[500] text-secondary'>{t("regulation1_1")}</h3>
-          <p>{t("regulation1_2")}</p>
-          <div className='flex py-4 items-center gap-3'>
-          <img src='/flags/sca.svg' className='w-8 h-8'/>
-          <p className='text-primary text-xl'>{t("regulation1_3")}</p>
-          </div>
-          <p className='max-w-xl text-primary text-md'>
-          {t("regulation1_4")}
-          </p>
-          <p className='max-w-xl text-primary text-md'>
-         {t("regulation5_6")} <Link className='text-blue-600' href="https://www.gtcmtd.com/" target='_blank'>www.gtcmtd.com</Link>
-         </p>
-          </div>
+        
       </div>
     </section>
     <section>
-     <div className="container md:pt-16 pt-8  relative z-30">
-         <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'
-         >
-         <h3 className='text-xl font-[500] text-secondary'>{t("regulation1_1")}</h3>
-         <p>{t("regulation1_2")}</p>
-         <div className='flex py-4 items-center gap-3'>
-         <img src='/flags/sca.svg' className='w-9 h-6'/>
-         <p className='text-primary text-xl'>{t("regulation1_3")}</p>
-         </div> 
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulationnew_4")}
-         </p>
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulation5_6")} <Link className='text-blue-600' href="https://www.gtcfc.com/" target='_blank'>www.gtcfc.com</Link>
-         </p>
-         </div>
-     </div>
-   </section>
-    <section>
-     <div className="container md:pt-16 pt-8  relative z-30">
-         <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'
-         >
-         <h3 className='text-xl font-[500] text-secondary'>{t("regulation5_1")}</h3>
-         <p>{t("regulation5_2")}</p>
-         <div className='flex py-4 items-center gap-3'>
-         <img src='/flags/uk.png' className='w-9 h-6'/>
-         <p className='text-primary text-xl'>{t("regulation5_3")}</p>
-         </div> 
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulation5_4")} <br/>
-         {t("regulation5_5")}
-         </p>
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulation5_6")} <Link className='text-blue-600' href="https://www.gmgmarkets.co.uk/" target='_blank'>www.gmgmarkets.co.uk</Link>
-         </p>
-         </div>
-     </div>
-   </section>
-   <section>
-     <div className="container md:pt-16 pt-8  relative z-30">
-         <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'
-         >
-         <h3 className='text-xl font-[500] text-secondary'>{t("regulation2_1")}</h3>
-         <p>{t("regulation2_2")}</p>
-         <div className='flex py-4 items-center gap-3'>
-         <img src='/flags/asic.png' className='w-9 h-6'/>
-         <p className='text-primary text-xl'>{t("regulation2_3")}</p>
-         </div>
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulation2_4")}
-         </p>
-         </div>
-     </div>
-   </section>
-   <section>
-     <div className="container md:pt-16 pt-8  relative z-30">
-         <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'
-         >
-         <h3 className='text-xl font-[500] text-secondary'>{t("regulation3_1")}</h3>
-         <p>{t("regulation3_2")}</p>
-         <div className='flex py-4 items-center gap-3'>
-         <img src='/flags/Mauritius.png' className='w-8 h-6'/>
-         <p className='text-primary text-xl'>{t("regulation3_3")}</p>
-         </div>
-         <p className='max-w-xl text-primary text-md'>
-         {t("regulation3_4")}
-         </p>
-         </div>
-     </div>
-   </section>
-     <section className="pb-20">
-     <div className="container md:pt-16 pt-8">
+  <div className="container md:pt-12 pt-8 relative z-30">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {/* First Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+       
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/sca.svg" className="w-8 h-8" alt="SCA Flag" />
+          <p className="text-primary text-xl">{t("regulation1_3")}</p>
+        </div>
+        <p className="text-primary text-md">{t("regulation1_4")}</p>
+        <p className="text-primary text-md">
+          {t("regulation5_6")}{" "}
+          <Link className="text-blue-600" href="https://www.gtcmtd.com/" target="_blank">
+            www.gtcmtd.com
+          </Link>
+        </p>
+      </div>
+
+      {/* Second Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+       
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/sca.svg" className="w-9 h-6" alt="SCA Flag" />
+          <p className="text-primary text-xl">{t("regulation1_3")}</p>
+        </div>
+        <p className="text-primary text-md">{t("regulationnew_4")}</p>
+        <p className="text-primary text-md">
+          {t("regulation5_6")}{" "}
+          <Link className="text-blue-600" href="https://www.gtcfc.com/" target="_blank">
+            www.gtcfc.com
+          </Link>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div className="container md:pt-12 pt-8 relative z-30">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {/* First Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+       
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/uk.png" className="w-9 h-6" alt="UK Flag" />
+          <p className="text-primary text-xl">{t("regulation5_3")}</p>
+        </div>
+        <p className="text-primary text-md">
+          {t("regulation5_4")} <br />
+          {t("regulation5_5")}
+        </p>
+        <p className=" text-primary text-md">
+          {t("regulation5_6")}{" "}
+          <Link className="text-blue-600" href="https://www.gmgmarkets.co.uk/" target="_blank">
+            www.gmgmarkets.co.uk
+          </Link>
+        </p>
+      </div>
+
+      {/* Second Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+       
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/asic.png" className="w-9 h-6" alt="ASIC Flag" />
+          <p className="text-primary text-xl">{t("regulation2_3")}</p>
+        </div>
+        <p className="text-primary text-md">{t("regulation2_4")}</p>
+        <p className="text-primary text-md">
+          {t("regulation5_6")}{" "}
+          <Link className="text-blue-600" href="https://www.gtcau.com.au" target="_blank">
+          www.gtcau.com.au
+          </Link>
+          </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div className="container md:pt-12 pt-8 relative z-30">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+      {/* Regulation 3 Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+       
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/Mauritius.png" className="w-8 h-6" alt="Mauritius Flag" />
+          <p className="text-primary text-xl">{t("regulation3_3")}</p>
+        </div>
+        <p className="max-w-xl text-primary text-md">{t("regulation3_4")}</p>
+      </div>
+
+      {/* Regulation 6 Section */}
+      <div className="ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4">
+        
+        <div className="flex py-4 items-center gap-3">
+          <img src="/flags/ZA.svg" className="w-8 h-6" alt="South Africa Flag" />
+          <p className="text-primary text-xl">{t("regulation6_3")}</p>
+        </div>
+        <p className="max-w-xl text-primary text-md">{t("regulation6_4")}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+     <section className="pb-16">
+     <div className="container md:pt-12 pt-8">
          <div className='ltr:border-l-4 ltr:border-l-gray-200 ltr:pl-4 rtl:border-r-4 rtl:border-r-gray-200 rtl:pr-4'
          
          >
-         <h3 className='text-xl font-[500] text-secondary'>  {t("regulation4_1")}</h3>
-         <p>  {t("regulation4_2")}</p>
+        
          <div className='flex py-4 items-center gap-3'>
          <img src='/flags/vfsc.png' className='w-8 h-6'/>
          <p className='text-primary text-xl'>  {t("regulation4_3")}</p>
          </div>
-         <p className='max-w-xl text-primary text-md'>
+         <p className=' text-primary text-md'>
          {t("regulation4_4")}
          </p>
          </div>
+         
      </div>
    </section>
+   <div className='container pb-20'>
+      
+      <p className='text max-w-6xl mx-auto'>{t("notice")}</p>
+      
+   </div>
+   
    </div>
   )
 }

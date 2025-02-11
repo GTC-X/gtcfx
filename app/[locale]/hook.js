@@ -5,7 +5,7 @@ export const useLanguageHook = ({ locale, messages }) => {
   const [translation, settranslation] = useState(null);
   const [loading, setLoading] = useState(false);
   useEffect(() => {
-    if (locale == "en" || locale == "zh-hans" || locale == "ar-AE") {
+    if (locale == "en") {
       settranslation(messages);
       setLoading(false);
     } else {

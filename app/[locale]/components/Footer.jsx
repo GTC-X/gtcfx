@@ -20,8 +20,8 @@ const Footer = () => {
   const locale = useLocale();
   const pathnameWithoutLocale = pathname.replace(`/${locale}`, "");
 
-  const emailLink = locale === "fa-IR" ? "support.tr@gtcfx.com" : "support@gtcfx.com";
-
+  const emailLink =
+    locale === "fa-IR" ? "support.tr@gtcfx.com" : "support@gtcfx.com";
 
   const footerLinks = [
     {
@@ -47,7 +47,7 @@ const Footer = () => {
           name: t("link.menu3"),
           link: "/awards",
         },
-        
+
         {
           name: t("link.menu10"),
           link: "/glossary-faqs",
@@ -108,8 +108,7 @@ const Footer = () => {
         {
           name: t("rules.menu10"),
           link: "/download-app",
-        }
-        
+        },
       ],
     },
     {
@@ -139,7 +138,7 @@ const Footer = () => {
           name: t("update.menu6"),
           link: "/autochartist",
         },
-       
+
         {
           name: t("update.menu8"),
           link: "/technical-tools",
@@ -161,10 +160,6 @@ const Footer = () => {
     {
       title: t("policy.label"),
       links: [
-        {
-          name: t("policy.menu10"),
-          link: "/gtc-financial-consultancy-llc",
-        },
         {
           name: t("policy.menu1"),
           link: "/privacy-policy",
@@ -193,7 +188,6 @@ const Footer = () => {
           name: t("policy.menu7"),
           link: "/risk-warning",
         },
-        
       ],
     },
   ];
@@ -224,12 +218,14 @@ const Footer = () => {
       ],
     },
   ];
- // Add a check to see if the pathname is not the home page
- const isNotHomePage = pathname !== `/${locale}` && pathname !== '/';
- return (
-   <> 
-   {isNotHomePage && <TradeInvest />}
-      <div className={`bg-primary pb-10 z-30 ${isNotHomePage ? 'pt-[8%] sm:pt-[18%] lg:pt-[16%] xl:pt-[12%] 2xl:pt-[10%] 3xl:pt-[9%] 4xl:pt-[6%]' : 'pt-10'}`}>
+  // Add a check to see if the pathname is not the home page
+  const isNotHomePage = pathname !== `/${locale}` && pathname !== "/";
+  return (
+    <>
+      {isNotHomePage && <TradeInvest />}
+      <div
+        className={`bg-primary pb-10 z-30 ${isNotHomePage ? "pt-[8%] sm:pt-[18%] lg:pt-[16%] xl:pt-[12%] 2xl:pt-[10%] 3xl:pt-[9%] 4xl:pt-[6%]" : "pt-10"}`}
+      >
         <div className="container grid grid-cols-2 md:grid-cols-2 lg:grid-cols-5 gap-4 md:gap-8 px-3">
           {footerLinks.map((footerlink) => (
             <div key={footerlink.title}>
@@ -298,8 +294,20 @@ const Footer = () => {
             </Link>
             <SocialIcon />
             <div className="flex flex-row py-5 justify-center">
-                <Image src='/footer/iso9001_icon.png' className="h-22 w-22"  width={80} height={100} alt="iso icon"/>
-                <Image src='/footer/iso26000_icon.png' className="h-22 w-22" width={80} height={100} alt="iso icon" />
+              <Image
+                src="/footer/iso9001_icon.png"
+                className="h-22 w-22"
+                width={80}
+                height={100}
+                alt="iso icon"
+              />
+              <Image
+                src="/footer/iso26000_icon.png"
+                className="h-22 w-22"
+                width={80}
+                height={100}
+                alt="iso icon"
+              />
             </div>
           </div>
           <div className="md:basis-9/12 text-xs text-white text-opacity-70 space-y-3 leading-5">
@@ -308,48 +316,48 @@ const Footer = () => {
               {t("footerNotice.firstPara")}
             </p>
             <p>
-              <span className="text-secondary">{t("footerNotice.gtc_group_heading1")}</span>
+              <span className="text-secondary">
+                {t("footerNotice.gtc_group_heading1")}
+              </span>
               {t("footerNotice.gtc_group_para1")}
             </p>
-         
-            <p>
-              <span className="text-secondary">{t("footerNotice.gtc_multi_trading_heading")}</span>
-              {t("footerNotice.gtc_multi_trading_para")}
-              <a target="_blank" href="https://www.gtcmtd.com" className="text-secondary">www.gtcmtd.com</a>
-            </p>
-           
-            <p>
-              <span className="text-secondary">{t("footerNotice.gtc_global_heading")}</span>
-              {t("footerNotice.gtc_global_para")}
-              <a href="https://www.gtcfx.com" className="text-secondary" target="_blank">www.gtcfx.com</a>
-            </p>
-            <p>
-              <span className="text-secondary">{t("footerNotice.gtc_global_pty_heading")}</span>
-              {t("footerNotice.gtc_global_pty_para")}
-            </p>
 
-            <p>
-              <span className="text-secondary">{t("footerNotice.yellow2")}</span>
-              {t("footerNotice.secPara")}
-            </p>
-
-
-          
-            {/* <p>{t("footerNotice.sevenPara")} <span 
-            className="text-secondary cursor-pointer"
-            onClick={() => {
-              router.push("/restricted-countries", { locale: locale });
-            }}
-            >{t("footerNotice.veriousOther")}</span>{" "}</p> */}
+            <p>{t("footerNotice.gtc_multi_trading_para")}</p>
             <p>
               <span className="text-secondary">
-                {t("footerNotice.eightyellow")}{" "}
-              </span>{" "}
+                {t("footerNotice.gtc_global_pty_heading")}
+              </span>
+              {t("footerNotice.gtc_global_pty_para")}
+            </p>
+            <h5 className="text-sm font-medium text-secondary">{t("footerNotice.title")} </h5>
+            <p>{t("footerNotice.gtc_global_para")}</p>
+
+            <p>
+              <span className="text-secondary">
+                {t("footerNotice.yellow2")}
+              </span>
+              {t("footerNotice.secPara")}
+            </p>
+            <p>
+              <span className="text-secondary">
+                {t("footerNotice.gtc_group_heading2")}
+              </span>
+              {t("footerNotice.gtc_group_para2")} <a className="text-secondary" href="https://gtcmtd.com" target="_blank">www.gtcmtd.com</a>
+            </p>
+            <p>
+              <span className="text-secondary">
+                {t("footerNotice.yellow4")}
+              </span>
+              {t("footerNotice.fifthPara")} <a className="text-secondary" href="https://gtcau.com.au/" target="_blank">www.gtcau.com.au.  </a>
+            </p>
+          
+           
+            <p>
+            
               {t("footerNotice.eightPara")}{" "}
             </p>
-            <p>{t("footerNotice.sixthPara")}</p>
+         
           </div>
-
         </div>
       </div>
       <CopyRight />

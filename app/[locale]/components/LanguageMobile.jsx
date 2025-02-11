@@ -26,27 +26,7 @@ export default function LanguageMobile(props) {
   });
   const languages = [
     { code: "en", label: "English", flagSrc: "/en.webp" },
-    { code: "ar-AE", label: "العربية", flagSrc: "/ar.webp" },
-    { code: "zh-hans", label: "中文", flagSrc: "/zh-hans.webp" },
-    { code: "fr-FR", label: "Français", flagSrc: "/fr-FR.webp" },
-    { code: "es-ES", label: "Español", flagSrc: "/es-ES.webp" },
-    { code: "vi-VN", label: "Tiếng Việt", flagSrc: "/vi-VN.webp" },
-    { code: "hi-IN", label: "हिंदी", flagSrc: "/hi-IN.webp" },
-    { code: "ms-MY", label: "Melayu", flagSrc: "/ms-MY.webp" },
-    { code: "tr-TR", label: "Türk", flagSrc: "/tr-TR.webp" },
-    { code: "id-ID", label: "Bahasa", flagSrc: "/id-ID.webp" },
-    { code: "ml_IN", label: "മലയാളം", flagSrc: "/hi-IN.webp" },
-    { code: "ps-AF", label: "افغانستان", flagSrc: "/ps-AF.webp" },
-    { code: "ru_RU", label: "Русский", flagSrc: "/ru_RU.webp" },
-    { code: "ja-JP", label: "日本国", flagSrc: "/ja-JP.webp" },
-    { code: "ko-KR", label: "한국어", flagSrc: "/ko-KR.webp" },
-    { code: "fa-IR", label: "فارسی", flagSrc: "/fa-IR.webp" },
-    { code: "tl-PH", label: "Filipino", flagSrc: "/tl-PH.webp" },
-    { code: "pt-PT", label: "Português", flagSrc: "/pt-PT.webp" },
-    { code: "th-TH", label: "แบบไทย", flagSrc: "/th-TH.webp" },
-    { code: "ur-PK", label: "اردو", flagSrc: "/ur-PK.webp" },
-    { code: "zh-TW", label: "台灣", flagSrc: "/zh-TW.webp" },
-   
+    { code: "id-ID", label: "Bahasa", flagSrc: "/id-ID.webp" }, 
     // Add more languages as needed
   ];
   return (

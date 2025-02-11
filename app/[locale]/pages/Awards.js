@@ -8,6 +8,18 @@ const Awards = () => {
 
     const awardsList = [
         {
+            "name":"QFEX",
+            "desc":"Best Liquidity Provider",
+            "imgSRC":"https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/award/qatar-award.png",
+            "by": "Awarded by Qatar Financial Expo and Awards Doha - 2025"
+        },
+        {
+            "name":"WIKI Expo",
+            "desc":"Best Forex Introducing Broker",
+            "imgSRC":"https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/award/wiki.png",
+            "by": "Awarded by WIKI Expo Dubai Award 2024"
+        },
+        {
             "name":"Forex Expo",
             "desc":"Worldwide Leading Broker",
             "imgSRC":"https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/award/ForexExpo+Dubai.png",

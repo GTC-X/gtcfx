@@ -73,7 +73,9 @@
         "option1": "Market News",
         "option2": "Economic Calendar & News",
         "option3": "Markets Time & Holidays",
-        "option4":"Glossary/FAQS"
+        "option4":"Glossary/FAQS",
+        "option5":"Dynamic Leverage",
+        "option6":"Swap Update"
       }
     },
     "partner": {
@@ -189,7 +191,7 @@
     },
     "security_of_funds": {
       "title": "Security of Funds",
-      "desc": "GTCFX has taken out an insurance policy that protects clients’ funds for up to USD$1 million per account. for more details please contact us"
+      "desc": "GTCFX has secured an insurance policy from the Financial Commission, offering protection for clients’ funds up to €20,000. For more details, please click here."
     },
     "products": {
       "heading": "Access To 8 Asset Markets With Over 27,000 Trading Instruments",
@@ -273,8 +275,8 @@
       "desc1_2": "GTCFX has become a significant player in the fintech industry, with its growth driven by a dedication to offering cutting-edge technology and strict adherence to regulatory standards. Over the years, GTCFX has earned a reputation for reliability and excellence within the financial services sector.",
       "desc1_3": "",
       "heading2": "Regulated",
-      "desc2_1": "GTCFX operates under stringent regulatory oversight, with multiple companies under the GTCFX brand regulated across different regions worldwide. The company adheres to high standards of anti-money laundering (AML) and know-your-customer (KYC) practices, maintaining its integrity and reliability in the fintech industry.",
-      "desc2_2": "",
+      "desc2_1": "GTC Global Ltd and GTC Global Trade Capital Co. Limited., who provide the services on this Website, operate under stringent regulatory oversight and adhere to high standards of anti-money laundering (AML) and know-your-customer (KYC) practices, maintaining integrity and reliability in the fintech industry. GTC Global Ltd and GTC Global Trade Capital Co. Limited. comply with the laws and regulations in Mauritius and Vanuatu respectively",
+      "desc2_2": "Other entities within the GTC Financial Group have their own AML/CTF procedures that are designed in compliance with the local laws and regulations.",
       "heading3": "Experienced",
       "desc3": "Since our establishment, we've firmly established our expertise in the trading arena. Throughout our journey, we've been trailblazers in shaping the financial services industry, consistently innovating exceptional products, services, and trading platforms that set new standards.",
       "heading4": "Trusted",
@@ -303,7 +305,7 @@
       "point1_5": "Secure, Instant And Fast Execution",
       "point1_6": "MT4/MT5 Trading Platform",
       "point1_7": "Dedicated Relationship Manager",
-      "point1_8": "Various Funding Methods Including: Credit Card, Wire Transfer, Cryptocurrency",
+      "point1_8": "Various Funding Methods Including: Credit Card, Wire Transfer, Digital Currency Assets currency",
       "heading2_1": "Customize your",
       "heading2_2": "Trading Strategies",
       "point2_1": "Access To 7 Markets With Over 27,000 Trading Instruments",
@@ -344,42 +346,47 @@
     },
     "gtc-regulations": {
       "metaData": {
-        "title": "Regulations & Accreditations | GTCFX",
-        "des": "At GTCFX, We maintain compliance with financial authorities to sustain credibility &amp; transparency. Click here to learn more about our accreditations."
+        "title": "GTC Financial Group’s Presence Globally  | GTCFX",
+        "des": "GTC Group LLC-FZ, a limited liability company registered in the UAE, owns the following entities globally, together the GTC Financial Group. Each of these entities provides financial services according to their respective licences in the relevant jurisdiction."
       },
-      "title": "Regulation and Compliance of GTC Affiliates ",
-      "des": "GTC Group LLC-FZ, a limited liability company registered in the UAE, along with its wholly-owned entities and entities associated via common interest (collectively, “GTC Group,” parts of which trade as “GTCFX”), operate under the applicable legal, governmental, and regulatory regime of each respective jurisdiction",
+      "title": "GTC Financial Group’s Presence Globally ",
+      "des": "GTC Group LLC-FZ, a limited liability company registered in the UAE, owns the following entities globally, together the GTC Financial Group. Each of these entities provides financial services according to their respective licences in the relevant jurisdiction. Each entity within the GTC Financial Group specialises in different services and is managed separately by experienced teams. The services and products on this website are offered by two group entities, being GTC Global Ltd and GTC Global Trade Capital Co. Limited.",
       "sub_title": "Information on operating GTC Affiliates:",
       "regulation1_1": "SCA",
       "regulation1_2": "Securities and Commodities Authority",
-      "regulation1_3": "United Arab Emirates (SCA)",
+      "regulation1_3": "United Arab Emirates",
       "regulation1_4": "GTC MULTI TRADING DMCC is regulated by the Securities and Commodities Authority of the UAE, under license Number 20200000007. The company is licensed to do Broker Direct Clearing Member services under DGCX Derivative Futures.", 
       "regulationnew_4": "GTC FINANCIAL CONSULTANCY is regulated by the Securities and Commodities Authority of the UAE",
       "regulation2_1": "ASIC",
       "regulation2_2": "Australian Securities & Investments Commission",
-      "regulation2_3": "Australia (ASIC)",
-      "regulation2_4": "GTC Global PTY LTD is authorised and regulated by the Australian Securities & Investments Commission (“ASIC”) under license Number 496371",
+      "regulation2_3": "Australia",
+      "regulation2_4": "GTC Global (Australia) Pty Ltd holds an Australian Financial Services Licence number 496371. GTC Global (Australia) focuses on providing education services to Australian clients. Website:",
       "regulation3_1": "FSCM",
       "regulation3_2": "Financial Services Commission, Mauritius",
-      "regulation3_3": "Mauritius (FSCM)",
+      "regulation3_3": "Mauritius",
       "regulation3_4": "GTC Global Ltd, is a limited company incorporated in Mauritius (company number: C188049) and licensed by the Financial Services Commission, Mauritius (No. GB22200292) to trade as an SEC-2.",
       "regulation4_1": "VFSC",
       "regulation4_2": "Vanuatu Financial Services Commission",
-      "regulation4_3": "Vanuatu (VFSC)",
-      "regulation4_4": "GTC Global Trade Capital Co., Limited, is a global finance brokerage company registered, supervised, and authorized by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354. Registered address: 1/Floor, B&P House, Kumul Highway, Port Vila, Vanuatu",
+      "regulation4_3": "Vanuatu",
+      "regulation4_4": "GTC Global Trade Capital Co. Limited, is a global finance brokerage company registered, supervised, and authorized by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354. Registered address: 1/Floor, B&P House, Kumul Highway, Port Vila, Vanuatu",
       "regulation5_1": "FCA",
       "regulation5_2": "Financial Conduct Authority",
-      "regulation5_3": "United Kingdom (FCA)",
+      "regulation5_3": "United Kingdom",
       "regulation5_4": "Global Markets Group Limited, a company registered in England & Wales under company number 09493910, is authorised and regulated by the Financial Conduct Authority with reference number 744501. GTC GROUP L.L.C-FZ is a minority shareholder in Global Markets Group Limited.",
       "regulation5_5": "Registered Office: Green Park House, 15 Stratton Street, London W1J 8LQ, UK",
-      "regulation5_6": "Websites: "
+      "regulation5_6": "Website: ",
+      "regulation6_1": "SFPL",
+      "regulation6_2": "South Africa Proprietary Limited",
+      "regulation6_3": "South Africa",
+      "regulation6_4": "GTC Global South Africa Proprietary Limited (registration number: 2020/810937/07) hold a Financial Services Provider Licence number 51545. Register address is First Floor Kildare Centre, Cnr Kildare Road and Main Street, Newlands, Cape Town, Western Cape, 7550, South Africa.",
+      "notice": "GTC Financial Group provides a wide range of financial services to clients. Different entities within the group have different licences and offerings as they are managed separately. If you are interested to know more about which entity you are dealing with, we encourage you to contact us."
     },
     "global-presence": {
       "metaData": {
         "title": "Our Global Presence | GTCFX",
         "des": "At GTC, we're a global team with a presence in over 16 destinations worldwide. From bustling cities to remote corners, our diverse network allows us to connect with clients across "
       }
-    },
+    }, 
     "awards": {
       "metaData": {
         "title": "Awards Winning | GTCFX"
@@ -566,7 +573,7 @@
       "standard_account": {
         "title": "Standard Account",
         "point1": "No minimum deposit",
-        "point2": "Leverage up to 1:2000",
+        "point2": "Leverage up to 1:2000 ***",
         "point3": "Average spreads 1.4 Pips",
         "point4": "0 Commission Charges",
         "point5": "Secure, instant and fast execution",
@@ -584,7 +591,7 @@
       "pro_account": {
         "title": "Pro Account",
         "point1": "Minimum deposits from $50",
-        "point2": "Leverage up to 1:2000",
+        "point2": "Leverage up to 1:2000 ***",
         "point3": "Average spreads 0.9 Pips",
         "point4": "0 Commission Charges",
         "point5": "Secure, instant and fast execution",
@@ -604,7 +611,7 @@
       "ecn_account": {
         "title": "ECN Account",
         "point1": "Minimum deposits from $3,000",
-        "point2": "Leverage up to 1:500",
+        "point2": "Leverage up to 1:500 ***",
         "point3": "Raw spreads 0.0 Pips",
         "point4": "Direct access to top tier banks",
         "point5": "Commission $5/standard lot",
@@ -625,7 +632,8 @@
         "point20": "Dedicated relationship manager"
       },
       "note": "*Trading in markets with low volatility and high liquidity, Under normal markets volatility liquidity condition",
-      "subNote": "**    Accounts above $50K"
+      "subNote": "**    Accounts above $50K",
+      "subNote1": "The above applicable only for GTC Global Ltd, (FSCM) & GTC Global Trade Capital Co, (VFSC) Clients."
     },
     "demoAccount": {
       "metaData": {
@@ -1068,7 +1076,7 @@
     "mt4PlatformPage": {
       "metaData": {
         "title": "MetaTrader 4 Platform ► Download MT4 for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the Metatrader 4 (MT4) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Cryptocurrencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
+        "des": "Download the Metatrader 4 (MT4) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
       },
       "bannerText": {
         "heading": "MT4 Trading Platform",
@@ -1107,7 +1115,7 @@
     "mt5PlatformPage": {
       "metaData": {
         "title": "MetaTrader 5 Platform ► Download MT5 for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the Metatrader 5 (MT5) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Cryptocurrencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
+        "des": "Download the Metatrader 5 (MT5) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
       },
       "bannerText": {
         "heading": "MT5 Trading Platform",
@@ -1146,7 +1154,7 @@
     "ctrader": {
       "metaData": {
         "title": "cTrader Platform ► Download cTrader for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the cTrader for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Cryptocurrencies with GTCFX's cTrader. Open a cTrader account now!"
+        "des": "Download the cTrader for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's cTrader. Open a cTrader account now!"
       },
       "bannerText": {
         "heading": "cTrader Platform",
@@ -1182,7 +1190,7 @@
           "card4": {
             "imgUrl": "<FaUserClock size={60} />",
             "title": "Access to Multiple Asset Classes",
-            "paragraph": "Trade a diverse range of asset classes including Forex, indices, commodities, stocks, and cryptocurrencies. With cTrader, you have access to a wide range of markets, enabling you to diversify your trading portfolio and explore new opportunities.",
+            "paragraph": "Trade a diverse range of asset classes including Forex, indices, commodities, stocks, and Digital Currency Assets currencies. With cTrader, you have access to a wide range of markets, enabling you to diversify your trading portfolio and explore new opportunities.",
             "link": ""
           }
         }
@@ -1393,11 +1401,11 @@
   "lervage" : {
     "metaData": {
       "title": "Dynamic Leverage for Enhanced Trading | GTCFX",
-      "des": "Discover GTCFX dynamic leverage model, designed to optimize your trading experience across FX, metals, indices, commodities, stocks, energy, and crypto. Maximize your trading potential with tailored leverage solutions."
+      "des": "Discover GTCFX dynamic leverage model, designed to optimize your trading experience across FX, metals, indices, commodities, stocks, energy, and Digital Currency Assets. Maximize your trading potential with tailored leverage solutions."
     },
     "lervageHero": {
       "title": "Dynamic Leverage",
-      "description": "GTCFX utilizes a dynamic leverage model across various financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Crypto, to help you maximize your trading potential."
+      "description": "GTCFX utilizes a dynamic leverage model across various financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Digital Currency Assets, to help you maximize your trading potential."
     },
     "whatLervage": {
     "title": "What is Dynamic Leverage?",
@@ -1409,7 +1417,7 @@
       "one": "Up to 1:2000 on Forex currencies",
       "two": "Up to 1:2000 on Metals",
       "three": "Up to 1:400 on Commodities & Energy",
-     "four": "Up to 1:250 on Cryptocurrency CFDs",
+     "four": "Up to 1:250 on Digital Currency Assets currency CFDs",
       "five": "Up to 1:125 on Indices",
       "six": "Up to 1:20 Stocks/Shares"
     },
@@ -1425,7 +1433,7 @@
   },
   "popUp":{
     "leveragePopTitle": "Introducing Dynamic Leverage",
-  "description": "Effective September 9th, 2024, GTCFX will implement a dynamic leverage model across a wide range of financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and cryptocurrencies. Please note that all trades executed from September 9th, 2024 onwards will be subject to this updated leverage structure.",
+  "description": "Effective September 9th, 2024, GTCFX will implement a dynamic leverage model across a wide range of financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Digital Currency Assets currencies. Please note that all trades executed from September 9th, 2024 onwards will be subject to this updated leverage structure.",
   "agreedButton": "Agreed"
   },
   "tieredLeverage": {
@@ -1499,13 +1507,13 @@
     },
     "IBProgram": {
       "metaData": {
-        "title": "Introductory Broker Program | GTCFX",
-        "des": "Unlock financial potential with GTCFX's Introductory Broker Program. Join our network and earn attractive commissions. Start your trading journey today!"
+        "title": "Introducing Broker Program | GTCFX",
+        "des": "Unlock financial potential with GTCFX's Introducing Broker Program. Join our network and earn attractive commissions. Start your trading journey today!"
       },
       "bannerText": {
         "topheading": "Grow Your Clients Network With Us!",
-        "heading1": "Power up your business expansion and client network while maximizing the advantages of our IB program",
-        "description": "Register Now & Become Our Introducing Broker"
+        "heading1": "Become an Introducing Broker and Unlock Unlimited Earning Potential!",
+        "description": "Power up your business expansion and client network while maximizing the advantages of our IB program."
       },
       "tableIB": {
         "lable": "Promotion Details",
@@ -1603,7 +1611,38 @@
           "ques": "What is IB offering to their clients?",
           "ans": "Client Support: While Introducing Brokers do not execute trades, they may offer some level of support and guidance to their referred clients. This can include assistance with account setup, trading strategies, or addressing general inquiries.Introducing Brokers play a vital role in the FX industry by acting as intermediaries between traders and FX brokers, facilitating client acquisition and helping brokers expand their market reach. They can be individuals, businesses, or even financial institutions that have an interest in referring traders to FX brokers and earning a commission for doing so."
         }
-      }
+      },
+      "rules": {
+        "one": {
+          "title": "Campaign Rules:",
+          "points": {
+            "p1": "This campaign is only applicable for currency trading, gold, silver, and oil markets.",
+            "p2": "The campaign only applies to ECN account, standard account and pro account.",
+            "p3": "Clients who are trading under a PAM or MAM account is not entitled to this campaign.",
+            "p4": "Only IB itself and the IB’s direct clients’ performance will be calculated (excluding the IB’s sub-IBs).",
+            "p5": "All IBs with a net deposit of more than $50,000 are eligible to participate.",
+            "p6": "Only trading on MT4/MT5 platforms are permissive.",
+            "p7": "The program started at January 1, 2025, and it will be ended at Dec 31st 2025.",
+            "p8": "GTCFX reserves the right to disqualify agents found engaging in irregular trading activities, including scalping, price manipulation, and abuse of liquidity."
+          }
+        },
+        "two" : {
+          "title": "Reward Claiming Rules:",
+          "points": {
+            "p1": "An IB can only apply for one reward at a time; two rewards can't be valid simultaneously.",
+            "p2": "Please contact your relationship manager or support@gtcfx.com to claim the reward.",
+            "p3": "Once a reward is redeemed, trading volume resets for new rewards.",
+            "p4": "Rewards may vary by the partner's country of residence.",
+            "p5": "After meeting the conditions, clients can apply anytime, and GTCFX will issue the reward within 15 working days."
+          }
+        },
+        "three": {
+          "title": "Disclaimer:",
+          "points": {
+            "p1": "GTCFX reserves the right of final interpretation of this program."
+          }
+        }
+      }  
     },
     "affiliateProgram": {
       "metaData": {
@@ -1733,6 +1772,10 @@
     "register": "Register Now",
     "firstName": "First Name",
     "fullName": "Full Name",
+    "deposit_amount": "Deposit Amount",
+    "head1": "Open Live Account",
+    "head2": "Fund your Account",
+    "head3": "Apply for 20% Bonus",
     "lastName": "Last Name",
     "email": "Email Address",
     "userName":"User Name",
@@ -1795,7 +1838,6 @@
      "enterEmail": "Please Enter Your Email To Continue",
      "formAlready": "Your Email already registered. Please check with your Account Manager."
   },
-
   "footerPage": {
     "clientAgreement": {
       "metaData": {
@@ -1856,7 +1898,8 @@
           "oneOne": " Yemen",
           "oneTwo": "Zimbabwe"
         }
-      }
+      },
+      "notice": "Note: The above list of restricted countries applies in relation to the services offered by GTC Global Ltd and GTC Global Trade Capital Co. Limited. only. For other entities in the GTC Financial Group, please refer to their respective websites or contact them directly to find out which countries they do not provide services to."
     },
     "margin": {
       "metaData": {
@@ -2559,30 +2602,23 @@
       "menu4": "Timings:"
     },
     "footerNotice": {
+      "title":"Other Group Entities: ",
       "yellow": "Risk Warning:",
-      "firstPara": " Investing in derivative products carries significant risks and may not be suitable for all investors. Leveraging in these instruments can increase the level of risk and potential loss exposure. Before making any decision to engage in foreign exchange trading or CFDs, it is essential to carefully assess your investment objectives, level of experience, and risk tolerance. You should only invest funds that you can afford to lose. We strongly encourage you to educate yourself thoroughly about the associated risks and, if you have any questions, seek advice from an independent financial or tax advisor.",
-      "gtc_group_heading1": "GTC Group LLC-FZ",
-      "gtc_group_para1": " is a holding company incorporated in Dubai, United Arab Emirates with Business License Number: 2311147.01. Its registered office is at: Business Center 1, M Floor, Meydan Hotel, Nad Al Sheba, Dubai, United Arab Emirates.",
-      "gtc_group_heading2": "GTCFX LLC-FZ",
-      "gtc_group_para2": " along with its wholly-owned entities or entities affiliated via common ownership or control within the GTCFX of companies (collectively “GTCFX”) trade as “GTC”, “GTCFX”, “GTC Global”, “GTC Markets”, “GTCFX”, or “GTC Global Markets”.",
-      "gtc_multi_trading_heading": "GTC Multi Trading DMCC",
-      "gtc_multi_trading_para": " is a limited company licensed and incorporated under the laws of the Dubai Multi Commodities Centre (No.DMCC-312687) and licensed by the Securities and Commodities Authority, United Arab Emirates (No.202200000007) to practice the activity of Commodity Brokerage - Trading and Clearing. Registered address: Unit No: 1501, 1 Lake Plaza, Plot No: JLT-PH2-T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates Website: ",
-      "gtc_global_heading": "GTC Global Ltd ",
-      "gtc_global_para": " is a limited company incorporated in Mauritius (company number: C188049) and licensed by the Financial Services Commission, Mauritius (No. GB22200292) to trade as an SEC-2.1B Investment Dealer. Registered Address: Cyberati Lounge, Ground Floor, the Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebene, Republic of Mauritius  Website: ",
-      "gtc_global_pty_heading": "GTC Global Pty Ltd",
-      "gtc_global_pty_para": " is a limited company incorporated in Australia (Australian Company Number: 611 436 796; Australia Business Number: 84 611 436 796) and regulated by the Australian Securities & Investments Commission as a financial services business. Registered Address: 138 Amalfi Drive, Surfers Paradise, QLD 4217, Australia",
-      "yellow2": "GTC Global Trade Capital Co., Limited, ",
-      "secPara": "  is a global finance brokerage company registered, supervised, and authorized by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354. ",
-      "yellow3": "GTC Global Trade Capital Limited (SVG)",
-      "thirdPara": "is registered as a corporate entity under the International Business Companies (Amendment and Consolidation) Act in Saint Vincent under license number 24503 IBC 2018.",
-      "fourthPara": " is registered as a corporate entity incorporated in the Republic of Cyprus with Registered Number HE 443759 and is acting as a payment agent only.",
-      "yellow4": "GTC Markets (CY) Ltd. ",
-      "fifthPara": "is registered as a corporate entity incorporated in the Republic of Cyprus with Registered Number HE 443759 and is acting as a payment agent only.",
-      "sixthPara": "The information on this website may only be copied with the explicit written consent of GTC.",
-      "sevenPara": "The entity mentioned above does not provide services to individuals residing in specific jurisdictions, which include the USA, Canada, North Korea, UK, Australia and ",
-      "veriousOther": "various others.",
-      "eightyellow": "Disclaimer:",
-      "eightPara": "Entities aforementioned do not provide services to individuals residing in specific jurisdictions and/or jurisdictions where distribution of such services would be contrary to local law or regulation."
+      "firstPara": " This website is owned and operated by GTC Global Ltd, a limited company incorporated in Mauritius (company number: C188049) and licensed by the Financial Services Commission, Mauritius (No. GB22200292) to trade as an SEC-2.1B Investment Dealer. Registered Address: Cyberati Lounge, Ground Floor, the Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebene, Republic of Mauritius. The financial services and products promoted on this website are offered by GTC Global Ltd and GTC Global Trade Capital Co. Limited, a company authorised by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354.",
+      "gtc_group_heading1": "GTC Global Ltd and GTC Global Trade Capital Co. Limited ",
+      "gtc_group_para1": " belong to the GTC Financial Group which consists of a group of entities across the globe. ",
+      "gtc_group_heading2": "GTC Multi Trading DMCC ",
+      "gtc_group_para2": " is a limited company licensed and incorporated under the laws of the Dubai Multi Commodities Centre (No.DMCC-312687) and licensed by the Securities and Commodities Authority, United Arab Emirates (No.202200000007) to practice the activity of Commodity Brokerage - Trading and Clearing. Registered address: Unit No: 1501, 1 Lake Plaza, Plot No: JLT-PH2-T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates Website: ",
+      "gtc_multi_trading_heading": "",
+      "gtc_multi_trading_para": " Investing in derivative products carries significant risks and may not be suitable for all investors. Leveraging in these instruments can increase the level of risk and potential loss exposure. Before making any decision to engage in foreign exchange trading or CFDs, it is essential to carefully assess your investment objectives, level of experience, and risk tolerance. You should only invest funds that you can afford to lose. We strongly encourage you to educate yourself thoroughly about the associated risks and, if you have any questions, seek advice from an independent financial or tax advisor.",
+      "gtc_global_para": " The financial products and services offered on this website are NOT provided by the following group entities and no recourse against the following entities is available. If you are interested in the products and services offered by each of the following entity, please visit their respective websites.  ",
+      "gtc_global_pty_heading": "GTC Global Ltd and GTC Global Trade Capital Co. Limited ",
+      "gtc_global_pty_para": "do not provide services to individuals residing in specific jurisdictions and/or jurisdictions where distribution of such services would be contrary to local law or regulation.",
+      "yellow2": "GTC Group LLC-FZ  ",
+      "secPara": " is a holding company incorporated in Dubai, United Arab Emirates with Business License Number: 2311147.01. Its registered office is at: Business Center 1, M Floor, Meydan Hotel, Nad Al Sheba, Dubai, United Arab Emirates. ",
+      "yellow4": "GTC Global (Australia) Pty Ltd,  ",
+      "fifthPara": "a company incorporated in Australia and holds an Australian Financial Services Licence number 496371. Its registered office is at the Executive Centre, Level 17, 123 Pitt Street, Sydney NSW 2000, Australia. GTC Global (Australia) Pty Ltd’s website is",
+         "eightPara": "Each of the entities within the GTC Financial Group is managed separately. The financial products and services offered on this website are ONLY provided by GTC Global Ltd and GTC Global Trade Capital Co. Limited."
     }
   },
   "footerCopyRight": {
@@ -2779,7 +2815,9 @@
       "leaderBoard": {
         "normal": "GTCFX",
         "bold": "LEADERBOARD",
-        "paragraph": "GTCFX ranks traders based on their trading performance. Social traders can select the best traders to copy, based on their capital and risk appetite."
+        "paragraph": "GTCFX ranks traders based on their trading performance. Social traders can select the best traders to copy, based on their capital and risk appetite.",
+        "topPer": "OUR TOP PERFORMERS",
+        "tradingHis": "Trading History Of The Provider"
       },
       "socialIconBoxes": {
         "title": "Why GTCFX?",
@@ -2905,7 +2943,7 @@
       },
       "unlockFullTrading": {
         "title": "Unlock Your Full Trading Potential",
-        "para": "Save hours of endless research with daily trading ideas and analysis directly onto your platform. Download the Signal Centre Tool and access entry levels, stop loss levels and target levels across multiple assets (Indices, Stocks, Currencies, Commodities and Cryptocurrencies)."
+        "para": "Save hours of endless research with daily trading ideas and analysis directly onto your platform. Download the Signal Centre Tool and access entry levels, stop loss levels and target levels across multiple assets (Indices, Stocks, Currencies, Commodities and Digital Currency Assets currencies)."
       },
       "tradingIdea": {
         "title": "Cut Through the Noise With Exclusive Trading Ideas",
@@ -3136,12 +3174,17 @@
           "title5": "Autochartist Mobile Application",
           "title6": "Subscribe to Autochartist Emails"
         },
+
         "AutochartistTypes": {
+          "heading1" : "Chart Patterns",
+          "des1": "Chart pattern formations that are identified by Autochartist include wedges, triangles, channels, rounding tops and bottoms, and many other patterns. Autochartist also indicates when the price action will reach a predicted target area.",
+          "heading2": "Horizontal Key Levels",
           "title": "Autochartist Analysis types",
           "type1": " Autochartist provides technical and statistical analysis and immediately recognises emerging and completed trade setups. Analysis types vary to cater for all types of traders, technical analysis types include: Chart patterns, Horizontal key levels, Fibonacci patterns and Statistical patterns such as Big movements and Consecutive candles.",
           "type2": "Autochartist Key levels identify horizontal support or resistance levels at significant price levels. This is the most popular analysis type as it is loved by all types of traders. It is simple to understand and ideal for the new trader and very valuable for more experienced and advanced traders.",
           "type3": "Everyone wants to know where the exceptionally large movements in the markets are, as the question is always “What is going to happen next?”. The Autochartist Big Movements and Consecutive Candle statistical patterns automatically identify large movements in the market.",
-          "type4": "Autochartist automatically identifies Fibonacci patterns that can visually illustrate certain levels at which either support or resistance is anticipated, according to the Golden ratio theory. Levels like that can play an instrumental role in setting up stop-loss levels and identifying trading objectives."
+          "type4": "Autochartist automatically identifies Fibonacci patterns that can visually illustrate certain levels at which either support or resistance is anticipated, according to the Golden ratio theory. Levels like that can play an instrumental role in setting up stop-loss levels and identifying trading objectives.",
+          "more": "Learn More"
         },
         "ReceiveSimilarNewsletter": {
           "title": "Receive Similar Newsletter",
@@ -3194,11 +3237,11 @@
         "des": "Maximize your trading potential at GTCFX! Get a 20% tradable bonus upto $20,000 and take your trading to the next level. Open your account today and start trading with extra funds to increase your investment opportunities."
       },
       "banner":{
-        "title": "Elevate Your Trading with Our Exclusive Bonus",
-        "subtitle": "Take your Trading to the Next Level Get 20% Tradable Bonus *up to $20,000",
-        "description": "Don't miss out on this opportunity to boost your trading journey. Open an account with GTCFX today and claim your tradable bonus",
+        "title": "Elevate Your Trading with a 20% Bonus!",
+        "subtitle": "Boost your trading journey with a 20% tradable and withdrawable bonus, applicable on funded accounts, up to $20,000.",
+        "description": "Simply open a live account, fund it, and apply for your bonus today with GTCFX. Don't miss this exclusive opportunity!",
         "validUntil": "Valid Until: 28 February 2025",
-        "button":"Claim Bonus",
+        "button":"Open Live Account",
         "tc": "*Terms and conditions apply. "
        },
        "banner2":{
@@ -3232,7 +3275,7 @@
       },
       "invest":{
         "title":"Important Details You Need to Know",
-        "subTitle":"The tradable bonus is available for new deposits and is subject to terms and conditions. The bonus can be traded but not withdrawn. Trading terms apply. Please read our full terms and conditions to understand the eligibility and withdrawal criteria.",
+        "subTitle":"The tradable bonus is available for new deposits and is subject to terms and conditions. Trading terms apply. Please read our full terms and conditions to understand the eligibility and withdrawal criteria.",
         "des": "Globaly Trusted & Multi-Regulated",
         "point": {
           "one": "FCA｜ASIC｜SCA ｜FSCM｜VFSC",
@@ -3257,11 +3300,12 @@
       "term8": "Clients must complete trading requirements within 90 days of receiving the bonus. If the full trading requirements are not met at the time of expiry, clients are only entitled to a percentage of the bonus calculated pro rata.",
       "term9": "This bonus cannot be used in combination with any other bonuses.",
       "term10": "This bonus only applies to Standard Account and PRO Accounts Only.",
-      "term11": "Indices, Shares and Crypto trading do not count into trading volume requirements.",
+      "term11": "Indices, Shares and Digital Currency Assets trading do not count into trading volume requirements.",
       "term12": "GTC reserves the right to correct the trading calculation in the event of any suspected abuse or manipulation of this bonus policy and promotion.",
       "term13": "Clients who are trading under a MAM, PAMM and EA are not entitled to any bonus.",
       "term14": "If the client's positions are closed due to a stop out before having the bonus added, the client is not eligible for the bonus.",
-      "note": "Note: This offer is not for applicable to the peoples of China, Pakistan, Egypt and Indonesia.",
+      "term15": "The bonus is applicable for Exsiting account, if you dont dont have a trading acc then pls click here to open a live acc.",
+      "note": "Note: This offer is not for applicable to the peoples of China, Pakistan, Bangladesh, Malaysia, Turkey, Egypt and Indonesia.",
       "button": "View More Details"
     },
     "clientAgreement": {
@@ -3331,7 +3375,7 @@
           "seven": "Clients must complete trading requirements within 90 days of receiving the bonus. If the full trading requirements are not met at the time of expiry, clients are only entitled to a percentage of the bonus calculated pro rata.",
           "eight": "This bonus cannot be used in combination with any other bonuses.",
           "nine": "This bonus only applies to Standard Account and PRO Accounts Only.",
-          "ten": "Indices, Shares and Crypto trading do not count into trading volume requirements.",
+          "ten": "Indices, Shares and Digital Currency Assets trading do not count into trading volume requirements.",
           "eleven": "GTC reserves the right to correct the trading calculation in the event of any suspected abuse or manipulation of this bonus policy and promotion.",
           "twelve": "Clients who are trading under a MAM or PAMM are not entitled to any bonus.",
           "thirteen": "If the client's positions are closed due to a stop out before having the bonus added, the client is not eligible for the bonus."
@@ -3571,7 +3615,85 @@
         "description2": "Attend Our Webinar for a Chance to Win 5,000 USC When You Open a Live Account!",
         "description3": "Be one of 50 lucky winners—don’t miss out! Secure your spot now and take your trading experience with GTCFX to the next level!"
       }
+    },
+    "dayCourse": {
+    "metaData": {
+      "title": "Day Trading Intensive Course | Unlock Your Trading Potential!",
+      "des": "Join us for a free 3-day intensive course designed to take you from the basics to advanced strategies and improve your trading skills."
+    },
+    "hero": {
+      "webinarTitle": "How can you take your trading to the next level in just 3 days?",
+      "webinarSubtitle": "Join this exclusive educational event, where we’ll cover everything you need to know to start trading with confidence and success. ",
+      "webinarDescription": "From understanding the fundamentals of trading to mastering risk management and technical analysis, this course is your gateway to becoming a more competent trader. ",
+      "webinarDate": "Course Dates: February 12, 13, and 14 | Time: 7:30 PM (Chile Time)",
+      "webinarPlatform": "Registration Deadline: February 10 (Zoom - Online)",
+      "registerButton": "Register Now!"
+    },
+    "whoShouldAttend": {
+      "title": "Who Is This For?",
+      "productTitles": {
+        "investorsTraders": "Aspiring traders",
+        "financialProfessionals": "Financial professionals",
+        "businessLeaders": "Investors looking to learn how to trade",
+        "studentsAcademics": "Students interested in financial markets",
+        "interestedInTrading": "Anyone interested in learning how to trade"
+      }
+    },
+    "FindOut": {
+      "sectionTitle": "Discover How This Intensive Will Boost Your Trading Skills!",
+      "description": "In this 3-day intensive course, you'll gain valuable insights into both technical and fundamental analysis, as well as practical risk management techniques to make better trading decisions.",
+      "cards": [
+        {
+          "title": "Day 1: Trading Fundamentals and Tools\nLearn the basics of trading: Forex, Futures, Stocks\nDiscover essential tools like MetaTrader 4/5 and TradingView\nUnderstand different trading styles: Scalping, Day Trading, Swing Trading",
+          "paragraph": "Day 2: Risk Management and Technical Analysis\nMaster risk management: Position sizing, Stop Loss, Take Profit\nLearn how to identify key patterns in charts and technical indicators\nUnderstand market structure and key support and resistance levels"
+        },
+        {
+          "title": "Day 3: Fundamental Analysis and Trading Plan\nLearn to interpret economic news: GDP, inflation, interest rates\nCreate your own trading plan with specific entry/exit rules\nLearn to adapt your trading plan to changing market conditions",
+          "paragraph": "What You’ll Learn:"
+        },
+        {
+          "title": "Practical experience with leading trading platforms",
+          "paragraph": "A comprehensive understanding of trading"
+        },
+        {
+          "title": "Knowledge on how to manage risks and create a personalized trading plan",
+          "paragraph": "Strategies to navigate both technical and fundamental analysis"
+        }
+      ]
+    },
+    "registation": {
+      "platform": "Platform: Zoom (Online)",
+      "date": "Date: February 12, 13, and 14",
+      "time": "Time: 7:30 PM (Chile Time)",
+      "note": "Note: This course is educational and will not include financial recommendations."
+    },
+    "joinUs": {
+      "sectionTitle": "Don’t Miss Out – Register Now and Start Your Trading Journey!",
+      "sectionDescription": "This is your opportunity to gain essential knowledge to start trading and take the first step towards financial freedom. With limited spots available, secure yours today and begin your journey toward trading success with us.",
+      "steps": [
+        {
+          "stepDescription": "Register Now",
+          "stepText": "Register for Free"
+        },
+        {
+          "stepDescription": "Confirm",
+          "stepText": "Registration Deadline: February 10"
+        },
+        {
+          "stepDescription": "Join the Free 3-Day Trading Intensive Course!",
+          "stepText": "Meet Your Instructor: David Ceballos"
+        }
+      ],
+      "registerButton": "Register Now"
+    },
+    "aboutUs": {
+      "title": "Course taught by our Market Analyst",
+      "sectionTitle": "Meet David Ceballos: The Expert You Need!",
+      "description1": "With years of experience in global financial markets, David Ceballos is a respected expert in trading and financial analysis. His knowledge and strategies have helped countless individuals make informed trading decisions. Don’t miss the chance to learn directly from a leader in the industry!",
+      "description2": "Join our intensive course and take your trading to the next level",
+      "description3": "Secure your spot in this free intensive! Don’t miss out. Register now and start transforming your trading experience with the guidance of David Ceballos."
     }
+  }
   },
   "cookies": {
     "text": "By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",
@@ -3597,5 +3719,21 @@
     "option4":"Learner",
     "option5":"Looking for Liquidity",
     "option6":"None of above"
+  },
+  "swapUpdate" : {
+    "metaData": {
+      "title": "Swap Update for Forex, Metals, Crypto, Energy & Indices - GTCFX",
+      "des": "Discover the latest swap rates and updates for Forex, Metals, Crypto, Energy, and Indices. Stay ahead in the markets with real-time insights and expert analysis at GTCFX. Maximize your trading potential today!"
+    },
+    "content": {
+      "heading1" : "Swap Update",
+      "des1": "Swap details last updated on January 25, 2025.",
+      "des2": "Please note all the interest rates indicative only, actual rate can be seen on the client trading platform, symbol specification.",
+      "tab1": "Forex",
+       "tab2": "Metal",
+        "tab3": "Energy",
+         "tab4": "Crypto",
+          "tab5": "Indices"
+    }
   }
 }

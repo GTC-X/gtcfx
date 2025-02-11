@@ -56,16 +56,7 @@ const kufi = localFont({
 export function generateStaticParams() {
   return [
     { locale: "en" },
-    { locale: "zh-hans" },
-    { locale: "ar-AE" },
-    { locale: "ms-MY" },
-    { locale: "hi-IN" },
-    { locale: "id-ID" },
-    { locale: "fr-FR" },
-    { locale: "es-ES" },
-    { locale: "vi-VN" },
-    { locale: "fa-IR" },
-    { locale: "ja-JP" },
+       { locale: "id-ID" }
   ];
 }
 
