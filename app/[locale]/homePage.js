@@ -9,10 +9,11 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import LocationContextProvider from "../../context/location-context";
 import { LiveChatWidget } from "@livechat/widget-react";
-import DirectAccess from "./components/home/DirectAccess";
-import Map from "./components/home/Map";
-import ClientLogo from "./components/home/ClientLogo";
 import AssesAsset from "./components/home/AssesAsset";
+import { useParams } from "next/navigation";
+import ClientsNetwork from "./components/home/ClientsNetwork";
+import ClientPayments from "./components/home/ClientPayments";
+import LiquiditySolutions from "./components/home/LiquiditySolutions";
 import TradingPlatform from "./components/home/TradingPlatform";
  
 export default function HomePage() {
@@ -75,18 +76,16 @@ export default function HomePage() {
 
   return (
     <>
-      <LiveChatWidget license="13507356" />
-      <LocationContextProvider>
+        <LocationContextProvider>
         <Hero />
         <StatCounter stats={statsOne} />
         <WhyGTC />
-        <Markets />
+        <LiquiditySolutions />
         <TradingPlatform />
         <SecurityFund />
-        <AssesAsset assetData={assetData} title={t("products.heading")} columns={4} />
-        <DirectAccess />
-        <Map />
-        <ClientLogo />
+        <Markets /> 
+        <ClientsNetwork />
+        <ClientPayments />
         {/* <CompanyNews/> */}
       </LocationContextProvider>
     </>

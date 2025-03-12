@@ -1,9 +1,14 @@
 import { useTranslations } from "next-intl";
 import { useEffect, useRef } from "react";
+import TradingPlatform from "./TradingPlatform";
+import { usePathname } from "next/navigation";
 
 export default function Markets() {
   const widgetRef = useRef(null);
   const t = useTranslations("home.markets_ct");
+  const path= usePathname();
+  const isAr = path.includes("/ar-AE");
+  const isCh = path.includes("/zh-hans");
 
   useEffect(() => {
     if (widgetRef.current) {
@@ -22,7 +27,8 @@ export default function Markets() {
         showChart: true,
         locale: "en",
         largeChartUrl: "https://mygtcportal.com/getview?view=register&token=exhowwwwe2owwwww&_gl=1*19bpo5s*_gcl_au*MzQyNTMwNDY3LjE3MjMyMjM2MTE.",
-        isTransparent: true,
+        isTransparent: false, // Ensures the background color is applied
+        backgroundColor: "black", // ✅ Add this line
         showSymbolLogo: true,
         showFloatingTooltip: true,
         width: "100%",
@@ -93,11 +99,13 @@ export default function Markets() {
       console.log("Appending script to widgetRef");
       widgetRef.current.appendChild(script);
     }
-  }, []);
+  }, []); 
 
   const iframeContainerStyle = {
     position: 'relative',
-    height: '500px'
+    height: '622px',
+    borderRadius: '6px'
+
   };
 
   const iframeOverlayStyle = {
@@ -105,37 +113,68 @@ export default function Markets() {
     bottom: 0,
     left: 0,
     right: 0,
-    height: '84px',
+    height: '40px',
     backgroundColor: 'white', // Or match your page background color
     zIndex: 10,
   };
+  let pathUrl;
 
+  if (isAr) {
+    pathUrl = "https://www.tradays.com/ar/economic-calendar/widget?mode=2&utm_source=mountaxis.com";
+  } else if (isCh) {
+    pathUrl = "https://www.tradays.com/zh/economic-calendar/widget?mode=2&utm_source=mountaxis.com"; // Assuming you have a zh-2.webp for Chinese
+  } else {
+    pathUrl = "https://www.tradays.com/en/economic-calendar/widget?mode=2&utm_source=mountaxis.com"; // Default image
+  }
 
   return (
     <>
-      <section className="md:py-16 3xl:py-20 py-8 container border-b border-t border-b-gray-300 h-[750px]">
-       <div className="text-center">
-        <h2 className="HeadingH2 mb-8 bg-gradient-to-r from-primary to-secondary inline-block text-transparent bg-clip-text text-center">
+      <section className="pt-10 lg:py-[70px] bg-primary">
+      <div className="container">
+      <div className="text-center">
+        <h2 className="HeadingH2 md:mb-3 bg-gradient-to-r from-secondary via-[#dcc8b2]  from-10% to-secondary to-90% inline-block text-transparent bg-clip-text font-medium">
           {t("title")}
         </h2>
-        <p className="text-accent md:text-base text-sm 2xl:text-[17px] text-center max-w-4xl mx-auto">{t("sub_title")}
+        <p className="text-white md:text-base text-sm 2xl:text-[17px] max-w-6xl mx-auto mb-5">{t("sub_title")}
         </p>
         </div>
-      
-      
-      <div style={iframeContainerStyle}>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-start"> 
+       
+        <div style={iframeContainerStyle}>
      
-        <div className="tradingview-widget-container" ref={widgetRef}>
-          <div className="tradingview-widget-container__widget"></div>
-          <div className="tradingview-widget-copyright">
-            <a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">
-              <span className="blue-text"></span>
-            </a>
-          </div>
+     <div className="tradingview-widget-container" ref={widgetRef}>
+       <div className="tradingview-widget-container__widget"></div>
+       <div className="tradingview-widget-copyright">
+         <a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">
+           <span className="blue-text"></span>
+         </a>
+       </div>
+     </div>
+     {/* Add this div to cover the bottom 30px */}
+     <div style={iframeOverlayStyle}></div>
+   </div>
+   <div className="text-left">
+   
+       
+        <iframe
+          src={pathUrl}
+          width="100%"
+          height="620px"
+          style={{ border: "unset" }} // Use an object for inline styles
+          className="border-none" // Add Tailwind class for border-none
+        ></iframe>
         </div>
-        {/* Add this div to cover the bottom 30px */}
-        <div style={iframeOverlayStyle}></div>
-      </div>
+        </div>
+       
+        
+  
+        </div>
+        
+       
+      
+      
+     
+      
     </section>
     </>
    

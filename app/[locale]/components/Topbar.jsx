@@ -5,9 +5,12 @@ import Link from "next-intl/link";
 import { MdOutlineLogin } from "react-icons/md";
 import Language from "./Language";
 import { useLocationDetail } from "@/context/useLocationDetail";
+import { BsTelephoneFill } from "react-icons/bs";
+import { MdEmail } from "react-icons/md";
 
 const TopBar = ({ currentLanguage, isAr, href }) => {
     const t = useTranslations("navigation");
+     const t2 = useTranslations("footerLink");
     const router = useRouter();
     const locale = useLocale();
     const location = useContext(useLocationDetail);
@@ -47,23 +50,28 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
     const registerLink = `${baseLink}`;
 
     return (
-        <section className="hidden md:block border-b border-gray-200 bg-gray-100" id="register1">
+        <section className="hidden md:block border-b border-gray-200 bg-primary text-white" id="register1">
             <div className="container flex flex-row justify-between items-center">
-                <div className="content-top border-l pl-2 flex flex-row gap-2">
-                    <p className="text-[14px] font-[400] flex gap-2 py-4 ">
-                        {t("tobbar.partner")}
-                        <img src="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/nasdaq.webp" width={24} height={18} />
-                    </p>
-                </div>
+            <div className="content-top flex flex-row gap-2">
+  <p className="text-[14px] font-[400] flex items-center gap-4 py-3">
+   
+    {/* White separator line */}
+    <span className="h-4 border-l border-white"></span>
+    <Link href="mailto:support@gtcfx.com" className="flex items-center gap-2 hover:text-secondary text-sm">
+      <MdEmail /> {t2("contact.menu2")} support@gtcfx.com
+    </Link>
+  </p>
+</div>
+
                 <div className={`flex items-center gap-2 ${isAr ? "rtl:md:mr-4" : "ltr:md:ml-4"}`}>
                     <div className="flex flex-col lg:flex-row">
-                        <Link href={newClientPortalLink} target="_blank" className="hidden text-primary hover:bg-primary hover:text-white text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
+                        <Link href={newClientPortalLink} target="_blank" className="hidden text-white uppercase hover:bg-white hover:text-secondary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
                             <MdOutlineLogin size={20} />
                             {t("new_client_portal")}
                         </Link>
                     </div>
                     <div className="flex flex-col lg:flex-row">
-                        <Link href={accountLink} target="_blank" className="hidden text-white uppercase bg-[#29a643] hover:bg-primary hover:text-white text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
+                        <Link href={accountLink} target="_blank" className="hidden text-white uppercase bg-[#29a643] hover:bg-white hover:text-primary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
                             {t("tobbar.account")}
                         </Link>
                     </div>

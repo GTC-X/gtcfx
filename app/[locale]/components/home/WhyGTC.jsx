@@ -46,63 +46,68 @@ const WhyGTC = () => {
   ];
 
   return (
-    <section className="md:py-16 3xl:py-28 py-8 px-5 text-center bg-[url('/BG-11.webp')] bg-cover bg-center"> 
+    <section className="py-10 lg:py-[70px] text-center"> 
       <div className="container">
-        <h2 className="HeadingH2 bg-gradient-to-r from-white to-secondary inline-block text-transparent bg-clip-text">{t("title")}</h2>
-        <p className="text-white md:text-base 2xl:text-[17px] text-sm text-center">
+        <h2 className="HeadingH2 font-medium">{t("title")}</h2>
+        <p className="text-primary md:text-base 2xl:text-[17px] text-xs text-center">
           {t("desc")}
         </p>
-        <div className="flex flex-row items-center justify-between gap-2 md:gap-4 pt-10">
-          <div className="basis-full md:basis-1/5 flex flex-col gap-6 md:gap-24 justify-around items-center">
+        <div className="flex flex-row items-center justify-between gap-4 pt-8">
+          <div className="basis-full md:basis-1/5 flex flex-col gap-10 justify-around items-center pt-5">
             {featuresColumn1.map((feature, index) => (
               <div
                 key={index}
-                className="text-center md:flex md:flex-col items-center justify-center gap-3 md:w-96"
+                className="text-center md:flex md:flex-col items-center justify-center gap-4 md:w-96"
               >
-                <button className="bg-gray-400 text-sm rounded-full text-white px-3 h-6 mb-3">
+                <button className="bg-secondary text-[10px] md:text-xs rounded-full text-white px-3 h-5">
                   {feature.miniheading}
                 </button>
-                <h3 className="text-secondary md:text-lg xl:text-xl 3xl:text-[24px] text-xs  m-0 p-0 text-center pb-4 flex gap-2 items-center ">
-                    <p className="text-white text-2xl md:text-5xl">{feature.icon}</p>
-                    {feature.heading}
+                <div className="text-center flex flex-row gap-2 items-center  justify-center">
+                <p className="text-secondary text-xl md:text-3xl">{feature.icon}</p>
+                <h3 className="bg-gradient-to-r from-primary via-primary  from-10% to-secondary to-90% my-2 text-transparent bg-clip-text md:text-lg xl:text-xl 3xl:text-[24px] text-xs  m-0 p-0 ">
+                     {feature.heading}
                 </h3>
-                <p className=" text-[#fff] md:text-base xl:text-lg 3xl:text-[17px] text-[9px] m-0 text-center">
+                </div>
+                
+                <p className=" text-primary md:text-base xl:text-base text-[9px] max-w-xs mx-auto m-0 text-center">
                   {feature.text}
                 </p>
               </div>
             ))}
           </div>
-          <div className="hidden md:block md:basis-4/5 relative w-full h-64 md:h-[700px]">
+          <div className="hidden md:block md:basis-4/5 relative w-full h-64 md:h-[400px]">
             <Image
-              src="/newmobile.webp"
+              src="/asset.webp"
               alt="Invest with GTC"
               fill
               className="object-contain"
             />
           </div>
-          <div className="basis-full md:basis-1/5 flex flex-col gap-6 md:gap-24 justify-center items-center">
+          <div className="basis-full md:basis-1/5 flex flex-col gap-10 justify-center items-center pt-5">
             {featuresColumn2.map((feature, index) => (
               <div
                 key={index}
-                className="text-center flex flex-col md:flex-col items-center justify-center md:gap-1 md:w-96"
+                className="text-center md:flex md:flex-col items-center justify-center gap-4 md:w-96"
               >
-                <button className="bg-gray-400 rounded-full text-white px-3 h-6 mb-3">
+                <button className="bg-secondary text-[10px] md:text-xs rounded-full text-white px-3 h-5">
                   {feature.miniheading}
                 </button>
-                <h3 className="text-secondary md:text-lg xl:text-xl 3xl:text-[24px] text-xs  m-0 p-0 text-center pb-4 flex gap-2 items-center ">
-                <p className="text-white text-2xl md:text-5xl">{feature.icon}</p>
-                  {feature.heading}
+                <div className="text-center flex flex-row gap-2 items-center  justify-center">
+                <p className="text-secondary text-xl md:text-3xl">{feature.icon}</p>
+                <h3 className="bg-gradient-to-r from-primary via-primary  from-10% to-secondary to-90% my-2 text-transparent bg-clip-text md:text-lg xl:text-xl 3xl:text-[24px] text-xs  m-0 p-0 ">
+                     {feature.heading}
                 </h3>
-                <p className="text-[#fff] md:text-base xl:text-lg 3xl:text-[17px] text-[9px] m-0 text-center">
+                </div>
+                <p className="text-primary md:text-base xl:text-base text-[9px] m-0 text-center">
                   {feature.text}
                 </p>
               </div>
             ))}
           </div>
         </div>
-        <div className="container text-white flex flex-col justify-center items-center py-4  gap-2 md:gap-4 text-xs md:text-base 2xl:text-[17px]">
+        <div className="container text-primary flex flex-col justify-center items-center gap-2 pt-8 md:pt-0 md:gap-4 text-xs md:text-base 2xl:text-[17px]">
           <p>{t("desc2")}</p>{" "}
-         <LiveAccountButton hoverStyle="bg-gradient-to-b from-white via-white from-10% to-white to-90% text-[#000] hover:text-white"
+         <LiveAccountButton hoverStyle="text-white hover:text-white"
          />
         </div>
       </div>

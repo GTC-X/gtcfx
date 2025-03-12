@@ -157,39 +157,7 @@ const Footer = () => {
         },
       ],
     },
-    {
-      title: t("policy.label"),
-      links: [
-        {
-          name: t("policy.menu1"),
-          link: "/privacy-policy",
-        },
-        {
-          name: t("policy.menu2"),
-          link: "/withdrawal-policy",
-        },
-        {
-          name: t("policy.menu3"),
-          link: "/kyc-compliance-policy",
-        },
-        {
-          name: t("policy.menu4"),
-          link: "/deposit-and-refund-policy",
-        },
-        {
-          name: t("policy.menu5"),
-          link: "/customer-due-diligence-policy",
-        },
-        {
-          name: t("policy.menu6"),
-          link: "/terms-and-conditions",
-        },
-        {
-          name: t("policy.menu7"),
-          link: "/risk-warning",
-        },
-      ],
-    },
+
   ];
   const contact = [
     {
@@ -226,7 +194,7 @@ const Footer = () => {
       <div
         className={`bg-primary pb-10 z-30 ${isNotHomePage ? "pt-[8%] sm:pt-[18%] lg:pt-[16%] xl:pt-[12%] 2xl:pt-[10%] 3xl:pt-[9%] 4xl:pt-[6%]" : "pt-10"}`}
       >
-        <div className="container grid grid-cols-2 md:grid-cols-2 lg:grid-cols-5 gap-4 md:gap-8 px-3">
+        <div className="container grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 px-3">
           {footerLinks.map((footerlink) => (
             <div key={footerlink.title}>
               <h4 className="font-regular pb-2 text-secondary text-base underline-offset-1 ">
@@ -281,7 +249,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
-        <div className="max-width md:flex justify-start items-center mt-8 pt-8 border-t border-y-cyan-50 border-opacity-40 px-2 ">
+        <div className="container md:flex justify-start items-center mt-8 pt-8 border-t border-y-cyan-50 border-opacity-40 px-2 ">
           <div className="md:basis-3/12 md:flex flex-wrap justify-center md:pr-10 pb-5">
             <Link href="/" locale="en">
               <Image
@@ -308,6 +276,9 @@ const Footer = () => {
                 height={100}
                 alt="iso icon"
               />
+            </div>
+            <div className="relative w-full h-[200px]">
+                <Image src="/footer-map.png" fill alt="GTC Map" className="object-contain" />
             </div>
           </div>
           <div className="md:basis-9/12 text-xs text-white text-opacity-70 space-y-3 leading-5">
@@ -342,13 +313,13 @@ const Footer = () => {
               <span className="text-secondary">
                 {t("footerNotice.gtc_group_heading2")}
               </span>
-              {t("footerNotice.gtc_group_para2")} <a className="text-secondary" href="https://gtcmtd.com" target="_blank">www.gtcmtd.com</a>
+              {t("footerNotice.gtc_group_para2")} <a className="text-secondary" href="www.gtcmtd.com" target="_blank">www.gtcmtd.com</a>
             </p>
             <p>
               <span className="text-secondary">
                 {t("footerNotice.yellow4")}
               </span>
-              {t("footerNotice.fifthPara")} <a className="text-secondary" href="https://gtcau.com.au/" target="_blank">www.gtcau.com.au.  </a>
+              {t("footerNotice.fifthPara")} <a className="text-secondary" href="www.gtcau.com.au" target="_blank">www.gtcau.com.au.  </a>
             </p>
           
            
@@ -356,7 +327,12 @@ const Footer = () => {
             
               {t("footerNotice.eightPara")}{" "}
             </p>
-         
+          <div className="flex flex-row flex-wrap justify-center md:justify-start gap-4 items-center">
+                <Link target="_blank" href="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/pdf-files/PRIVACY+POLICY+GTCFX.pdf" className="text-center text-white py-2 w-36 border border-gray-100 border-opacity-10 hover:bg-white hover:text-primary">{t("policy.menu1")}</Link>
+                <Link target="_blank" href="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/pdf-files/Risk+Warning.pdf" className="text-center text-white py-2 w-36 border border-gray-100 border-opacity-10 hover:bg-white hover:text-primary">{t("policy.menu7")}</Link>
+                <Link target="_blank" href="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/pdf-files/Cookie+Policy.pdf" className="text-center text-white py-2 w-36 border border-gray-100 border-opacity-10 hover:bg-white hover:text-primary">{t("policy.menu8")}</Link>
+                <Link target="_blank" href="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/pdf-files/Website+Disclaimer.pdf" className="text-center text-white py-2 w-36 border border-gray-100 border-opacity-10 hover:bg-white hover:text-primary">{t("policy.menu9")}</Link>
+          </div>
           </div>
         </div>
       </div>

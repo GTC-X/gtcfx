@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
+import Link from "next-intl/link";
 
 const SecurityFund = () => {
   const path = usePathname();
@@ -8,12 +9,12 @@ const SecurityFund = () => {
 
   const t = useTranslations("home.security_of_funds");
   return (
-    <section className="securityFund py-3 pb-5 text-white border-t border-b border-gray-300 shadow-3xl bg-gradient-to-t from-[#243586] from-10% via-[#222e73] via-30% to-[#141b43]">
+    <section className="securityFund py-3 pb-5 text-white border-t border-b border-gray-100 border-opacity-10 shadow-3xl bg-primary">
       <div className="container">
         <div className="flex flex-row justify-start items-start gap-1">
-          <div className="basis-1/6 relative h-10 md:h-14 w-full justify-start">
+          <div className="basis-1/6 relative h-10 md:h-16 w-full justify-start">
             <Image
-              src="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/home/lock.webp"
+              src="/icons-new/securty.webp"
               fill
               alt="Security"
               className="object-contain"
@@ -24,7 +25,7 @@ const SecurityFund = () => {
               {t("title")}
             </h2>
             <p className={`text text-white md:text-sm text-xs text-left ltr:text-left rtl:text-right`}>
-            {t("desc")}
+            {t("desc")} <Link href="/compensation-fund" className="underline text-secondary capitalize" >{t("click")}</Link>
             </p>
           </div>
         </div>

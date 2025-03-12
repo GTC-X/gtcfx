@@ -90,20 +90,7 @@
         "en_short_name": "Aruba",
         "nationality": "Aruban"
     },
-    {
-        "num_code": "36",
-        "alpha_2_code": "AU",
-        "alpha_3_code": "AUS",
-        "en_short_name": "Australia",
-        "nationality": "Australian"
-    },
-    {
-        "num_code": "40",
-        "alpha_2_code": "AT",
-        "alpha_3_code": "AUT",
-        "en_short_name": "Austria",
-        "nationality": "Austrian"
-    },
+   
     {
         "num_code": "31",
         "alpha_2_code": "AZ",
@@ -1659,13 +1646,7 @@
         "en_short_name": "United Arab Emirates",
         "nationality": "Emirati, Emirian, Emiri"
     },
-    {
-        "num_code": "826",
-        "alpha_2_code": "GB",
-        "alpha_3_code": "GBR",
-        "en_short_name": "United Kingdom",
-        "nationality": "British, UK"
-    },
+    
     {
         "num_code": "581",
         "alpha_2_code": "UM",
@@ -1673,13 +1654,7 @@
         "en_short_name": "U.S. Minor Outlying Island",
         "nationality": "American"
     },
-    {
-        "num_code": "840",
-        "alpha_2_code": "US",
-        "alpha_3_code": "USA",
-        "en_short_name": "United States",
-        "nationality": "American"
-    },
+   
     {
         "num_code": "858",
         "alpha_2_code": "UY",
