@@ -90,8 +90,7 @@ const images = [
     <Hero/>
     <WhyPartnerWithGtc title={t("theBest.label1")} subHeading="" reasons={"/newIB1.webp"}/>
   
-    <JoinUs/>
-    <IBProgramSection/>
+   
    
     <HowToBecomeIB
       title={t("howWork.title")}
