@@ -32,7 +32,7 @@ const MamAccountPage = () => {
            content={t("banner.des1")}  
         imageUrl="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/account/mam.webp" 
         buttonText={t("CallAction.liveAccount")}
-        buttonLink="https://mygtcportal.com/getview?view=register&token=exhowwwwe2owwwww&_gl=1*1g5z67s*_gcl_au*NzY2Mjg3ODMyLjE3MjU4ODMzNzk."  
+        buttonLink="https://web.mygtc.app/login/register?code=2544249&scope=1&_gl=1*1g5z67s*_gcl_au*NzY2Mjg3ODMyLjE3MjU4ODMzNzk."  
       />
       <FrequentlyAskedQuestions data={accordionData} />
     </>

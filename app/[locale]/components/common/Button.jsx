@@ -27,7 +27,7 @@ const Button = () => {
       isJapanese ? 'https://mygtcportal.com/getview?view=register&token=e2v3owww2wowwwww' :
         isPakistani ? 'https://mygtcportal.com/getview?view=register&token=e9tcowwwjowwwwww' :
           isIndian ? 'https://mygtcportal.com/getview?view=register&token=e9t3owwwrowwwwww' :
-            'https://mygtcportal.com/getview?view=register&token=exhowwwwe2owwwww'; // Default link
+            'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Default link
 
 
   return (

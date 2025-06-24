@@ -36,7 +36,7 @@ const ContactUsPage = () => {
 
   return (
     <>
-      <section className="main-content py-12">
+      <section className="main-content pt-12">
         <div className="container relative z-30">
           <div className="max-w-6xl mx-auto text text-left">
             <div className="flex flex-row items-center justify-start gap-2 md:mb-6">
@@ -55,27 +55,7 @@ const ContactUsPage = () => {
               {t("sub_title1_2")}
             </p>
 
-            <div className="grid grid-cols-2 md:grid-cols-3 justify-center items-center gap-6 md:gap-8 pt-6">
-              {tradingBenefits.map((benefit, index) => (
-                <Link
-                  key={index}
-                  target="_blank"
-                  href={benefit.link}
-                  className={`flex bg-gray-100 items-center justify-center gap-2 px-3 md:px-12 py-2 md:py-3 group hover:bg-secondary rounded-3xl hover:rounded-3xl hover:cursor-pointer transition-all duration-300 hover:shadow-xl ${
-                    index === tradingBenefits.length - 1
-                      ? "md:col-span-1 col-span-2"
-                      : "col-span-1"
-                  }`}
-                >
-                  <span className="group-hover:text-[#FFF] text-lg md:text-2xl">
-                    {benefit.icon}
-                  </span>
-                  <span className="text-primary group-hover:text-[#FFF] text-sm 2xl:text-[17px]">
-                    {benefit.text}
-                  </span>
-                </Link>
-              ))}
-            </div>
+            
           </div>
         </div>
       </section>

@@ -7,7 +7,7 @@ import Language from "./Language";
 import { useLocationDetail } from "@/context/useLocationDetail";
 import { BsTelephoneFill } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
-
+import { FaWhatsapp } from "react-icons/fa";
 const TopBar = ({ currentLanguage, isAr, href }) => {
     const t = useTranslations("navigation");
      const t2 = useTranslations("footerLink");
@@ -27,19 +27,19 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
     // Define base links for different regions
     const baseLink = (() => {
         if (isIranianOrFarsi) {
-            return 'https://mygtcportal.com/getview?view=register&token=es8owwwwAowwwwww'; // Iranian or Farsi
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Iranian or Farsi
         } else if (isEuropean) {
-            return 'https://my.gtcfx.com/getview?view=register&token=exhowwwwe2owwwww'; // European
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // European
         } else if (isChilean) {
-            return 'https://mygtcportal.com/getview?view=register&token=eKwpowwwAowwwwww'; // Chilean token
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Chilean token
         } else if (countryCode === 'JP') {
-            return 'https://mygtcportal.com/getview?view=register&token=e2v3owww2wowwwww'; // Japanese
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Japanese
         } else if (countryCode === 'PK') {
-            return 'https://mygtcportal.com/getview?view=register&token=e9tcowwwjowwwwww'; // Pakistani
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Pakistani
         } else if (countryCode === 'IN') {
-            return 'https://mygtcportal.com/getview?view=register&token=e9t3owwwrowwwwww'; // Indian
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Indian
         } else {
-            return 'https://mygtcportal.com/getview?view=register&token=exhowwwwe2owwwww'; // Default
+            return 'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Default
         }
     })();
 
@@ -56,9 +56,18 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
   <p className="text-[14px] font-[400] flex items-center gap-4 py-3">
    
     {/* White separator line */}
-    <span className="h-4 border-l border-white"></span>
+ 
     <Link href="mailto:support@gtcfx.com" className="flex items-center gap-2 hover:text-secondary text-sm">
       <MdEmail /> {t2("contact.menu2")} support@gtcfx.com
+    </Link>
+     <span className="h-4 border-l border-white"></span>
+     <Link
+       href="https://wa.me/448000488461"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex items-center gap-2 hover:text-secondary text-sm"
+    >
+      <FaWhatsapp /> +44 800 048 8461
     </Link>
   </p>
 </div>
@@ -67,7 +76,13 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
                     <div className="flex flex-col lg:flex-row">
                         <Link href={newClientPortalLink} target="_blank" className="hidden text-white uppercase hover:bg-white hover:text-secondary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
                             <MdOutlineLogin size={20} />
-                            {t("new_client_portal")}
+                            {t("new_client_portal")} 1
+                        </Link>
+                    </div>
+                    <div className="flex flex-col lg:flex-row">
+                        <Link href='https://web.mygtc.app/login/login' target="_blank" className="hidden text-white uppercase hover:bg-white hover:text-secondary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
+                            <MdOutlineLogin size={20} />
+                            {t("new_client_portal")} 2
                         </Link>
                     </div>
                     <div className="flex flex-col lg:flex-row">

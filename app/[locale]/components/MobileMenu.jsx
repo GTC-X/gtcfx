@@ -71,7 +71,7 @@ export default function MobileMenu(props) {
             </div>
             <div className="">
               <Link
-                href="https://mygtcportal.com/getview?view=register&token=exhowwwwe2owwwww"
+                href="https://web.mygtc.app/login/register?code=2544249&scope=1"
                 target="_blank"
                 className=" uppercase border-secondary hover:bg-primary hover:text-white text-[11px] border  px-3 py-[6px] md:flex gap-2 items-center"
               >
