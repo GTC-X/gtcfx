@@ -25,13 +25,13 @@ const LiveAccountButton = ({ hoverStyle, link }) => {
                     isJapanese ? 'https://mygtcportal.com/getview?view=register&token=e2v3owww2wowwwww' :
                     isPakistani ? 'https://mygtcportal.com/getview?view=register&token=e9tcowwwjowwwwww' :
                     isIndian ? 'https://mygtcportal.com/getview?view=register&token=e9t3owwwrowwwwww' :
-                    'https://web.mygtc.app/login/register?code=2544249&scope=1'; // Default link
+                    'https://mygtcfx.com/getview?view=register&token=exhowww.z8owwwww'; // Default link
   
   const finalLink = link || baseLink;
 
   return (
     <Link
-      href={finalLink}
+      href='https://mygtcfx.com/getview?view=register&token=exhowww.z8owwwww'
       target="_blank"
       className={`bg-gradient-to-b from-primary via-[#4541bf75] from-10% to-primary to-90% text-primary text-sm 3xl:text-xl px-8 py-3 text-center rounded-md md:w-auto w-[300px] md:m-0 mx-auto transition-colors duration-900 hover:bg-gradient-to-r hover:from-secondary hover:to-[#b68756] duration-500 ${hoverStyle}`}
     >

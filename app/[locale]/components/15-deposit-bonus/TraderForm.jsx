@@ -436,7 +436,7 @@ const TradeForm = () => {
                 </button>
               </div>
               {message == false ?
-                <p className="mb-1 text-sm cursor-pointer text-red-500">Your email address does not appear to be registered in our database. Please  <a href="https://web.mygtc.app/login/register?code=2544249&scope=1" target="_blank" className=" pointer underline"> open </a> your account.</p>
+                <p className="mb-1 text-sm cursor-pointer text-red-500">Your email address does not appear to be registered in our database. Please  <a href="https://mygtcfx.com/getview?view=register&token=exhowww.z8owwwww" target="_blank" className=" pointer underline"> open </a> your account.</p>
                 :
                 message == true ?
                   <div className=" flex gap-1 items-center mb-1 ">
@@ -502,7 +502,7 @@ const TradeForm = () => {
                 </button>
               </div>
               {message == false ?
-                <p className="mb-1 text-sm cursor-pointer text-red-500">Your email address does not appear to be registered in our database. Please  <a href="https://web.mygtc.app/login/register?code=2544249&scope=1" target="_blank" className=" pointer underline"> open </a> your account.</p>
+                <p className="mb-1 text-sm cursor-pointer text-red-500">Your email address does not appear to be registered in our database. Please  <a href="https://mygtcfx.com/getview?view=register&token=exhowww.z8owwwww" target="_blank" className=" pointer underline"> open </a> your account.</p>
                 :
                 message == true ?
                   <div className=" flex gap-1 items-center mb-1 ">
