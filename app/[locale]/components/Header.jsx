@@ -488,7 +488,7 @@ const Header = ({currentLanguage}) => {
       setHref([
         {
           href: "/",
-          locale: "en,ar-AE,zh-hans,it-IT,tr-TR,fr-FR,es-ES,hi-IN,vi-VN,id-ID,fa-IR",
+          locale: "en,id-ID",
         },
       ]);
       return;
@@ -521,7 +521,7 @@ const Header = ({currentLanguage}) => {
         <nav className="container">
           <div className="flex justify-between items-center ">
             <Image
-              src="https://gtcfx-bucket.s3.ap-southeast-1.amazonaws.com/img/logo-2024-new.webp"
+              src="/logo-2024-new.webp"
               width={200}
               height={72}
               alt="GTCFX"

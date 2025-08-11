@@ -1,519 +1,307 @@
+import { useTranslations } from 'next-intl';
 import React from 'react';
 
 const MarketOverViewNew = () => {
-  const headers = [
-    "Instrument",
-    "Mon, Dec 23, 2024",
-    "Tues, Dec 24, 2024",
-    "Wed, Dec 25, 2024",
-    "Thurs, Dec 26, 2024",
-    "Fri, Dec 27, 2024",
-    "Mon, Dec 30, 2024",
-    "Tues, Dec 31, 2024",
-    "Wed, Jan 1, 2025",
-    "Thurs, Jan 2, 2025",
-    "Thurs, Jan 9, 2025",
-  ];
+
+  const t= useTranslations("market_overview")
+    // ✅ Extract header values as an array
+  const headers = Object.values(t.raw("headers"));
+
 
   const rows = [
     {
       instrument: "FX",
       data: [
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+        t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+    
+               
       ],
     },
     {
       instrument: "Metals",
       data: [
-        "Normal Trading Hours",
-        "Early Close at 20:45",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+            t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+     
+      
+         
+       
+        
       ],
     },
     {
       instrument: "OIL/Energies (BRNUSD)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 21:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Close at 22:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+        t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+   
+       
+
+       
+        
+        
       ],
     },
     {
       instrument: "OIL/Energies (WTIUSD)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:45",
-        "Closed",
-        "Reopen at 01:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Reopen at 01:00",
-        "Normal Trading Hours",
+        t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+  
+
+    
+       
+        
+       
       ],
     },
     {
       instrument: "OIL/Energies (NGCUSD)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:45",
-        "Closed",
-        "Reopen at 01:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Reopen at 01:00",
-        "Normal Trading Hours",
+           t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+ 
+
+
+       
+
+       
       ],
     },
     {
       instrument: "Indices - AUS200c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 05:30",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 05:30",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+             t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+       
+       
+       
       ],
     },
     {
       instrument: "Indices - CN50c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 24:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+           t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+ 
+       
+      
+       
       ],
     },
     {
       instrument: "Indices - EU50c",
       data: [
-        "Early Closed at 23:00",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Reopen at 02:15",
-        "Early Closed at 23:00",
-        "Closed",
-        "Closed",
-        "Reopen at 02:15",
-        "Normal Trading Hours",
+            t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+      
+   
+       
+        
       ],
     },
     {
       instrument: "Indices - FRA40c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 14:55",
-        "Closed",
-        "Closed",
-        "Reopen at 09:00",
-        "Normal Trading Hours",
-        "Early Closed at 14:55",
-        "Closed",
-        "Reopen at 09:00",
-        "Normal Trading Hours",
+              t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+  
+        
+        
       ],
     },
     {
       instrument: "Indices - GER40c",
       data: [
-        "Early Closed at 23:00",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 23:00",
-        "Closed",
-        "Reopen at 02:15",
-        "Normal Trading Hours",
+          t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+ 
+       
       ],
     },
     {
       instrument: "Indices - HK50c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 06:00",
-        "Closed",
-        "Closed",
-        "Reopen at 03:15",
-        "Normal Trading Hours",
-        "Early Closed at 06:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+           t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+  
+  
+       
       ],
     },
     {
       instrument: "Indices - JPN225c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+            t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+    
+     
+  
+        
       ],
     },
     {
       instrument: "Indices - SPA35c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Early Closed at 15:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+             t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+
+       
+
+       
       ],
     },
     {
       instrument: "Indices - UK100c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 14:50",
-        "Closed",
-        "Closed",
-        "Reopen at 03:00",
-        "Normal Trading Hours",
-        "Early Closed at 14:50",
-        "Closed",
-        "Reopen at 03:00",
-        "Normal Trading Hours",
+        t('status.normal'),
+        t('status.closed'),
+          t('status.daylight1'),
+    
       ],
     },
     {
       instrument: "Indices - US30c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Normal Trading Hours",
-        "Early Closed at 16:30",
+              t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+      
       ],
     },
     {
       instrument: "Indices - US500c",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Normal Trading Hours",
-        "Early Closed at 16:30",
+          t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+   
       ],
     },
     {
-      instrument: "Indices - USTECHC",
+      instrument: "Indices - USTECHc",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:15",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Early Closed at 16:30",
-      ],
-    },
-    {
-      instrument: "Stocks (SIX)",
-      data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-      ],
-    },
-    {
-      instrument: "Stocks BM",
-      data: [
-        "Normal Trading Hours",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 15:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-      ],
-    },
-    {
-      instrument: "Stocks (EURONEXT)",
-      data: [
-        "Normal Trading Hours",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 15:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+           t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+
       ],
     },
     
     {
-      instrument: "Stocks (LSE)",
+      instrument: "EU Shares:Exchanges - SIX",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 14:30",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Early Closed at 14:30",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-      ],
-    },
-    {
-      instrument: "Stocks (XETRA)",
-      data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Early Close at 15:00",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-      ],
-    },
-    {
-      instrument: "SIX",
-      data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-      ],
+          t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
+
+         ],
     },
     {
       instrument: "EU Shares:Exchanges - BM",
       data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
+         t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
+
+      ],
+    },
+    {
+      instrument: "EU Shares:Exchanges - EURONEXT",
+      data: [
+         t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
+
       ],
     },
     {
       instrument: "EU Shares:Exchanges - LSE",
       data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Early Closed at 14:30",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
+             t('status.normal'),
+        t('status.closed'),
+        t('status.normal'),
+
       ],
     },
     {
       instrument: "EU Shares:Exchanges - XETRA",
       data: [
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Early Closed at 15:00",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
+           t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
+
       ],
     },
  
     {
       instrument: "NYSE (US Shares:Exchanges)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Closed"
+       t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+  
       ],
     },
     {
       instrument: "NDAQ (US Shares:Exchanges)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:00",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Closed"
+                t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
+
       ],
     },
     {
       instrument: "HKEX (Asia Shares:Exchanges)",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 20:00",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours"
+               t('status.normal'),
+         t('status.normal'),
+         t('status.normal'),
       ],
     },
     {
       instrument: "TSE (Asia Shares:Exchanges)",
       data: [
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Closed",
-        "Closed",
-        "Normal Trading Hours"
+        t('status.closed'),
+        t('status.normal'),
+        t('status.normal'),
+ 
       ],
     },
     {
       instrument: "Crypto",
       data: [
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+        t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
+   
       ],
     },
     {
-      instrument: "Futures GOLDG25",
+      instrument: "GOLD Futures",
       data: [
-        "Normal Trading Hours",
-        "Early Closed at 18:45",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
+         t('status.normal'),
+        t('status.normal'),
+        t('status.normal'),
       ],
     },
-    {
-      instrument: "Futures SILVERH25",
-      data: [
-        "Normal Trading Hours",
-        "Early Closed at 18:45",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-        "Closed",
-        "Normal Trading Hours",
-        "Normal Trading Hours",
-      ],
-    },
-  ];
+    
+  ]; 
 
   const renderCellContent = (item) => {
     if (!item) return "";
@@ -538,11 +326,9 @@ const MarketOverViewNew = () => {
     <table className="trading_hours_table container">
       <thead className="header-section">
         <tr>
-          {headers.map((header, index) => (
-            <th key={index} className="shadow-2xl text-sm" scope="col">
-              {header}
-            </th>
-          ))}
+          {headers.length > 0 ? headers.map((header, index) => (
+            <th key={index} className="shadow-2xl text-xs">{header}</th>
+          )) : <th>Error: Headers not found</th>}
         </tr>
       </thead>
       <tbody>

@@ -24,11 +24,10 @@
       },
       "thirdcolumn": {
         "heading": "Highlights",
-        "option1": "GTCFX Latest Update",
+        "option1": "Company News",
         "option2": "Careers",
         "option3": "Contact Us",
         "option4": "GTCFX Blogs"
-        
       }
     },
     "account": {
@@ -61,7 +60,7 @@
         "option4": "Commodities",
         "option5": "Equity Indices",
         "option6": "Energies",
-        "option7": "Shares"
+        "option7": "Share Trading"
       },
       "secondcolumn": {
         "heading": "Platforms",
@@ -121,40 +120,234 @@
     "new_client_portal": "Member Login",
     "old_client_portal": "Old Client Portal"
   },
+  "metaData": {
+    "home": {
+      "title": "GTCFX Forex Broker Offers Low Spreads, Fast Execution, and Secure Trading",
+      "des": "Trade with GTCFX, a trusted forex broker and liquidity provider, to enjoy low spreads, fast deposits and withdrawals, and a secure trading experience. Start trading today."
+    },
+    "aboutUs": {
+      "title": "Discover Reliable Online Trading and Financial Services with GTCFX",
+      "des": "GTCFX delivers secure online trading and financial services designed for global traders. Start your journey with expert support today."
+    },
+    "whyGtcGroup": {
+      "title": "Why GTC Group is the Best Trading Platform for Success? | GTCFX",
+      "des": "GTC Group is the best trading platform for global traders offering security, reliability and innovation. Trade with confidence and achieve your financial goals. Start trading today."
+    },
+    "regulations": {
+      "title": "GTCFX is a Globally Trusted and Regulated Trading Platform",
+      "des": "Trade with confidence on GTC Group, a globally trusted and regulated trading platform. Licensed and compliant, we offer secure financial derivatives trading worldwide."
+    },
+    "globalPresence": {
+      "title": "Trade Globally with GTCFX A Trusted Broker for Financial Solutions",
+      "des": "GTCFX is a globally trusted broker offering secure financial solutions. With a strong global presence, we connect traders worldwide for seamless opportunities."
+    },
+    "awards": {
+      "title": "GTCFX is an Award-Winning Broker Recognized for Excellence",
+      "des": "Trade with confidence at GTCFX, an award-winning broker setting industry standards. Recognized for innovation and reliability, we offer world-class trading solutions. Trade Now."
+    },
+    "compensationFund": {
+      "title": "GTCFX Ensures Secure Trading with a Dedicated Compensation Fund",
+      "des": "Trade with peace of mind at GTCFX. Our compensation fund safeguards traders, ensuring financial protection and security in every transaction."
+    },
+    "blogs": {
+      "title": "Latest Forex Market News & Strategies | GTCFX",
+      "des": "GTCFX Blog offers in-depth forex trading guides, market insights, and expert advice to help you succeed in the financial markets. Start learning today!"
+    },
+    "campanyNews": {
+      "title": "Stay Updated with the Latest Trading News And GTCFX Updates",
+      "des": "Get the latest trading news, market insights, and company updates from GTCFX. Stay informed and ahead in the world of global trading."
+    },
+    "career": {
+      "title": "Build Your Forex Career and Grow with GTCFX Opportunities",
+      "des": "GTCFX is a leading financial technology company specializing in foreign exchange trading solutions. Our careers offer a collaborative and supportive work environment where creativity grows and talent is empowered for long-term success."
+    },
+    "contactUs": {
+      "title": "Contact Us for Expert Trading Support and Assistance",
+      "des": "Need help with trading? Contact GTCFX for expert trading support and personalized assistance. Our team is ready to help you trade with confidence."
+    },
+    "demoAccount": {
+      "title": "Open a Free Forex Demo Account and Practice Risk-Free Trading",
+      "des": "Start trading with a free forex demo account at GTC Group. Experience real market conditions, test strategies, and build confidence without any risk."
+    },
+    "deposit": {
+      "title": "Fund Your Account Easily for Secure and Fast Trading with GTCFX",
+      "des": "Fund your account securely with GTCFX and start trading CFDs and forex with ease. Enjoy fast transactions, multiple payment options, and a seamless deposit process with no hidden fees."
+    },
+    "accountTypes": {
+      "title": "Choose the Best Live Trading Account with GTCFX",
+      "des": "Open a live trading account with GTCFX and select from flexible account types. Enjoy competitive spreads, fast execution, and a secure trading experience."
+    },
+    "promotion": {
+      "title": "Deposit & Trade Cashback – Earn Up to $1,000 | GTCFX",
+      "des": "Boost your trading profits with our Deposit & Trade Cashback Program! Earn up to $1,000 cashback when you trade Forex, Metals, and Oil. The more you deposit, the higher your reward. Start trading today! 🚀"
+    },
+    "forex": {
+      "title": "Forex Trading with GTCFX and Access Global Markets with Confidence",
+      "des": "Start forex trading with GTCFX and explore global currency markets with tight spreads and lightning-fast execution. Choose a platform designed for traders who demand reliability and precision."
+    },
+    "energy": {
+      "title": "CFD Energy Trading with GTCFX – Trade Oil, Gas, and More",
+      "des": "Explore CFD energy trading with GTCFX. Trade oil, gas, and other energy markets with advanced tools and real-time insights to maximize your trading potential in the energy sector."
+    },
+    "shares": {
+      "title": "Trade Shares And Invest In Global Companies | GTCFX",
+      "des": "Diversify your investment portfolio by adding shares of some of the most prominent global brands, such as apple, tesla, netflix, and others"
+    },
+    "stock": {
+      "title": "Trade Stocks with GTCFX and Access Global Markets for Better Opportunities",
+      "des": "Explore stock trading with GTCFX and gain access to major global markets. Buy and sell stocks effortlessly with user-friendly tools and real-time market updates."
+    },
+    "commodities": {
+      "title": "Trade Commodities with GTCFX and Explore Oil, Gold, and More",
+      "des": "Start trading commodities like oil, gold, and more with GTCFX. Access global markets, diversify your investments, and capitalize on profitable opportunities with ease."
+    },
+    "indices": {
+      "title": "Start Indices Trading with GTCFX and Access Top Global Markets",
+      "des": "Engage in indices trading with GTCFX and explore top global markets. Trade major indices with ease and make informed decisions with real-time data and flexible options."
+    },
+    "metals": {
+      "title": "Trade Precious Metals Like Gold and Silver Easily with GTCFX",
+      "des": "Start trading precious metals like gold and silver with GTCFX. Buy and sell with simple steps, flexible options, and real-time market access."
+    },
+    "mt4Platform": {
+      "title": "Trade Easily with the MT4 Trading Platform at GTCFX",
+      "des": "Download the MT4 Trading Platform for Windows, Mac, iOS, and Android with GTCFX. Trade CFDs on Forex, Stocks, Indices, Commodities, and more with a powerful and easy-to-use platform. Open your MT4 account now."
+    },
+    "mt5Platform": {
+      "title": "Trade with the MT5 Trading Platform at GTCFX for Advanced Features",
+      "des": "Get the MT5 Trading Platform for Windows, Mac, iOS, and Android with GTCFX. Trade CFDs on Forex, Stocks, Indices, Commodities, and more with advanced tools and fast execution. Start trading on MT5 today."
+    },
+    "downloadApp": {
+      "title": "Download Trading Platform for Fast and Secure Trading with GTCFX",
+      "des": "Download trading platform and start trading anytime. Access global markets with a fast, secure, and user-friendly platform on your device. Download now."
+    },
+    "tutorialVideo": {
+      "title": "How to Open a Live Trading Account, Deposit and Withdraw Through Tutorial Videos | GTCFX",
+      "des": "Watch GTCFX tutorial videos to learn how to open a live trading account, deposit funds, and withdraw easily. Start trading with confidence today with one of the best brokers!."
+    },
+    "weeklyWebinar": {
+      "title": "Free 10-Week Educational Webinar Series on Technical Analysis – Register Now!",
+      "des": "Join our exclusive trading webinars and master Technical Analysis & Live Market Strategies with expert Harsh Japee. Gain real-time insights, proven strategies, and access to Forex, Gold, Bitcoin & Indices trading setups. Register now – Limited seats available!"
+    },
+    "economicCalendar": {
+      "title": "Stay Updated with the Latest Economic Calendar - GTCFX",
+      "des": "Track important market events with the GTCFX economic calendar. Get real-time updates on global economic data and make informed trading decisions. Check now."
+    },
+    "marketOverview": {
+      "title": "Get Latest Market Overview and Trends with GTCFX",
+      "des": "Get the latest market overview with real-time data, trends, and analysis. Stay ahead in trading with up-to-date insights on global financial markets. Explore now."
+    },
+    "glossary": {
+      "title": "Financial Terms and FAQs to Help You Understand Trading with GTCFX",
+      "des": "Explore Financial Terms and FAQs to learn key trading concepts. Get clear explanations and answers to common questions for better trading decisions. Start now."
+    },
+    "dynamicLeverage": {
+      "title": "Dynamic Leverage for Flexible and Smart Trading with GTCFX",
+      "des": "Learn how Dynamic Leverage adjusts to your trades for better risk management. Trade smarter with a flexible leverage system at GTCFX. Get started today."
+    },
+    "introductoryBroker": {
+      "title": "Become an Introducing Broker and Grow Your Earnings with GTCFX",
+      "des": "Join the GTCFX Introducing Broker program and earn commissions by referring traders. Build your network and grow your income with a trusted broker. Sign up today."
+    },
+    "affiliateProgram": {
+      "title": "Join the GTCFX Affiliate Program and Earn Commissions Easily",
+      "des": "Partner with GTCFX through our Affiliate Program and earn commissions for every referral. Start your journey to passive income today. Sign up now."
+    },
+    "liquidityTechnology": {
+      "title": "GTC Prime Provides Liquidity & Technology for Global Traders",
+      "des": "GTC Prime offers Liquidity & Technology with advanced infrastructure and pricing from tier 1 banks, ensuring DMA execution for seamless trading."
+    },
+    "copyTrading": {
+      "title": "Copy Trading for Easy and Smart Investments with GTCFX",
+      "des": "Use Copy Trading to follow expert traders and automate your investments. Trade smarter with GTCFX and grow your portfolio effortlessly. Start now."
+    },
+    "pammAccount": {
+      "title": "Invest and Manage Funds Easily with a PAMM Account at GTCFX",
+      "des": "Open a PAMM account at GTCFX to invest in expert-managed funds. Earn profits while professional traders handle your investments. Get started today."
+    },
+    "mamAccount": {
+      "title": "Manage Multiple Trading Accounts with a Multi Account Manager",
+      "des": "Use the Multi Account Manager at GTCFX to control multiple accounts from one platform. Trade efficiently with advanced management tools. Start now."
+    },
+    "signalCenter": {
+      "title": "Make Better Trades with the Signal Centre Tool at GTCFX",
+      "des": "Use the Signal Centre Tool to get real-time market insights and expert trading signals. Stay informed and make confident trading decisions. Try it now."
+    },
+    "vpsHosting": {
+      "title": "Get Secure and Fast VPS Hosting Services for Trading at GTCFX",
+      "des": "Use VPS hosting services at GTCFX for stable and high-speed trading. Ensure low latency, secure connections, and uninterrupted market access. Set up now."
+    },
+    "expertAnalysis": {
+      "title": "Expert Analysis and Technical Tools for Smarter Trading at GTCFX",
+      "des": "Use VPS hosting services at GTCFX for stable and high-speed trading. Ensure low latency, secure connections, and uninterrupted market access. Set up now."
+    },
+    "autoChartist": {
+      "title": "AutoChartist for Smart Market Analysis and Trading at GTCFX",
+      "des": "Use AutoChartist at GTCFX to detect market patterns and trends in real-time. Enhance your trading strategy with automated analysis. Try it now."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy - How GTCFX Protects Your Data and Security",
+      "des": "Read the GTCFX Privacy Policy to understand how we protect your personal data and ensure secure trading. Your privacy and security matter. Learn more."
+    },
+    "withDrawal": {
+      "title": "Withdrawal Policy - Fast and Secure Fund Withdrawals at GTCFX",
+      "des": "Read the GTCFX Withdrawal Policy to learn about secure, fast, and hassle-free fund withdrawals. Get smooth access to your trading profits. Learn more."
+    },
+    "compliancePolicy": {
+      "title": "KYC and Compliance Policy for Secure Trading at GTCFX",
+      "des": "Learn about GTCFX's KYC and compliance policy to ensure secure and transparent trading. Follow simple verification steps for a safe experience. Read more."
+    },
+    "refundPolicy": {
+      "title": "Deposit and Refund Policy for Secure Transactions at GTCFX",
+      "des": "Read the GTCFX Deposit and Refund Policy to understand secure payment processes, fast deposits, and hassle-free refunds. Learn more today."
+    },
+    "restrictedCountries": {
+      "title": "Check the List of Restricted Countries for GTCFX Services",
+      "des": "Find out which countries are restricted from accessing GTCFX services. Ensure compliance before you start trading. Learn more today."
+    },
+    "swapTermsCondition": {
+      "title": "Learn the Terms and Conditions of GTCFX Swap-Free Trading Accounts",
+      "des": "Read the swap-free trading account terms and conditions at GTCFX to understand eligibility, rules, and benefits of interest-free trading. Learn more now.."
+    },
+    "marginRequirments": {
+      "title": "Manage Your Trades with the Right Margin Requirements at GTCFX",
+      "des": "Learn about GTCFX's margin requirements to manage your trades effectively. Get insights on leverage and risk management. Read more now."
+    },
+    "indicesDividend": {
+      "title": "Trade Indices Dividends with GTCFX Broker and Maximize Your Market Gains",
+      "des": "Discover how trading indices dividends can boost your portfolio with GTCFX. Access top global indices, benefit from dividend payouts, and trade with a trusted broker. Start earning smarter today!"
+    }
+  },
   "common": {
     "liveAccount": "Open Live Account                                              ",
     "demoAccount": "Free Demo Account"
   },
   "home": {
-    "metaData": {
-      "title": "GTCFX Forex Broker Offers Low Spreads, Fast Execution, and Secure Trading",
-      "des": "Trade with GTCFX, a trusted forex broker and liquidity provider, to enjoy low spreads, fast deposits and withdrawals, and a secure trading experience. Start trading today."
-    },
     "hero": {
       "slider1": {
-       "heading": "Trade, Invest & Partner",
-      "subheading": "with the Globally Trusted & Regulated",
-      "description": "Leader in Financial Derivatives"
+        "heading": "Trade, Invest & Partner",
+        "subheading": "with the Globally Trusted & Regulated",
+        "description": "Leader in Financial Derivatives"
       },
       "slider2": {
-       "heading": "Access to",
-       "heading1": "8",
-       "heading2": "Markets with",
-      "subheading": "+27,000",
-      "subheading2": "Trading Instruments"
+        "heading": "Access to",
+        "heading1": "8",
+        "heading2": "Markets with",
+        "subheading": "+27,000",
+        "subheading2": "Trading Instruments"
       },
       "slider3": {
-      "heading": "Trade Smarter with",
-      "subheading": "Cutting-Edge Tools on",
-      "description": "the Best Trading Platform"
+        "heading": "Trade Smarter with",
+        "subheading": "Cutting-Edge Tools on",
+        "description": "the Best Trading Platform"
       },
       "slider4": {
-       "heading": "Deep Liquidity Access",
-      "subheading": "Direct Access to Top-Tier Liquidity Providers"
+        "heading": "Deep Liquidity Access",
+        "subheading": "Direct Access to Top-Tier Liquidity Providers"
       },
       "slider5": {
-       "heading": "Experience Advanced",
-      "subheading": "Trading Infrastructure for Seamless Transactions"
+        "heading": "Experience Advanced",
+        "subheading": "Trading Infrastructure for Seamless Transactions"
       },
       "liveAccount": "Open Live Account ",
       "partnerAccount": "BECOME A PARTNER",
@@ -162,11 +355,11 @@
       "fact_desc1": "Served Clients",
       "fact_no2": "27,000",
       "fact_desc2": "Trading Instruments ",
-      "no3":"300",
+      "no3": "300",
       "fact_no3": "",
       "fact_syn1": "$",
       "fact_desc3": "Destinations Worldwide",
-      "no4":"135",
+      "no4": "135",
       "fact_no4": " Billion",
       "fact_desc4": "Monthly Trades"
     },
@@ -241,7 +434,7 @@
       "heading": "Direct Access to Top Tier Liquidity Provider",
       "desc": "GTCFX is a trusted liquidity provider that gives you access to easy-to-use FX liquidity platforms. With our liquidity solutions, you can trade efficiently at low costs and with fast execution. You can count on our transparent and reliable service, ensuring your trades remain private. With our state-of-the-art technology and dedicated team, we support your business in liquidity trading.",
       "tab": {
-         "liquidity": {
+        "liquidity": {
           "title": "Liquidity",
           "d1": "As a leading liquidity provider, we offer the best liquidity solutions globally, ensuring optimal execution and minimal slippage with deep liquidity and advanced technology.",
           "p2": "Forex",
@@ -257,7 +450,7 @@
           "p7": "Equities",
           "d7": "Trade global equities via single-stock CFDs, accessing worldwide markets from one platform with seamless execution. "
         },
-         "technology": {
+        "technology": {
           "title": "Technology",
           "d1": "We leverage cutting-edge technology for high-speed trading and advanced analytics, keeping clients ahead in the market.",
           "p2": "Fix API",
@@ -266,8 +459,8 @@
           "d3": "Our VPS ensures advanced security, low latency, remote access, uninterrupted trading, easy customization, and automated trading.",
           "p4": "Algo hosting service",
           "d4": "We offers a comprehensive algo hosting service designed to empower traders with the tools and resources they need to optimize their trading strategies."
-         },
-         "bridge": {
+        },
+        "bridge": {
           "title": "Bridge",
           "p1": "oneZero Hub",
           "d1": "Experience deep liquidity, ultra-fast execution, real-time data, and a customizable trading environment—secure and efficient trading at its best.",
@@ -277,7 +470,7 @@
           "d3": "Enhance trading efficiency with deep liquidity, ultra-fast execution, real-time insights, and seamless market connectivity—all secured for optimal performance.",
           "p4": "GTC Prime Bridges",
           "d4": "Seamlessly connect to multiple platforms and liquidity providers with fast execution, optimized performance, and secure data transmission."
-         }
+        }
       },
       "point1": "Low spreads & Commissions",
       "point2": "Ultra Fast Execution",
@@ -290,15 +483,15 @@
       "butttonLp": "Apply For Liquidity Service"
     },
     "home_IB": {
-          "title": "Grow Your Clients Network With Us!",
-          "des": "Open a live trading account and explore a wide range of financial products with the most favorable spreads. Take advantage of market fluctuations and access top-tier financial services to maximize your profit potential.",
-          "howTo": "How to Join Our IB Network",
-          "point1": "Apply to Join our IB Network",
-          "point2": "Sign an IB Agreement",
-          "point3": "Introduce Clients",
-          "point4": "Start Earning Rebates & Commissions",
-          "label": "Join our specialized ib program",
-          "butttonIB": "Become an Introducing Broker"
+      "title": "Grow Your Clients Network With Us!",
+      "des": "Open a live trading account and explore a wide range of financial products with the most favorable spreads. Take advantage of market fluctuations and access top-tier financial services to maximize your profit potential.",
+      "howTo": "How to Join Our IB Network",
+      "point1": "Apply to Join our IB Network",
+      "point2": "Sign an IB Agreement",
+      "point3": "Introduce Clients",
+      "point4": "Start Earning Rebates & Commissions",
+      "label": "Join our specialized ib program",
+      "butttonIB": "Become an Introducing Broker"
     },
     "global_presence": {
       "heading": "Our Global Presence",
@@ -314,7 +507,7 @@
       "indonesia": "Indonesia",
       "india": "India",
       "egypt": "Egypt",
-      "jordan":"Jordan",
+      "jordan": "Jordan",
       "palestine": "Palestine",
       "ksa": "Saudi Arabia",
       "chile": "Chile",
@@ -332,19 +525,15 @@
       "sub_title": "Stay informed with the data that matters, on 3,000+ markets. Get the latest news, trader sentiment, spreads, price action and much more."
     },
     "tabsMarter": {
-        "title1": "Most Traded",
-        "title2": "Forex",
-        "title3": "Commodities",
-        "title4": "Indices"
-      },
+      "title1": "Most Traded",
+      "title2": "Forex",
+      "title3": "Commodities",
+      "title4": "Indices"
+    },
     "our-payment": "Method of Payment, Card Types accepted and Currency:",
     "our-payment2": "We accept payments online using Visa and MasterCard credit/debit card in AED (and/or any other available currency listed in the payments section)"
   },
   "about": {
-    "metaData": {
-      "title": "Company Profile | GTCFX",
-      "des": "GTCFX is the best forex trading broker for all your global assets. We are committed to excellence when it comes to your trading needs. Click here to learn more."
-    },
     "about-gtc-group": {
       "title": "About Us",
       "subTitle": "Globally Trusted & Multi-Regulated Broker",
@@ -366,10 +555,6 @@
       "liveAccount": "Open Live Account                                              "
     },
     "why-gtc-group": {
-      "metaData": {
-        "title": "Why Choose  | GTCFX",
-        "des": "Unlocking Profitable Opportunities: Your Best Investment Journey Begins with Us. Click here to learn more."
-      },
       "title": "Why Choose GTC?",
       "sub_title1_1": "Unlocking Profitable Opportunities: Your Best Investment Journey Begins with Us",
       "sub_title1_2": "Trading with us offers the optimal avenue for investing your money wisely and profitably. Our trading platform provides a secure and efficient environment, ensuring that your investment endeavors are backed by cutting-edge technology and expert support.",
@@ -423,10 +608,6 @@
       "note_desc5": "At GTC, our operational philosophy is straightforward: client satisfaction leads to loyalty. We take pride in our reputation, which is built on credibility and our ability to meet and exceed client expectations. To stay at the forefront of industry trends and technology, we continuously monitor developments, ensuring we adapt to the evolving needs of our sophisticated and demanding clients."
     },
     "gtc-regulations": {
-      "metaData": {
-        "title": "GTC Financial Group’s Presence Globally  | GTCFX",
-        "des": "GTC Group LLC-FZ, a limited liability company registered in the UAE, owns the following entities globally, together the GTC Financial Group. Each of these entities provides financial services according to their respective licences in the relevant jurisdiction."
-      },
       "title": "GTC Financial Group’s Presence Globally ",
       "des": "GTC Group LLC-FZ, a limited liability company registered in the UAE, owns the following entities globally, together the GTC Financial Group. Each of these entities provides financial services according to their respective licences in the relevant jurisdiction. Each entity within the GTC Financial Group specialises in different services and is managed separately by experienced teams. The services and products on this website are offered by two group entities, being GTC Global Ltd and GTC Global Trade Capital Co. Limited.",
       "sub_title": "Information on operating GTC Affiliates:",
@@ -438,7 +619,7 @@
       "regulation2_1": "ASIC",
       "regulation2_2": "Australian Securities & Investments Commission",
       "regulation2_3": "Australia",
-      "regulation2_4": "GTC Global (Australia) Pty Ltd holds an Australian Financial Services Licence number 496371. GTC Global (Australia) focuses on providing education services to Australian clients. Website:",
+      "regulation2_4": "GTC Global (Australia) Pty Ltd holds an Australian Financial Services Licence number 496371. GTC Global (Australia) focuses on providing education services to Australian clients.",
       "regulation3_1": "FSCM",
       "regulation3_2": "Financial Services Commission, Mauritius",
       "regulation3_3": "Mauritius",
@@ -459,24 +640,6 @@
       "regulation6_4": "GTC Global South Africa Proprietary Limited (registration number: 2020/810937/07) hold a Financial Services Provider Licence number 51545. Register address is First Floor Kildare Centre, Cnr Kildare Road and Main Street, Newlands, Cape Town, Western Cape, 7550, South Africa.",
       "notice": "GTC Financial Group provides a wide range of financial services to clients. Different entities within the group have different licences and offerings as they are managed separately. If you are interested to know more about which entity you are dealing with, we encourage you to contact us."
     },
-    "global-presence": {
-      "metaData": {
-        "title": "Our Global Presence | GTCFX",
-        "des": "At GTC, we're a global team with a presence in over 16 destinations worldwide. From bustling cities to remote corners, our diverse network allows us to connect with clients across "
-      }
-    },
-    "awards": {
-      "metaData": {
-        "title": "Awards Winning | GTCFX"
-      },
-      "title": "GTCFX Awards"
-    },
-    "blog": {
-      "metaData": {
-        "title": "Latest Forex Market News & Strategies | GTCFX",
-        "des": "GTCFX Blog offers in-depth forex trading guides, market insights, and expert advice to help you succeed in the financial markets. Start learning today!"
-      }
-    },
     "client-fund-insurance": {
       "title": "Security Of Fund",
       "sub_title1_1": "GTC Global Trade Capital Ltd. is a official member of the Financial Commission, an international organization engaged in the resolution of disputes in the financial services industry for the forex market.",
@@ -495,15 +658,7 @@
       "visitButton": "Visit Now",
       "downloadButton": "Download PDF File"
     },
-    "company-news": {
-      "title": "GTCFX Latest News",
-      "sub_title": "Keep up with all the latest company updates and overhauls. Be in the know and read up on all that happens here at GTC in our very own company news section."
-    },
     "careers": {
-      "metaData": {
-        "title": "Careers | GTCFX",
-        "des": "We are a leading financial technology company specializing in foreign exchange trading solutions. At GTCFX, we believe in fostering a dynamic and inclusive work environment where innovation thrives, and talent is nurtured."
-      },
       "title": "Careers",
       "sub-title": "We are a leading financial technology company specializing in foreign exchange trading solutions. At GTCFX, we believe in fostering a dynamic and inclusive work environment where innovation thrives, and talent is nurtured. As we continue to grow and expand our global presence, we are constantly seeking passionate individuals who are eager to make a meaningful impact in the financial technology sector.",
       "why-working": "Why Working in GTCFX?",
@@ -545,10 +700,6 @@
       "apply": "Apply"
     },
     "contact-us": {
-      "metaData": {
-        "title": "Contact Us | GTCFX",
-        "des": "Our team is committed to going above and beyond to meet your needs. Whether it's addressing your concerns, assisting you with technical issues, or providing expert guidance, we are here to serve you."
-      },
       "title": "Contact Us",
       "sub_title1_1": "Your satisfaction is our top priority. We are dedicated to ensuring that you have a seamless and rewarding experience with our services.",
       "sub_title1_2": "Our team is committed to going above and beyond to meet your needs. Whether it's addressing your concerns, assisting you with technical issues, or providing expert guidance, we are here to serve you. Your success and contentment are at the heart of our mission, and we're always ready to assist you in any way we can.",
@@ -570,40 +721,12 @@
     }
   },
   "accounts": {
-    "live-account": {
-      "metaData": {
-        "title": "Open a Live Trading Account | GTCFX",
-        "des": "Swiftly open your GTCFX's live trading account Now. Explore Forex, CFDs, and expert-guided insights. Your success begins here!"
-      },
-      "title": "Live Trading Account Application",
-      "sub_title": "Fast account opening & instant funding",
-      "fast": "Fast account opening",
-      "instant": "& instant funding",
-      "products": {
-        "heading": "Access To 8 Asset Markets With Over 27,000 Trading Instruments",
-        "title1": "Forex Trading",
-        "desc1": "All global currency pairs",
-        "title2": "Gold Trading",
-        "desc2": "Discover the advantages",
-        "title3": "Precious Metals",
-        "desc3": "Silver, Palladium and more",
-        "title4": "CFDs on Energy",
-        "desc4": "Oil, Gas and all major energies",
-        "title5": "Shares",
-        "desc5": "Sugar, cocoa, wheat and more",
-        "title6": "Stocks",
-        "desc6": "Over 600 companies",
-        "title7": "Commodities",
-        "desc7": "Major global commodities",
-        "title8": "Equity Indices",
-        "desc8": "Major global indices"
-      }
+    "demo":{
+      "subTitle": "Master the Markets with GTCFX Advanced Trading Platforms",
+        "heading": "Trade Smarter, Not Riskier – Open Your Free Demo Account Today",
+        "description": "Explore GTCFX MT5 and WebTrader platforms in a secure, risk-free environment. Practice trading with real-time market data and sharpen your strategy with zero financial exposur"
     },
     "deposit": {
-      "metaData": {
-        "title": "Fund Your Account | GTCFX",
-        "des": "Fund your account at your own ease and comfort. Explore Forex, CFDs, and expert-guided insights. Your success begins here!"
-      },
       "banner": {
         "heading": "Fund Your Account",
         "subHeading": "Fund your account at your own ease and comfort"
@@ -642,10 +765,6 @@
       }
     },
     "account_types": {
-      "metaData": {
-        "title": "Account Types | GTCFX",
-        "des": "Unlock the potential for profit by opening a live account and trading our competitive financial products with the most favorable spreads. "
-      },
       "title": "Account Types",
       "subtitle": "Unlock the potential for profit by opening a live account and trading our competitive financial products with the most favorable spreads. Seize opportunities in rate fluctuations to maximize your profits effectively.",
       "standard_account": {
@@ -714,13 +833,10 @@
       "subNote1": "The above applicable only for GTC Global Ltd, (FSCM) & GTC Global Trade Capital Co, (VFSC) Clients."
     },
     "demoAccount": {
-      "metaData": {
-        "title": "Open a Free Demo Account | GTCFX",
-        "des": "GTC Forex offer 3 main account types to match your trading needs and each has its own advantages. Compare the differences and discover the range of benefits."
-      },
       "bannerText": {
-        "heading": "Trade, Practice Learn, Repeat",
-        "description": "Until Ready to Conquer The Markets",
+        "subTitle": "Master the Markets with GTCFX Advanced Trading Platforms",
+        "heading": "Trade Smarter, Not Riskier – Open Your Free Demo Account Today",
+        "description": "Explore GTCFX MT5 and WebTrader platforms in a secure, risk-free environment. Practice trading with real-time market data and sharpen your strategy with zero financial exposur",
         "buttonText": "Open a Live Account Instead"
       },
       "demoBoxes": {
@@ -738,8 +854,9 @@
         }
       }
     },
-    "accountForm": {
-      "firstName": "First Name",
+    "accountForm": { 
+      "demoHeading": "APPLY FOR A DEMO ACCOUNT",
+      "firstName": "Full Name",
       "lastName": "Last Name",
       "email": "Email Address",
       "phone": "Phone Number",
@@ -751,10 +868,10 @@
       "termText": "By clicking Submit, I confirm that: (1) I have read and agree to the",
       "termText2": "Client Agreements;",
       "termText3": "(2) I consent to GTCFX contacting me at reasonable times; and (3) my number is not on the Do Not Call Register (DNCR).",
-      "submit": "Send",
+      "submit": "Submit",
       "sending": "Sending...",
       "error": {
-        "firstName": "First Name is required",
+        "firstName": "Full Name is required",
         "lastName": "Last Name is required",
         "email": "Email Address is required",
         "account_no": "Account Number is required",
@@ -764,7 +881,18 @@
         "country": "Country is required",
         "termOfService": "Please accept terms and conditions"
       },
-      "minLimit": "At least 3 letters"
+      "minLimit": "At least 3 letters",
+      "accountType": "Select Account",
+      "mt5Account": "MT5 Demo Account",
+      "getCode": "Get Code",
+      "otpSend": "OTP has been sent to given Email",
+      "sent": "Success! Please check your Email",
+        "error1": "Failed to send OTP. Please try again.",
+        "verified": "OTP Verified!",
+        "wrong": "Wrong OTP, please try again.",
+        "enterOtp": "Please enter the OTP.",
+        "verifyOTP": "Verify"
+        
     }
   },
   "Instruments": {
@@ -777,41 +905,7 @@
       "shares": "Shares",
       "commodities": "Commodities"
     },
-    "metaDetails": {
-      "forex": {
-        "title": "Trade Forex | GTCFX",
-        "des": "Forex trading, short for foreign exchange (FX) trading, is the process of buying and selling currencies in the foreign exchange market with the aim of profiting from fluctuations in currency exchange rates"
-      },
-      "energy": {
-        "title": "Trade Energy",
-        "des": "Experience a Competetive Advantage When Trading Energy Markets With us"
-      },
-      "shares": {
-        "title": "Trade Shares",
-        "des": "Diversify your investment portfolio by adding shares of some of the most prominent global brands, such as apple, tesla, netflix, and others"
-      },
-      "stock": {
-        "title": "Trade Stocks",
-        "des": "Our platform offers a profitable edge, enabling you to capitalize on both rising and falling stock prices during market volatility"
-      },
-      "commodities": {
-        "title": "Trade Commodities",
-        "des": "Trade commodities with us for a world of opportunities, backed by the tools, support, and security to thrive in this dynamic market"
-      },
-      "indices": {
-        "title": "Trade Indices",
-        "des": "Unlock a world of profitable opportunities trading cash indices with us, offering the tools and market access for a rewarding experience"
-      },
-      "metals": {
-        "title": "Trade Metals",
-        "des": "Maximize your profit potential with our Ultra-Competitive Gold Spreads, starting at just 4 Cents"
-      }
-    },
     "forex": {
-      "metaData": {
-        "title": "Trade Forex | GTCFX",
-        "des": "Forex trading, short for foreign exchange (FX) trading, is the process of buying and selling currencies in the foreign exchange market with the aim of profiting from fluctuations in currency exchange rates"
-      },
       "bannerTitle": "Trade Forex",
       "bannerDesc": "With a Tightest Spread Starting from 0 PIPS Offering Leverage up to 1:2000 & No restriction",
       "title1": "Trade Forex",
@@ -859,6 +953,61 @@
         "trading": "Trading Hours",
         "timeNote": "Monday - Friday:00:05 - 23:50",
         "apply": "(GMT+2 time zone, please note DST may apply)"
+      },
+      "faqs": {
+        "title1": "How Do Currency Markets Work?",
+        "paragraph1": "The currency market, or the foreign exchange market, is where currency dealers and brokers come to trade currencies. It is open 24/5 and is the world's biggest financial market. With forex trading online, people can trade in different currency pairs using a currency trading platform.",
+
+        "title2": "What Moves the Forex Market?",
+        "paragraph2": "Economic news, interest rates, geopolitical events and market sentiment drive the forex market. Performing forex market analysis is essential to understand price actions and make sensible decisions.",
+
+        "title3": "How Does Forex Trading Work?",
+        "paragraph3": "Forex trading is the process of buying one currency and selling another. Traders execute trades based on their study of the forex market with a currency trading platform. This market is where brokers and traders act to gain from price fluctuations.",
+
+        "title4": "Why Choose GTCFX for Forex Trading?",
+        "paragraph4": "GTCFX is a reliable currency trading platform with tight spreads and fast execution of trades, as well as an easy-to-navigate interface. GTCFX offers the tools and forex market analysis to improve your trading from the novice to the professional trader.",
+
+        "title5": "What is a Forex Trading Strategy?",
+        "paragraph5": "A forex trading strategy is the use of trades by traders to open and close positions or plan their use. Strategies are based on technical analysis, fundamental analysis, and automated trading. It is imperative to choose the best forex broker like GTCFX to enable the implementation of the strategies.",
+
+        "title6": "What Trading Instruments are Available on GTCFX?",
+        "paragraph6": "GTCFX offers several trading instruments, including the main and minor currency pairs, commodities, and indices. As the company provides access to the global foreign exchange market, traders can diversify their portfolios and find various opportunities.",
+
+        "title7": "How Much Money Is Traded on the Forex Market Daily?",
+        "paragraph7": "The forex market is the most liquid financial market in the world, with over $7 trillion of daily trading volume.",
+
+        "title8": "How Can I Start Trading Forex With GTCFX?",
+        "paragraph8": "It is easy to start forex trading online with GTCFX. Creating an account on the platform, complete the KYC process and making a deposit, and you are good to go; you are now able to trade forex with deep liquidity and powerful trading platforms.",
+
+        "title9": "What Are Gaps in Forex Trading?",
+        "paragraph9": "Gaps in forex trading are a phenomenon that occurs when there is a sharp price movement between trading sessions. This can happen due to economic news or low market liquidity.",
+
+        "title10": "What is the Spread in Forex Trading?",
+        "paragraph10": "The spread is the difference between the buying (ask) price and the selling (bid) price of a currency pair. Lower spreads are beneficial for traders as they reduce trading costs.",
+
+        "title11": "What is a Lot in Forex?",
+        "paragraph11": "In forex trading, a Lot refers to the size of a trade. There are standard, mini, and micro lots, with each representing different amounts of currency units.",
+
+        "title12": "What is Leverage in Forex?",
+        "paragraph12": "Leverage enables the traders to work with bigger trade positions using a small deposit. It enhances the potential returns as well as the risks in forex trading.",
+
+        "title13": "Does GTCFX Offer Leverage and Low Spreads?",
+        "paragraph13": "Yes, GTCFX provides high-leverage options and low spreads that can help you maximize your trading activity. We will enable you to trade efficiently with minimal costs.",
+
+        "title14": "What Is Margin in Forex?",
+        "paragraph14": "The sum of money needed to initiate a trade is known as the margin. In order to keep a position in the market, it serves as a security deposit.",
+
+        "title15": "What is a Pip in Forex?",
+        "paragraph15": "The smallest change in a currency pair's price is called a pip (percentage in points). It is used to measure price changes in forex trading.",
+
+        "title16": "What Does a Long Position Denote?",
+        "paragraph16": "A long position in forex means buying a currency pair or asset with the expectation that its price will rise. It allows the holder to sell at a higher price and make a profit.",
+
+        "title17": "What Does a Short Position Denote?",
+        "paragraph17": "A short position means selling a currency pair with the expectation that its price will decrease. So, it can be repurchased at a lower price.",
+
+        "title18": "Is GTCFX a Secure and Regulated Forex Broker?",
+        "paragraph18": "GTCFX prioritizes security and operates under strict regulatory guidelines. We follow Anti-Money Laundering (AML) and Know Your Customer (KYC) policies. This means we have strong security measures to prevent fraud and illegal activities. Your funds and data are protected, ensuring a safe and seamless forex trading experience."
       }
     },
     "energy": {
@@ -895,8 +1044,8 @@
       "trading_hours": "Forex Trading Hours: Monday - Friday:00:05 - 23:50",
       "note": "(GMT+2 time zone, please note DST may apply)",
       "title4": "What is Energy Trading",
-      "desc4_1": "Exploring Energy Markets Energy prices are known for their remarkable volatility, driven by a multitude of political and environmental variables. Factors such as global economic growth play a pivotal role in shaping energy prices, with periods of prosperity leading to heightened energy demand, and economic stagnation resulting in reduced consumption.",
-      "desc4_2": "In addition to economic dynamics, extreme weather events can significantly impact energy markets, causing disruptions in the supply of crude oil, natural gas, and heating oil. These disruptions, in turn, influence the demand for various consumer services linked to these energy sources. Furthermore, the stability of some of the world's largest natural gas fields can exert a substantial influence on global energy prices.",
+      "desc4_1": "Exploring energy markets offers unique opportunities through Energy CFD Trading, allowing traders to capitalize on price movements without owning physical assets. Energy prices are known for their remarkable volatility, influenced by political and environmental factors. Global economic growth often drives demand, while downturns can reduce consumption, creating trading opportunities.",
+      "desc4_2": "Extreme weather events can disrupt the supply of crude oil, natural gas, and heating oil, impacting prices and demand for related services. With Trade Energy CFDs, you can respond swiftly to these market shifts. The stability of major natural gas fields also plays a key role in shaping prices, making Natural Gas CFD Trading an attractive option for informed traders.",
       "title5": "Oil Trading",
       "desc5": "Oil trading is a dynamic and globally interconnected market that operates 24 hours a day, leading to constant price fluctuations. This characteristic renders it an attractive option for day traders seeking swift movements and preferring the simplicity of trading oil prices through CFDsGain access to real-time data, expert analysis, and a variety of trading instruments, ensuring you can make informed decisions to optimize your energy market investments and capitalize on market opportunities effectively.",
       "title6": "Forex Trading With Us",
@@ -917,10 +1066,44 @@
         "header2": "Bid Price",
         "header3": "Ask Price",
         "header4": "Spread"
+      },
+      "faqs": {
+        "title1": "What is CFD Energy Trading?",
+        "paragraph1": "CFD energy trading allows traders to speculate on the price fluctuations of energy commodities like crude oil and natural gas without the need to own the actual assets. This approach offers a flexible and cost-effective way to participate in the global energy markets.",
+
+        "title2": "How do Online Energy Trading Platforms Work?",
+        "paragraph2": "Online energy trading platforms provide real-time market data, advanced trading tools, and CFD contracts for various energy commodities. These platforms enhance trade execution by incorporating features such as risk management and automated processes.",
+
+        "title3": "What are the Best Energy Trading Strategies?",
+        "paragraph3": "The most effective strategies for energy trading include:<br/><b>✓ Trend Following</b> – Identifying and following market trends.<br/><b>✓ Fundamental Analysis</b> – Studying economic data, supply & demand factors.<br/><b>✓ Technical Analysis</b> – Using charts and indicators to predict price movements.<br/><b>✓ Arbitrage</b> – Profiting from price differences between markets.<br/><br/>Successful traders implement risk management techniques in energy trading to minimize losses and enhance profits.",
+
+        "title4": "How does Crude Oil Trading Work in CFD Markets?",
+        "paragraph4": "Trading crude oil on CFD platforms allows traders to capitalize on price fluctuations without the need to buy or sell physical oil barrels. Depending on market expectations, traders can take long or short positions. Utilizing energy trading tools can assist them in making more informed decisions.",
+
+        "title5": "What Should Beginners Know About Energy Trading?",
+        "paragraph5": "Energy trading for beginners includes learning about main energy commodities, market trends, and trading tactics. Beginners should start with a demo account on a global energy trading platform to gain experience before investing real money.",
+
+        "title6": "How Can I Manage Risks in CFD Energy Trading?",
+        "paragraph6": "Energy trading risk management involves:<br/><b>1.</b> Setting stop-loss limits to minimize potential losses.<br/><b>2.</b> Diversifying trades to reduce exposure to a single market.<br/><b>3.</b> Using leverage wisely to balance potential profits and risks.<br/><b>4.</b> Staying informed about energy market analysis and trends.<br/><br/>Advanced traders use specialized energy trading risk management strategies to protect their investments.",
+
+        "title7": "Why Trade CFD Energy With GTCFX?",
+        "paragraph7": "At GTCFX, we provide a secure and user-friendly online energy trading platform with competitive spreads, real-time energy market analysis, and advanced trading tools. Whether you're trading crude oil, natural gas, or other energy commodities, our platform ensures a seamless experience with high-performance execution speed.",
+
+        "title8": "What Makes GTCFX One of the Best Global Energy Trading Platforms?",
+        "paragraph8": "GTCFX offers a cutting-edge trading experience with deep liquidity, powerful energy trading software, and expert insights into energy markets. Our platform is designed for traders of all levels, from beginners to professionals, with dedicated support and risk management tools.",
+
+        "title9": "Can Beginners Start Energy Trading On GTCFX?",
+        "paragraph9": "Yes! GTCFX is an ideal choice for energy trading for beginners. We offer:<br/><b>✓</b> Educational resources to help you understand the energy market.<br/><b>✓</b> A risk-free demo account to practice trading before investing real money.<br/><b>✓</b> User-friendly trading tools to build strong energy trading strategies and gain confidence in the market.",
+
+        "title10": "Does GTCFX Provide Energy Trading Risk Management Tools?",
+        "paragraph10": "Absolutely! We prioritize secure and responsible trading by offering energy trading risk management strategies such as:<br/><b>✓</b> Stop-loss orders to automatically limit losses.<br/><b>✓</b> Negative balance protection to prevent account deficits.<br/><b>✓</b> Real-time market alerts to keep traders informed and prepared.",
+
+        "title11": "How Can I Start Online Energy Trading With GTCFX?",
+        "paragraph11": "Getting started is easy! Simply follow these steps:<br/><b>1.</b> Sign up for an account on GTCFX.<br/><b>2.</b> Fund your account using a preferred payment method.<br/><b>3.</b> Access a wide range of CFD energy trading options, including crude oil and natural gas.<br/><b>4.</b> Trade with 24/5 market access, allowing you to trade anytime, anywhere."
       }
     },
     "shares": {
-      "title1": "Trade Shares",
+      "title1": "Share Trades",
       "sub_title1": "Diversify your investment portfolio by adding shares of some of the most prominent global brands, such as apple, tesla, netflix, and others",
       "title2": "Our Trading Advantages",
       "adv1_1": "Tightest Spread",
@@ -960,7 +1143,35 @@
       "faq1A1_1": "In MetaTrader 4 (MT4) and MetaTrader 5 (MT5), Shares symbols are representations of different currency pairs that traders can trade on the platform. These symbols are typically composed of a three-letter abbreviation for the base currency and a three-letter abbreviation for the quote currency.",
       "faq1A1_2": "For example, in the symbol EUR/USD, EUR represents the Euro (base currency), and USD represents the US Dollar (quote currency). The Shares symbols are used to identify and track the value of one currency relative to another.",
       "faq1A1_3": "Here are a few examples of Shares symbols:",
-      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar"
+      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar",
+      "faqs": {
+        "title1": "What is Share Trading and How Does it Work?",
+        "paragraph1": "Share trading involves buying and selling shares of companies to make profits. It can be done online via share trading platforms like MT5 or MT4. For beginners, understanding share trading strategies and learning the best shares to trade is essential to succeed in the market.",
+
+        "title2": "How to Trade Shares Online?",
+        "paragraph2": "Online share trading can be done through platforms like MT5, offering a wide range of features such as CFD trading on shares and real-time market access. To start, choose the best online share trading platform, create an account, and follow share trading strategies that suit your goals.",
+
+        "title3": "What Are the Best Shares to Trade?",
+        "paragraph3": "The best shares to trade depend on market trends, volatility, and your trading strategy. Research and select shares that match your risk tolerance and trading style for optimal results in share trading.",
+
+        "title4": "What is the Best Leverage for Share Trading?",
+        "paragraph4": "The best leverage for share trading varies depending on your risk appetite. Using high leverage in CFD trading on shares can magnify profits but also increase risks. Always choose leverage wisely, especially for beginners in share trading.",
+
+        "title5": "Is Share Trading Suitable for Beginners?",
+        "paragraph5": "Yes, share trading for beginners is possible with proper knowledge and the right strategies. Start with learning basic share trading techniques, use beginner-friendly platforms, and focus on low-spread trading for manageable risks.",
+
+        "title6": "What is Share Trading on MT5?",
+        "paragraph6": "Share trading on MT5 offers advanced tools for traders to buy and sell shares efficiently. MT5 provides features like chart analysis, technical indicators, and fast execution, making it a great choice for both beginners and experienced traders.",
+
+        "title7": "Can I Trade Shares with Low Spreads?",
+        "paragraph7": "Yes, many online share trading platforms offer share trading with low spreads, ensuring more cost-effective trades. Low spreads are beneficial for traders who aim to maximize their profits while minimizing trading costs.",
+
+        "title8": "Why Should I Choose GTCFX for Share Trading?",
+        "paragraph8": "GTCFX offers one of the best online share trading platforms with low spreads and powerful tools like MT5 for trading shares. With competitive leverage options and comprehensive market analysis, you can make informed trading decisions with ease.",
+
+        "title9": "What Makes GTCFX the Best Platform for Beginners?",
+        "paragraph9": "GTCFX provides a user-friendly interface, educational resources, and expert support to help you start your share trading journey. We focus on helping beginners understand share trading strategies so you can start trading confidently."
+      }
     },
     "stock": {
       "title1": "Trade Stocks",
@@ -1011,7 +1222,44 @@
       "faq1A1_1": "In MetaTrader 4 (MT4) and MetaTrader 5 (MT5), Shares symbols are representations of different currency pairs that traders can trade on the platform. These symbols are typically composed of a three-letter abbreviation for the base currency and a three-letter abbreviation for the quote currency.",
       "faq1A1_2": "For example, in the symbol EUR/USD, EUR represents the Euro (base currency), and USD represents the US Dollar (quote currency). The Shares symbols are used to identify and track the value of one currency relative to another.",
       "faq1A1_3": "Here are a few examples of Shares symbols:",
-      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar"
+      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar",
+      "faqs": {
+        "title1": "What is Stock Trading?",
+        "paragraph1": "Stock trading is buying and selling stocks in a market or through a stock trading website. It provides a way to get more profit from price differences in the stock market. Traders can employ AI stock trading tools, stock trade simulators, and stock trading apps to implement their plans. Some other platforms also provide CFD stock trading, copy trading, and more features. Platforms like GTCFX offer CFD stock trading, allowing you to trade stocks with leverage and without owning the underlying assets.",
+
+        "title2": "What Are Stock CFDs?",
+        "paragraph2": "With stock CFDs (Contracts for Difference), traders can make predictions about changes in stock prices without owning the stocks.<br/><b>✓</b> Leverage trading with less cash is one benefit of trading CFD stocks.<br/><b>✓</b> Gaining access to a variety of equities through a stock trading platform.<br/><b>✓</b> Making money in both rising and declining markets.<br/><br/>You can trade stock CFDs with GTCFX's advanced trading tools and AI-powered insights.",
+
+        "title3": "Why Trade Stocks with GTCFX?",
+        "paragraph3": "We provide competitive spreads, a secure trading environment, and direct market access to global stock markets. We help traders maximize their potential gains by providing them with advanced charting tools, cheap trading fees, and a frictionless trading experience.",
+
+        "title4": "What Stock Markets Can I Trade on GTCFX?",
+        "paragraph4": "GTCFX offers access to major stock exchanges such as the NYSE, NASDAQ, London Stock Exchange (LSE), and others. You can trade stocks in popular firms such as Apple, Tesla, Amazon, and Microsoft.",
+
+        "title5": "How Can I Start Trading Stocks with GTCFX?",
+        "paragraph5": "To begin trading stocks with GTCFX:<br/><b>1.</b> First sign up for a trading account.<br/><b>2.</b> Submit relevant documents to verify your identity.<br/><b>3.</b> Transfer funds into your account.<br/><b>4.</b> Use our trading interface to choose a stock and trade it.",
+
+        "title6": "Can I Trade Stocks with Leverage on GTCFX?",
+        "paragraph6": "Yes, GTCFX offers leveraged trading on stocks, allowing you to trade with more capital than your initial deposit. However, leverage increases both potential profits and risks, so it’s important to use risk management strategies.",
+
+        "title7": "Can Beginners Trade Stocks on GTCFX?",
+        "paragraph7": "Yes! GTCFX offers a user-friendly platform with educational resources, demo accounts, and customer support to help beginners start their stock trading journey with confidence.",
+
+        "title8": "What Are the Best Ways to Research Stocks?",
+        "paragraph8": "To master how to trade stocks, use these research methods:<br/><b>✓ Fundamental Analysis</b> – Study financial reports and earnings.<br/><b>✓ Technical Analysis</b> – Use stock trade simulators and charts.<br/><b>✓ Market Trends & News</b> – Stay updated on economic trends.<br/><b>✓ Stock Trade Calculators</b> – Evaluate stock potential before investing.<br/><br/>GTCFX provides AI-driven stock analysis for accurate research.",
+
+        "title9": "How Many Sectors Are There to Invest in Stocks?",
+        "paragraph9": "The stock trade market has 11 key sectors:<br/><b>1.</b> Technology<br/><b>2.</b> Healthcare<br/><b>3.</b> Financials<br/><b>4.</b> Energy<br/><b>5.</b> Consumer Discretionary<br/><b>6.</b> Consumer Staples<br/><b>7.</b> Industrials<br/><b>8.</b> Utilities<br/><b>9.</b> Real Estate<br/><b>10.</b> Communication Services<br/><b>11.</b> Materials<br/><br/>GTCFX allows stocks trade online across multiple sectors with CFD trading options.",
+
+        "title10": "What is the Margin for Stock Trading?",
+        "paragraph10": "Margin trading lets you trade stock using borrowed funds. CFD trading offers leverage to increase exposure with less capital.<br/><br/>With GTCFX’s stock trading platform:<br/><b>✓</b> Leverage options vary by stock.<br/><b>✓</b> Stock trade calculators help determine margin requirements.<br/><b>✓</b> Risk management tools protect investments.",
+
+        "title11": "What Factors Influence Stock Prices?",
+        "paragraph11": "Several factors affect stock prices, including:<br/><b>✓</b> Company earnings and performance.<br/><b>✓</b> Market supply & demand.<br/><b>✓</b> Global economic conditions.<br/><b>✓</b> Investor sentiment and AI stock trading models.<br/><br/>GTCFX provides real-time stock analysis, helping traders make informed decisions.",
+
+        "title12": "How Do I Identify Stocks for Investment?",
+        "paragraph12": "To find the best stock trade opportunities:<br/><b>✓</b> Use a stock trade simulator to test strategies.<br/><b>✓</b> Check market trends and stock trade calculators.<br/><b>✓</b> Analyze fundamental and technical indicators.<br/><b>✓</b> Diversify your portfolio across sectors.<br/><br/>With GTCFX’s online stock trading platform, you can access AI-driven analytics, CFD trading, and smart trading tools to find the best investments."
+      }
     },
     "commodities": {
       "title1": "Trade Commodities",
@@ -1050,14 +1298,42 @@
       "desc4_1": "In addition to the vast global currency exchange markets, commodity markets present a wide array of investment prospects for retail traders across the globe. Soft commodities like sugar, wheat, or corn have a rich history of trading, attracting investors due to their substantial contributions to portfolio diversification and risk management.",
       "desc4_2": "Investing in tradable goods via contracts proves to be a dependable method for risk management, even in the face of inflation or economic unpredictability. It offers protection to both contract buyers and sellers against severe price fluctuations that could lead to amplified losses.",
       "title5": "Why Trading Commodities with us:",
-      "desc5_1": "Trading commodities with us offers several distinct advantages:",
-      "desc5_2": "Diversification: Trading commodities allows you to diversify your investment portfolio beyond traditional assets like stocks and bonds. This diversification can help reduce overall risk and enhance the resilience of your investment strategy.",
+      "desc5_1": "Our secure and user-friendly commodity trading offers competitive spreads, advanced risk management tools, and 24/5 expert support. Whether you're new or experienced, online commodities trading with GTCFX gives you the edge to manage risk and diversify your portfolio with confidence.",
+      "desc5_2": "Start your commodity trading journey with GTCFX today!",
       "faq_title": "Frequently Asked Questions",
       "faq1Q": "What are Commodities symbol in MT4/MT5?",
       "faq1A1_1": "In MetaTrader 4 (MT4) and MetaTrader 5 (MT5), Commodities symbols are representations of different currency pairs that traders can trade on the platform. These symbols are typically composed of a three-letter abbreviation for the base currency and a three-letter abbreviation for the quote currency.",
       "faq1A1_2": "For example, in the symbol EUR/USD, EUR represents the Euro (base currency), and USD represents the US Dollar (quote currency). The Shares symbols are used to identify and track the value of one currency relative to another.",
       "faq1A1_3": "Here are a few examples of Shares symbols:",
-      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar"
+      "faq1A1_4": "EUR/USD - Euro/US Dollar USD/JPY - US Dollar/Japanese Yen GBP/USD - British Pound/US Dollar AUD/JPY - Australian Dollar/Japanese Yen NZD/USD - New Zealand Dollar/US Dollar",
+      "faqs": {
+        "title1": "What Are Commodities in Trading?",
+        "paragraph1": "Commodities trading refers to the buying and selling of raw materials or primary agricultural products in global markets. These include gold and silver trading, energy commodities trading (like crude oil and natural gas), and agricultural products such as wheat, coffee, and sugar. Commodity trading platforms enable traders to access various commodities trading online opportunities, allowing for diversification in investment portfolios.",
+
+        "title2": "How Does Commodity Trading Work?",
+        "paragraph2": "Commodity trading involves the buying and selling of contracts based on the price movements of different commodities. Traders can use methods like futures contracts, CFDs, or oil trading online to speculate on price fluctuations. Online commodities trading platforms provide tools for effective decision-making, whether you're involved in gold trading or indices trading strategies.",
+
+        "title3": "What are the Most Traded Commodities?",
+        "paragraph3": "The most traded commodities include:<br/><b>✓ Gold trading</b> – A safe-haven asset during economic downturns.<br/><b>✓ Crude oil trading</b> – A central component of energy commodities trading and a key driver of global markets.<br/><b>✓ Natural gas</b> – Essential for energy production.<br/><b>✓ Silver trading</b> – A versatile commodity, used in both industrial applications and investment strategies.<br/><b>✓ Coffee & Sugar</b> – High-demand agricultural commodities, frequently traded on commodities trading platforms.",
+
+        "title4": "What Affects Commodity Prices?",
+        "paragraph4": "Several factors impact commodity prices, including:<br/><b>✓ Supply and Demand</b> – Shortages or surpluses directly influence commodities trading outcomes.<br/><b>✓ Geopolitical Events</b> – Wars, sanctions, and trade restrictions can cause price volatility in commodity markets like oil trading.<br/><b>✓ Inflation & Economic Trends</b> – Inflation often boosts demand for assets like gold trading.<br/><b>✓ Weather Conditions</b> – Severe weather can dramatically impact agricultural commodities trading for products like wheat and coffee.",
+
+        "title5": "Why Trade Commodities with GTCFX?",
+        "paragraph5": "GTCFX provides a seamless commodities trading platform with competitive spreads, fast execution, and a broad range of available assets, from oil trading to gold and silver trading. Their platform is designed for traders who want advanced charting tools and risk management features to make informed decisions when engaging in commodities trading or stock indices trading.",
+
+        "title6": "Is Commodity Trading Risky?",
+        "paragraph6": "Yes, commodity trading carries inherent risks due to price volatility, leverage, and market fluctuations. However, by using risk management strategies like stop-loss orders and portfolio diversification, traders can mitigate risks in commodities trading online or while trading indices.",
+
+        "title7": "How Can I Start Trading Commodities?",
+        "paragraph7": "To start commodities trading online with GTCFX:<br/><b>1.</b> Sign up for a trading account.<br/><b>2.</b> Fund your account with your preferred payment method.<br/><b>3.</b> Choose a commodity to trade, such as gold trading, oil trading, or shares trading.<br/><b>4.</b> Utilize trading platforms and risk management tools to secure your investments.",
+
+        "title8": "What is the Margin for Commodities Trading?",
+        "paragraph8": "Margin in commodities trading is the minimum amount required to open a position. It acts as a security deposit, allowing traders to access greater exposure to the commodities market than their account balance would normally permit. The margin requirement varies based on the commodity and market conditions, typically ranging from 5% to 10%.",
+
+        "title9": "How do I Calculate How Much Margin I Need to Trade in a Commodity?",
+        "paragraph9": "To calculate margin for commodities trading, use this formula:<br/><br/>**Formula:**<br/>Required Margin = (Number of Lots × Contract Size × Market Price) ÷ Leverage<br/><br/>**Example:**<br/>Let’s say you want to trade 1 lot of crude oil, where:<br/>✓ Contract size = 1,000 barrels<br/>✓ Market price = $80 per barrel<br/>✓ Leverage = 50:1<br/><br/>Now, apply the formula:<br/>(1 × 1,000 × 80) ÷ 50 = $1,600<br/><br/>You need **$1,600** as a margin to open this trade on a commodities trading platform."
+      }
     },
     "indices": {
       "title1": "Trade Indices",
@@ -1105,7 +1381,38 @@
       "desc6_2": "Additionally, our comprehensive research tools and expert support enable you to make informed trading decisions. Lastly, we prioritize security and client protection, offering safeguards such as client funds insurance, so you can trade with peace of mind. Trading Stock CFDs with our company empowers you with the tools and resources to pursue your financial goals efficiently and effectively.",
       "faq_title": "Frequently Asked Questions",
       "faq1Q": "WHAT ARE EQUITY Indices symbol in MT4/MT5?",
-      "faq1A1_1": "S&P 500 (US500), FTSE 100 (UK100), NASDAQ 100 (US100), DAX (GER40), DJIA (US30), Nikkei 225 (JP225), ASX200 (Australia200), HSI (HK50), CAC 40 (FRA40)"
+      "faq1A1_1": "S&P 500 (US500), FTSE 100 (UK100), NASDAQ 100 (US100), DAX (GER40), DJIA (US30), Nikkei 225 (JP225), ASX200 (Australia200), HSI (HK50), CAC 40 (FRA40)",
+      "faqs": {
+        "title1": "How to Trade Indices with GTCFX?",
+        "paragraph1": "<b>✓</b> Select variable leverage levels based on your trading strategy and risk tolerance.<br/><b>✓</b> Trade with confidence, as GTCFX is regulated by reputable agencies.",
+
+        "title2": "What Are the Best Indices to Trade?",
+        "paragraph2": "Your trading strategy and market knowledge will determine which indices are best to trade:<br/><b>✓ S&P 500 Trading</b> – Follows 500 top US companies.<br/><b>✓ NASDAQ Index Trading</b> – Focuses on technology stocks.<br/><b>✓ Dow Jones Trading</b> – Represents 30 major US firms.<br/><b>✓ FTSE 100 Index</b> – Contains major UK companies.<br/><b>✓ DAX Index</b> – Represents Germany's top 40 firms.",
+
+        "title3": "What Are Some Common Indices Trading Strategies?",
+        "paragraph3": "Some popular indices trading strategies include:<br/><b>✓ Trend Trading</b> – Following market trends.<br/><b>✓ Breakout Trading</b> – Entering when price breaks key levels.<br/><b>✓ Scalping</b> – Making quick, small trades.<br/><b>✓ Swing Trading</b> – Holding positions for days to weeks.",
+
+        "title4": "How to Trade Indices Online?",
+        "paragraph4": "To trade indices online, follow these steps:<br/><b>✓</b> Choose the best index trading platform or application.<br/><b>✓</b> Create an account and deposit funds.<br/><b>✓</b> Analyze market patterns and index-related news.<br/><b>✓</b> Trade using a sophisticated approach.<br/><b>✓</b> Monitor and manage trade risks.",
+
+        "title5": "What is the Difference Between Trading Indices vs Forex?",
+        "paragraph5": "Trading indices and forex differ in several ways:<br/><b>✓</b> Indices trading involves stock market indices, while forex trading focuses on currency pairs.<br/><b>✓</b> Indices are affected by company performance, while forex is influenced by economic policies and interest rates.<br/><b>✓</b> Forex operates 24 hours, while indices follow stock market hours.",
+
+        "title6": "What Are the Best Indices Trading Platforms?",
+        "paragraph6": "The best indices trading platforms offer minimal costs, quick execution, and advanced features. Many also provide index trading apps for mobile trading.",
+
+        "title7": "Can Beginners Start Indices Trading?",
+        "paragraph7": "Absolutely! With the proper tools and guidance, beginners can easily trade indices. GTCFX offers:<br/><b>✓</b> Free indices trading tutorials for step-by-step techniques.<br/><b>✓</b> A risk-free demo account to practice before investing real money.<br/><b>✓</b> Expert support and resources from trade specialists.<br/><br/>Start trading major indices like the S&P 500, NASDAQ 100, and Dow Jones with low spreads, fast execution, and top-rated platforms such as MT4 and MT5. Sign up now and trade with confidence!",
+
+        "title8": "What is CFD Trading on Equity Indices?",
+        "paragraph8": "CFD trading on equity indices means speculating on the price movements of stock market indices without owning the underlying assets. CFDs allow traders to profit from both rising and falling markets with leverage.",
+
+        "title9": "What Leverage Does GTCFX Offer for Indices Trading?",
+        "paragraph9": "GTCFX offers flexible leverage options for indices trading, allowing traders to choose the leverage that best fits their risk management strategy. While higher leverage can amplify profits, it also increases potential risks. Traders are advised to use leverage responsibly.",
+
+        "title10": "How to Trade Equity Indices with Low Spreads?",
+        "paragraph10": "To trade equity indices with low spreads, choose GTCFX, which offers tight spreads, especially during peak market hours. Low spreads reduce trading costs and help maximize profits, especially for short-term traders."
+      }
     },
     "metals": {
       "title1": "Trade Metals",
@@ -1147,15 +1454,39 @@
       "faq_title": "Frequently Asked Questions",
       "faq1Q": "What are Metals Symbol in Meta Trader MT4/MT5?",
       "faq1A1_1": "Trade Metal Markets with GTCFX & Enjoy Competitive Spreads",
-      "faq1A1_2": "XAUUSD: Gold vs US Dollar, XAGUSD: Sliver vs US Dollar, XPTUSD: Platinum vs US Dollar, XPDUSD: Palladium vs US Dollar, CU MAL"
+      "faq1A1_2": "XAUUSD: Gold vs US Dollar, XAGUSD: Sliver vs US Dollar, XPTUSD: Platinum vs US Dollar, XPDUSD: Palladium vs US Dollar, CU MAL",
+      "faqs": {
+        "title1": "What Are the Best Strategies for Metal Trading?",
+        "paragraph1": "<b>✓ Trend Trading</b> – Follow market trends using moving averages & RSI on a trusted and regulated trading platform.<br/><b>✓ Range Trading</b> – Buy near support and sell near resistance using reliable metals trading software.<br/><b>✓ Breakout Trading</b> – Trade when prices break key levels after moving sideways on a metals trading platform.<br/><b>✓ Scalping</b> – Make quick trades to profit from small price changes in metals trading.<br/><b>✓ Hedging</b> – Reduce risk by holding both long and short positions in base metals trading.<br/><b>✓ Fundamental Analysis</b> – Trade based on inflation, interest rates, and global news.<br/><b>✓ Carry Trade</b> – Borrow at low interest rates to invest in metals trading for better returns.<br/><br/>GTCFX gives you real-time market insights and powerful metals trading software to help you trade better!",
+
+        "title2": "What Are Precious Metals and Why Are They Valuable?",
+        "paragraph2": "Precious metals like gold, silver, platinum, and palladium are rare and valuable. They are used in industries and are seen as safe investments during economic crises. You can trade these metals on a precious metals trading platform to benefit from price changes.",
+
+        "title3": "Why Should I Trade Precious Metals?",
+        "paragraph3": "Precious metals trading helps diversify your investments and protect against inflation. Many traders use trusted trading platforms to trade gold and silver as a safe way to secure their money during economic downturns.",
+
+        "title4": "What Affects the Price of Metals?",
+        "paragraph4": "Prices in trading change due to:<br/><b>✓ Supply & Demand</b> – More demand increases prices.<br/><b>✓ Global Events</b> – Wars, economic issues, and politics affect prices.<br/><b>✓ Inflation & Interest Rates</b> – Higher inflation makes gold and silver more valuable.<br/><b>✓ US Dollar Strength</b> – Precious metals often move in the opposite direction of the dollar.<br/><b>✓ Economic Conditions</b> – Market stability affects base metals trading and metals trading.",
+
+        "title5": "What Are the Benefits of Trading Precious Metals Online?",
+        "paragraph5": "Online metals trading offers:<br/><b>✓ Access to Global Markets</b> – Trade from anywhere with a metals trading platform.<br/><b>✓ High Liquidity</b> – Buy and sell easily with fast execution.<br/><b>✓ Leverage Trading</b> – Increase potential profits with leverage.<br/><b>✓ 24/5 Trading</b> – Trade anytime during market hours.<br/>GTCFX, a regulated trading platform, offers secure trading, real-time price updates, and expert insights to help you succeed.",
+
+        "title6": "Why Choose GTCFX for Metals Trading?",
+        "paragraph6": "GTCFX is one of the best metals trading companies because we offer:<br/><b>✓ Tight Spreads & Fast Execution</b> – Trade with low costs and no delays.<br/><b>✓ Advanced Trading Tools</b> – Use powerful metals trading software.<br/><b>✓ Live Market Data</b> – Get real-time price updates.<br/><b>✓ Secure & Regulated Platform</b> – Trade safely on a trusted and regulated trading platform.<br/><br/>Join thousands of traders who trust GTCFX for metals trading!",
+
+        "title7": "Do You Offer Leverage for Metals Trading?",
+        "paragraph7": "Yes! GTCFX provides leverage for metals trading, allowing traders to earn bigger profits on gold, silver, platinum, and palladium trades. Our risk management tools, like stop-loss and take-profit orders, help you trade safely.",
+
+        "title8": "Does GTCFX Offer Demo Accounts for Metals Trading?",
+        "paragraph8": "Yes! We offer a free demo account where you can practice metals trading with virtual money. Try different strategies on our metals trading platform before moving to live trading.",
+
+        "title9": "How Do I Start Trading Precious Metals on GTCFX?",
+        "paragraph9": "Starting metals trading is simple:<br/><b>1. Sign up for a GTCFX account</b> – A trusted and regulated trading platform.<br/><b>2. Deposit Funds</b> – Start trading with a small investment.<br/><b>3. Use Our Trading Platform</b> – Trade gold, silver, and more!<br/><br/>Trade with one of the best metals trading companies and grow your investments today!"
+      }
     }
   },
   "platform": {
     "mt4PlatformPage": {
-      "metaData": {
-        "title": "MetaTrader 4 Platform ► Download MT4 for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the Metatrader 4 (MT4) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
-      },
       "bannerText": {
         "heading": "MT4 Trading Platform",
         "para1": "MetaTrader 4, often referred to as MT4, is a widely used and highly popular trading platform in the world of forex (foreign exchange) trading.",
@@ -1163,38 +1494,34 @@
         "trade": {
           "heading1": "Trade With The Most",
           "heading2": "Comprehensive Trading Platform",
-          "btnText": "Open Live Account                                              "
+          "btnText": "Open Live Account"
         }
       },
       "advantages": {
         "title": "OUR MT4 TRADING PLATFORM ADVANTAGES",
         "column1": {
-          "heading1": "User-Friendly Interface",
+          "heading1": "User friendly interface.",
           "heading2": "Accessible to traders of all levels of experience.",
-          "heading3": "Fast Execution",
+          "heading3": "Fast execution.",
           "heading4": "Efficiency and depth of features.",
-          "heading5": "MT4 provides an extensive set of technical analysis tools",
+          "heading5": "MT4 provides an extensive set of technical analysis tools.",
           "heading6": "This allows traders to analyze price movements and make informed trading decisions.",
-          "heading7": "Automated Trading through Expert Advisors (EAs)",
-          "heading8": "Custom Indicators and Scripts"
+          "heading7": "Automated trading through expert advisors (EAs).",
+          "heading8": "Custom indicators and scripts."
         },
         "column2": {
-          "heading1": "Backtesting trading strategies",
-          "heading2": "One-Click Trading",
-          "heading3": "Mobile Trading",
-          "heading4": "Real-Time Quotes and News",
-          "heading5": "Community and Support",
+          "heading1": "Backtesting trading strategies.",
+          "heading2": "One click trading.",
+          "heading3": "Mobile trading.",
+          "heading4": "Real time quotes and news.",
+          "heading5": "Community and support.",
           "heading6": "Secure",
-          "heading7": "Multiple Order Types",
-          "heading8": "Multiple Asset Classes"
+          "heading7": "Multiple order types.",
+          "heading8": "Multiple asset classes."
         }
       }
     },
     "mt5PlatformPage": {
-      "metaData": {
-        "title": "MetaTrader 5 Platform ► Download MT5 for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the Metatrader 5 (MT5) for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's Meta Trader 4. Open an MT4 account now!"
-      },
       "bannerText": {
         "heading": "MT5 Trading Platform",
         "para1": "MetaTrader 5, often referred to as MT5, is a widely used and highly popular trading platform in the world of forex (foreign exchange) trading.",
@@ -1208,139 +1535,24 @@
       "advantages": {
         "title": "OUR MT5 TRADING PLATFORM ADVANTAGES",
         "column1": {
-          "heading1": "User-Friendly Interface",
+          "heading1": "User-Friendly Interface.",
           "heading2": "Accessible to traders of all levels of experience.",
-          "heading3": "Fast Execution",
+          "heading3": "Fast Execution.",
           "heading4": "Efficiency and depth of features.",
-          "heading5": "MT5 provides an extensive set of technical analysis tools",
+          "heading5": "MT5 provides an extensive set of technical analysis tools.",
           "heading6": "This allows traders to analyze price movements and make informed trading decisions.",
-          "heading7": "Automated Trading through Expert Advisors (EAs)",
-          "heading8": "Custom Indicators and Scripts"
+          "heading7": "Automated Trading through Expert Advisors (EAs).",
+          "heading8": "Custom Indicators and Scripts."
         },
         "column2": {
-          "heading1": "Backtesting trading strategies",
-          "heading2": "One-Click Trading",
-          "heading3": "Mobile Trading",
-          "heading4": "Real-Time Quotes and News",
-          "heading5": "Community and Support",
-          "heading6": "Secure",
-          "heading7": "Multiple Order Types",
-          "heading8": "Multiple Asset Classes"
-        }
-      }
-    },
-    "ctrader": {
-      "metaData": {
-        "title": "cTrader Platform ► Download cTrader for Windows, Mac, iOS and Android | GTCFX",
-        "des": "Download the cTrader for Windows, Mac, iOS and Android by GTCFX 📈 Trade a variety of CFDs on Forex, Stock Indices, Commodities, Bonds, and Digital Currency Assets currencies with GTCFX's cTrader. Open a cTrader account now!"
-      },
-      "bannerText": {
-        "heading": "cTrader Platform",
-        "para1": "Discover the Power of cTrader - Your Gateway to Advanced Trading",
-        "para2": "Welcome to cTrader, where innovation meets sophistication in the world of online trading.",
-        "trade": {
-          "heading1": "Experience the Evolution of",
-          "heading2": "Trading with cTrader Mastery.",
-          "btnText": "Open Live Account                                              "
-        }
-      },
-      "whyCtrader": {
-        "title": "Why Choose cTrader",
-        "cardsData": {
-          "card1": {
-            "imgUrl": "<FaUserGraduate size={60} />",
-            "title": "Advanced Trading Tools",
-            "paragraph": "Experience a comprehensive suite of advanced trading tools designed to enhance your trading experience. From advanced charting features to in-depth technical analysis tools, cTrader equips you with everything you need to make informed trading decisions.",
-            "link": ""
-          },
-          "card2": {
-            "imgUrl": "<FaHandHoldingDollar size={60} />",
-            "title": "Lightning-Fast Execution",
-            "paragraph": "Benefit from lightning-fast execution speeds, ensuring your trades are executed swiftly and efficiently. With cTrader, you can seize opportunities in the market with minimal delay, giving you a competitive edge in fast-paced trading environments.",
-            "link": ""
-          },
-          "card3": {
-            "imgUrl": "<FaUserClock size={60} />",
-            "title": "Customizable Interface",
-            "paragraph": "Enjoy a customizable trading interface that allows you to tailor your trading environment to suit your preferences. Customize charts, layouts, and trading preferences to create a personalized trading experience that works best for you.",
-            "link": ""
-          },
-          "card4": {
-            "imgUrl": "<FaUserClock size={60} />",
-            "title": "Access to Multiple Asset Classes",
-            "paragraph": "Trade a diverse range of asset classes including Forex, indices, commodities, stocks, and Digital Currency Assets currencies. With cTrader, you have access to a wide range of markets, enabling you to diversify your trading portfolio and explore new opportunities.",
-            "link": ""
-          }
-        }
-      },
-      "gettingStarted": {
-        "title": "Getting Started with cTrader",
-        "subTitle": "Ready to embark on your trading journey with cTrader?",
-        "step1": "Sign up for an Account",
-        "step2": "Download the cTrader platform",
-        "step3": "Start trading with confidence",
-        "para1": "Whether you're a seasoned trader or just getting started, cTrader provides the tools and resources you need to succeed in today's dynamic markets."
-      },
-      "yellowBannerFull": "Experience the Evolution of Trading with cTrader Mastery.",
-      "forexWave": {
-        "title": "Experience the Evolution of Trading with cTrader Mastery",
-        "subTitle": "Unlock the unparalleled advantages of trading with cTrader, where intuitive design and advanced functionalities redefine your trading experience.",
-        "mt5Advantages": {
-          "adv1": {
-            "title": "Effortless Navigation, Seamless Integration:",
-            "desc": "Move seamlessly between brokers with cTrader's intuitive interface, ensuring a smooth transition without the need to adapt to a new platform. Stay focused on your trading strategies while enjoying a streamlined experience."
-          },
-          "adv2": {
-            "title": "Reliable Execution, Consistent Performance:",
-            "desc": "cTrader sets the benchmark for precision execution and reliability across brokers. Enjoy consistent speed and execution quality, eliminating worries about platform limitations and ensuring a dependable trading experience."
-          },
-          "adv3": {
-            "title": "Innovative Solutions, Global Insights:",
-            "desc": "Leverage a platform driven by global insights and continuous innovation. With cTrader, adapt your trading strategy to global market trends and insights, joining a community of traders dedicated to success. cTrader serves as your dynamic tool for achieving your trading objectives."
-          }
-        }
-      },
-      "yellowBannerShort": "Experience the Next Level of Trading Sophistication With the GTCFX cTrader Platform — Where Intuitive Design Meets Advanced Functionality for Seamless and Informed Trading Experiences.",
-      "WhyGTC": {
-        "title": "Why Opt for GTCFX's cTrader?",
-        "reason1": {
-          "fact": "Advanced trading tools for informed decision-making.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        },
-        "reason2": {
-          "fact": "Lightning-fast execution for swift trade placements.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        },
-        "reason3": {
-          "fact": "Fully customizable interface tailored to your preferences.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        },
-        "reason4": {
-          "fact": "Access to diverse asset classes for comprehensive trading.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        },
-        "reason5": {
-          "fact": "Seamless integration with automated trading strategies.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        },
-        "reason6": {
-          "fact": "Multilingual support for global accessibility and convenience.",
-          "icon": "<TiTick size={30} color=' #FFD300'/>"
-        }
-      },
-      "faqList": {
-        "heading": "Frequently Asked Questions",
-        "faq1": {
-          "question": "What account options does cTrader provide?",
-          "answer": "cTrader enables trading through either Netting or Hedging accounts, available in both Live and Demo modes."
-        },
-        "faq2": {
-          "question": "How can I close a position on cTrader?",
-          "answer": "To close a position, simply tap the 'Close' option located in the 'Trade Watch' section positioned at the bottom of the cTrader interface. Within the 'Trade Watch' window, you have the option to close an individual order or shut down all active positions by selecting 'Close All'. You have the flexibility to configure QuickTrade settings to enable/disable this feature or choose between single-click or double-click trading."
-        },
-        "faq3": {
-          "question": "What is the process for generating a trading statement in cTrader?",
-          "answer": "To generate a trading statement in cTrader, access the 'Trade Watch' window. Navigate to the 'History' tab and right-click anywhere within the list of past orders. Then, choose 'Create Statement' to generate a trade history report in HTML format, or opt for 'Export to Excel' to produce a trade history report in Excel format."
+          "heading1": "Backtesting trading strategies.",
+          "heading2": "One-Click Trading.",
+          "heading3": "Mobile Trading.",
+          "heading4": "Real-Time Quotes and News.",
+          "heading5": "Community and Support.",
+          "heading6": "Secure.",
+          "heading7": "Multiple Order Types.",
+          "heading8": "Multiple Asset Classes."
         }
       }
     },
@@ -1383,20 +1595,10 @@
         "ctradeAndriod": "cTrader for Android",
         "ctradeIpad": "cTrader for iPad"
       }
-    },
-    "glossary": {
-      "metaData": {
-        "title": "Glossary/FAQ's ",
-        "des": "Here you will find a comprehensive list of terms and frequently asked questions to help you better understand our services and the trading environment."
-      }
     }
   },
   "tradingTools": {
     "economicCal": {
-      "metaData": {
-        "title": "Economic Calendar | GTCFX",
-        "des": "The real-time Economic Calendar at GTC Forex covers financial events and indicators from all over the world. It's automatically updated when new data is released."
-      },
       "bannerText": {
         "heading": "ECONOMIC CALENDAR",
         "description": "Stay updated with our economic calendar. Keep track of upcoming economic events and their effects on market movements."
@@ -1415,29 +1617,12 @@
       }
     },
     "latestNews": {
-      "metaData": {
-        "title": "Latest News | GTCFX",
-        "des": "Global Trade Capital Limited is a global brand dedicated to online foreign exchange & commodity brokerage companies. Click here to read our latest news now!."
-      },
       "bannerText": {
         "heading": "LATEST NEWS",
         "description": "Global Trade Capital Limited is a global brand dedicate to online foreign exchange & commodity brokerage companies."
       }
     },
-    "ecoNews": {
-      "metaData": {
-        "title": "Economic News Feed | GTCFX",
-        "des": "Get access to real-time stock news, forex news, and general news of the world's major financial events with GTCFX. Start making informed decisions now!."
-      },
-      "content": {
-        "heading": "Economic News Feed"
-      }
-    },
     "marketOverView": {
-      "metaData": {
-        "title": "Market Overview News | GTCFX",
-        "des": "Keep up with all the latest company updates & overhauls. Be in the know & read up on all that happens here at GTCFX in our very own company news section."
-      },
       "bannerText": {
         "title": "MARKET OVERVIEW",
         "desc": "It provides valuable insights into key trends, price movements, and market indicators, empowering users to make informed investment decisions."
@@ -1466,7 +1651,9 @@
       },
       "holiday": {
         "title": "Holiday Hours & Notices",
-        "des": "Market holidays may affect the trading schedule and volatility of the markets. This can vary from country to country, so it is important to stay up to date with the upcoming changes and holiday trading hours to plan your trades accordingly."
+        "des": "Market holidays may affect the trading schedule and volatility of the markets. This can vary from country to country, so it is important to stay up to date with the upcoming changes and holiday trading hours to plan your trades accordingly.",
+        "trading": "Forex & CFD Trading Hours",
+        "hours": "View the latest trading hours for Forex, Metals, Commodities, and other financial instruments. GTCFX provides updated market session times to help you plan your trades effectively. Please note these times provided are subject to change. For the most accurate and real-time session details, please refer to your trading terminal or check the specifications of each instrument."
       }
     },
     "trading_hours": {
@@ -1477,10 +1664,6 @@
     }
   },
   "lervage": {
-    "metaData": {
-      "title": "Dynamic Leverage for Enhanced Trading | GTCFX",
-      "des": "Discover GTCFX dynamic leverage model, designed to optimize your trading experience across FX, metals, indices, commodities, stocks, energy, and Digital Currency Assets. Maximize your trading potential with tailored leverage solutions."
-    },
     "lervageHero": {
       "title": "Dynamic Leverage",
       "description": "GTCFX utilizes a dynamic leverage model across various financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Digital Currency Assets, to help you maximize your trading potential."
@@ -1511,11 +1694,11 @@
     },
     "popUp": {
       "leveragePopTitle": "Introducing Dynamic Leverage",
-      "description": "Effective September 9th, 2025, GTCFX will implement a dynamic leverage model across a wide range of financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Digital Currency Assets currencies. Please note that all trades executed from September 9th, 2025 onwards will be subject to this updated leverage structure.",
+      "description": "Effective September 9th, 2024, GTCFX will implement a dynamic leverage model across a wide range of financial instruments, including FX majors, FX minors, metals, indices, commodities, stocks/shares, energy, and Digital Currency Assets currencies. Please note that all trades executed from September 9th, 2024 onwards will be subject to this updated leverage structure.",
       "agreedButton": "Agreed"
     },
     "tieredLeverage": {
-      "heading": "FAQ on Tiered Margin/Leverage",
+      "heading": "FAQ's on Tiered Margin/Leverage",
       "one": {
         "ques": "How does tiered leverage work?",
         "ans": "Tiered leverage reduces the leverage ratio as the size of the trade increases. For example, a small position might have a leverage of 1:500, but as the position size grows, the leverage might drop to 1:200, 1:100, or even lower, requiring more margin to maintain the trade."
@@ -1542,7 +1725,54 @@
       }
     },
     "dynamicLeverageDetailsTitle": "Dynamic Leverage Details",
-    "dynamicLeverageDetailsDescription": "Dynamic leverage at GTCFX automatically adjusts based on your trading positions. This model is applied per instrument, meaning your leverage decreases as your trading volume increases. This approach enables you to optimize your trading potential."
+    "dynamicLeverageDetailsDescription": "Dynamic leverage at GTCFX automatically adjusts based on your trading positions. This model is applied per instrument, meaning your leverage decreases as your trading volume increases. This approach enables you to optimize your trading potential.",
+    "update": {
+      "title": "Fixed Leverage Schedule",
+      "intro": "The following fixed leverage rules apply to all trades during specified market conditions:",
+      "weekend": {
+        "title": "Weekend Transition Periods",
+        "beforeFridayClose": "Before Friday Market Close (3 hours)",
+        "afterMondayOpen": "After Monday Market Open (1 hour)",
+        "china": "China (GMT+8)",
+        "server": "Server (GMT+3)",
+        "uae": "UAE (GMT+4)",
+        "cutoff": "XAUUSD cutoff"
+      },
+      "economic": {
+        "title": "Economic News Events",
+        "list": [
+          "15 minutes before high-impact news releases",
+          "5 minutes after news releases",
+          "During periods of expected extreme volatility"
+        ]
+      },
+      "legend": {
+        "china": "China (GMT+8)",
+        "server": "Server (GMT+3)",
+        "uae": "UAE (GMT+4)"
+      },
+      "important": {
+        "title": "Important Notes",
+        "list": [
+          "Margin calculations remain fixed after the period ends",
+          "Existing positions are not affected",
+          "Applies to all instruments and account types"
+        ]
+      },
+      "times": {
+        "friday": {
+          "china": "02:00",
+          "server": "21:00",
+          "uae": "22:00"
+        },
+        "monday": {
+          "china": ["06:00", "07:00"],
+          "server": ["01:00", "02:00"],
+          "uae": ["02:00", "03:00"]
+        }
+      }
+    }
+
   },
   "partner": {
     "accountForm": {
@@ -1562,7 +1792,7 @@
       "termText": "By clicking Submit, I confirm that: (1) I have read and agree to the",
       "termText2": "Client Agreements;",
       "termText3": "(2) I consent to GTCFX contacting me at reasonable times; and (3) my number is not on the Do Not Call Register (DNCR).",
-      "submit": "Send",
+      "submit": "Submit",
       "sending": "Sending...",
       "error": {
         "firstName": "First Name is required",
@@ -1584,10 +1814,6 @@
       "msgsent": "Form Submitted Successfully!"
     },
     "IBProgram": {
-      "metaData": {
-        "title": "Introducing Broker Program | GTCFX",
-        "des": "Unlock financial potential with GTCFX's Introducing Broker Program. Join our network and earn attractive commissions. Start your trading journey today!"
-      },
       "bannerText": {
         "topheading": "Grow Your Clients Network With Us!",
         "heading1": "Become an Introducing Broker and Unlock Unlimited Earning Potential!",
@@ -1723,10 +1949,6 @@
       }
     },
     "affiliateProgram": {
-      "metaData": {
-        "title": "Affiliate Program | GTCFX",
-        "des": "Explore the potential of earning impressive commissions online through the GTCFX Affiliate Program. Click here to learn more."
-      },
       "bannerText": {
         "heading": "GTCFX Affiliate Program",
         "heading2": "Looking for a lucrative opportunity to earn great commission online? Look no further than our GTCFX Affiliate Program",
@@ -1793,7 +2015,7 @@
       },
       "bannerText": {
         "heading": "GTCFX ",
-        "heading2": "Demo Competition 2025",
+        "heading2": "Demo Competition 2024",
         "subHeading": "Join our free demo trading competition to win a share of $3,500 every month."
       },
       "formHeading": "Register Today",
@@ -1814,7 +2036,7 @@
         }
       },
       "noteheading": "Important Note: ",
-      "noteDetail": "We will start our demo competition in ….. / …/ 2025.",
+      "noteDetail": "We will start our demo competition in ….. / …/ 2024.",
       "parCom": {
         "title": "Why Participate In The GTCFX Demo Competition?",
         "option1": {
@@ -1870,7 +2092,7 @@
     "trading_account": "Trading Account Number",
     "message": "Message",
     "country": "Country",
-    "submit": "Send",
+    "submit": "Submit",
     "sending": "Sending...",
     "selectOne": "Please Select One",
     "CountryPlace": "Please Select Country",
@@ -1892,6 +2114,7 @@
       "fullName": "Full Name is required",
       "userName": "User Name is required",
       "accountAff": "Affiliate is required",
+      "message": "Message is required",
       "email": "Email Address is required",
       "invalidEmail": "Invalid email address",
       "account_no": "Account Number is required",
@@ -2656,7 +2879,7 @@
       "menu7": "Acuity Trading Tool",
       "menu8": "Expert Analysis",
       "menu9": "Virtual Private Servers",
-      "menu10": "Client Agreement"
+      "menu10": "Legal"
     },
     "policy": {
       "label": "Policy",
@@ -2669,7 +2892,7 @@
       "menu7": "Risk Warning",
       "menu8": "Cookie Policy",
       "menu9": "Website Disclaimer",
-      "menu10": "GTC Financial Consultancy LLC (AML) Manual"
+      "menu10": "Legal"
     },
     "contact": {
       "label": "Contact",
@@ -2681,12 +2904,12 @@
     },
     "footerNotice": {
       "title": "Other Group Entities: ",
-      "yellow": "Risk Warning:",
+      "yellow": "What is Risk Warning:",
       "firstPara": " This website is owned and operated by GTC Global Ltd, a limited company incorporated in Mauritius (company number: C188049) and licensed by the Financial Services Commission, Mauritius (No. GB22200292) to trade as an SEC-2.1B Investment Dealer. Registered Address: Cyberati Lounge, Ground Floor, the Catalyst, Silicon Avenue, 40 Cybercity, 72201 Ebene, Republic of Mauritius. The financial services and products promoted on this website are offered by GTC Global Ltd and GTC Global Trade Capital Co. Limited, a company authorised by the Vanuatu Financial Services Commission of the Republic of Vanuatu Company license number: 40354.",
       "gtc_group_heading1": "GTC Global Ltd and GTC Global Trade Capital Co. Limited ",
       "gtc_group_para1": " belong to the GTC Financial Group which consists of a group of entities across the globe. ",
       "gtc_group_heading2": "GTC Multi Trading DMCC ",
-      "gtc_group_para2": " is a limited company licensed and incorporated under the laws of the Dubai Multi Commodities Centre (No.DMCC-312687) and licensed by the Securities and Commodities Authority, United Arab Emirates (No.202200000007) to practice the activity of Commodity Brokerage - Trading and Clearing. Registered address: Unit No: 1501, 1 Lake Plaza, Plot No: JLT-PH2-T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates Website: ",
+      "gtc_group_para2": " is a limited company licensed and incorporated under the laws of the Dubai Multi Commodities Centre (No.DMCC-312687) and licensed by the Securities and Commodities Authority, United Arab Emirates (No.202200000007) to practice the activity of Commodity Brokerage - Trading and Clearing. Registered address: Unit No: 1501, 1 Lake Plaza, Plot No: JLT-PH2-T2A, Jumeirah Lakes Towers, Dubai, United Arab Emirates. ",
       "gtc_multi_trading_heading": "",
       "gtc_multi_trading_para": " Investing in derivative products carries significant risks and may not be suitable for all investors. Leveraging in these instruments can increase the level of risk and potential loss exposure. Before making any decision to engage in foreign exchange trading or CFDs, it is essential to carefully assess your investment objectives, level of experience, and risk tolerance. You should only invest funds that you can afford to lose. We strongly encourage you to educate yourself thoroughly about the associated risks and, if you have any questions, seek advice from an independent financial or tax advisor.",
       "gtc_global_para": " The financial products and services offered on this website are NOT provided by the following group entities and no recourse against the following entities is available. If you are interested in the products and services offered by each of the following entity, please visit their respective websites.  ",
@@ -2695,7 +2918,7 @@
       "yellow2": "GTC Group LLC-FZ  ",
       "secPara": " is a holding company incorporated in Dubai, United Arab Emirates with Business License Number: 2311147.01. Its registered office is at: Business Center 1, M Floor, Meydan Hotel, Nad Al Sheba, Dubai, United Arab Emirates. ",
       "yellow4": "GTC Global (Australia) Pty Ltd,  ",
-      "fifthPara": "a company incorporated in Australia and holds an Australian Financial Services Licence number 496371. Its registered office is at the Executive Centre, Level 17, 123 Pitt Street, Sydney NSW 2000, Australia. GTC Global (Australia) Pty Ltd’s website is",
+      "fifthPara": "a company incorporated in Australia and holds an Australian Financial Services Licence number 496371. Its registered office is at the Executive Centre, Level 17, 123 Pitt Street, Sydney NSW 2000, Australia.",
       "eightPara": "Each of the entities within the GTC Financial Group is managed separately. The financial products and services offered on this website are ONLY provided by GTC Global Ltd and GTC Global Trade Capital Co. Limited."
     }
   },
@@ -2937,10 +3160,6 @@
       }
     },
     "pamm": {
-      "metaData": {
-        "title": "PAMM Account | GTCFX",
-        "des": "This page contains information about PAMM accounts and their advantages for investors and money managers."
-      },
       "banner": {
         "title": "PAMM",
         "des1": "A PAMM (Percentage Allocation Management Module) account is a popular investment tool in the world of forex trading. It is a specialized form of a managed account that allows individual investors to allocate their funds to a professional trader or money manager, who then trades on their behalf. The PAMM account structure is designed to offer several benefits to both investors and money managers, making it a common choice in the forex market.",
@@ -2977,10 +3196,6 @@
       }
     },
     "mam": {
-      "metaData": {
-        "title": "MAM Account | GTCFX",
-        "des": "A MAM (Multi-Account Manager) account is a specialized investment tool in the world of forex trading, designed to allow professional traders"
-      },
       "banner": {
         "title": "MAM",
         "des1": "A MAM (Multi-Account Manager) account is a specialized investment tool in the world of forex trading, designed to allow professional traders, asset managers, and individual investors to manage multiple trading accounts simultaneously. It provides a structure for experienced traders to execute trades on behalf of multiple clients efficiently, making it a popular choice for those involved in forex trading."
@@ -3010,10 +3225,6 @@
       }
     },
     "socialCentreTool": {
-      "metaData": {
-        "title": "Get Market Insights with the Signal Centre Tool | GTCFX",
-        "des": "Get daily trading ideas & Insights with GTCFX's Signal Centre Tool. Save time and effort with entry & stop loss. Click to download now to boost your trading game."
-      },
       "hero": {
         "title": "Signal Centre Tool",
         "para": "Market insights from an FCA Regulated signal provider with unique human and AI-driven analysis",
@@ -3064,10 +3275,6 @@
       }
     },
     "vpsHosting": {
-      "metaData": {
-        "title": "Powerful Virtual Private Servers | GTCFX",
-        "des": "VPS is a remote hosting service that provides an environment for MT4, MT5 platforms to ensure a low-latency trading experience"
-      },
       "hero": {
         "heading": "Powerful Virtual Private Servers Tailored to Your Needs",
         "button": "Open Live Account                                              ",
@@ -3206,10 +3413,6 @@
       }
     },
     "technicalTool": {
-      "metaData": {
-        "title": "Expert Technical Analysis & Investment Decision Tools | GTCFX",
-        "des": "GTCFX provides powerful technical analysis and investment decision tools to help you make the most of your trading. Click here to find out more."
-      },
       "hero": {
         "heading": "Expert",
         "heading2": "Technical Analysis",
@@ -3310,10 +3513,6 @@
   },
   "compaign": {
     "tradeWin": {
-      "metaData": {
-        "title": "Deposit & Trade Cashback – Earn Up to $1,000 | GTCFX",
-        "des": "Boost your trading profits with our Deposit & Trade Cashback Program! Earn up to $1,000 cashback when you trade Forex, Metals, and Oil. The more you deposit, the higher your reward. Start trading today! 🚀"
-      },
       "banner": {
         "title": "Elevate Your Trading with a 20% Bonus!",
         "subtitle": "Boost your trading journey with a 20% tradable and withdrawable bonus, applicable on funded accounts, up to $20,000.",
@@ -3460,10 +3659,6 @@
       }
     },
     "webinar": {
-      "metaData": {
-        "title": "Free 10-Week Educational Webinar Series on Technical Analysis – Register Now!",
-        "des": "Join our exclusive trading webinars and master Technical Analysis & Live Market Strategies with expert Harsh Japee. Gain real-time insights, proven strategies, and access to Forex, Gold, Bitcoin & Indices trading setups. Register now – Limited seats available!"
-      },
       "hero": {
         "webinarTitle": "🔥 Master Trading with Expert Webinars!",
         "webinarSubtitle": "4 Webinars to Boost Your Trading in 2025 ",
@@ -3507,7 +3702,7 @@
       },
       "registation": {
         "platform": "Platform: Zoom (Online)",
-        "date": "Date: November 5, 2025",
+        "date": "Date: November 5, 2024",
         "time": "Time: 3PM (GMT+4)",
         "note": "Note: This seminar serves an educational purpose and will not include any financial recommendation or advice."
       },
@@ -3541,13 +3736,13 @@
     "WedSeminar": {
       "metaData": {
         "title": "Free Educational Webinar with Harsh Japee | GTCFX",
-        "des": "Join renowned financial expert Harsh Japee for a must-attend webinar on the potential market shifts driven by the 2025 US Presidential elections."
+        "des": "Join renowned financial expert Harsh Japee for a must-attend webinar on the potential market shifts driven by the 2024 US Presidential elections."
       },
       "hero": {
         "webinarTitle": "Free Educational Webinar with Harsh Japee",
         "webinarSubtitle": "How the upcoming US Presidential race might shake up global markets?",
-        "webinarDescription": "Join our Chief Markets Analyst, Harsh Japee, in a must-attend webinar that explores how the 2025 US Presidential race could transform global markets. Gain vital insights and stand a chance to be among more than 50 lucky attendees to win 5,000 USC when you open a live account. Don't miss out on this opportunity!",
-        "webinarDate": "November 13, 2025 | 5:00 PM (GMT+4)",
+        "webinarDescription": "Join our Chief Markets Analyst, Harsh Japee, in a must-attend webinar that explores how the 2024 US Presidential race could transform global markets. Gain vital insights and stand a chance to be among more than 50 lucky attendees to win 5,000 USC when you open a live account. Don't miss out on this opportunity!",
+        "webinarDate": "November 13, 2024 | 5:00 PM (GMT+4)",
         "webinarPlatform": "Platform: Zoom",
         "registerButton": "Register Now"
       },
@@ -3566,7 +3761,7 @@
         "description": "In this exclusive webinar, join Harsh Japee, Chief Markets Analyst, as he breaks down the key global asset trends of Q4 and the potential impact of the US Presidential race on investors worldwide.",
         "cards": [
           {
-            "title": "Q4 2025 Performance Insights: What’s Driving Global Assets?",
+            "title": "Q4 2024 Performance Insights: What’s Driving Global Assets?",
             "paragraph": "A snapshot of how global assets have performed so far and the risks to watch out for in the remainder of the year."
           },
           {
@@ -3585,7 +3780,7 @@
       },
       "registation": {
         "platform": "Platform: Zoom (Online)",
-        "date": "Date: November 12, 2025",
+        "date": "Date: November 12, 2024",
         "time": "Time: 3PM (GMT+4)",
         "note": "Note: This seminar serves an educational purpose and will not include any financial recommendation or advice."
       },
@@ -3619,13 +3814,13 @@
     "FridayEvent": {
       "metaData": {
         "title": "Free Educational Webinar with Harsh Japee | GTCFX",
-        "des": "Join renowned financial expert Harsh Japee for a must-attend webinar on the potential market shifts driven by the 2025 US Presidential elections."
+        "des": "Join renowned financial expert Harsh Japee for a must-attend webinar on the potential market shifts driven by the 2024 US Presidential elections."
       },
       "hero": {
         "webinarTitle": "Free Educational Webinar with Harsh Japee",
         "webinarSubtitle": "How the upcoming US Presidential race might shake up global markets?",
-        "webinarDescription": "Join our Chief Markets Analyst, Harsh Japee, in a must-attend webinar that explores how the 2025 US Presidential race could transform global markets. Gain vital insights and stand a chance to be among more than 50 lucky attendees to win 5,000 USC when you open a live account. Don't miss out on this opportunity!",
-        "webinarDate": "November 15, 2025 | 3:00 PM (GMT+4)",
+        "webinarDescription": "Join our Chief Markets Analyst, Harsh Japee, in a must-attend webinar that explores how the 2024 US Presidential race could transform global markets. Gain vital insights and stand a chance to be among more than 50 lucky attendees to win 5,000 USC when you open a live account. Don't miss out on this opportunity!",
+        "webinarDate": "November 15, 2024 | 3:00 PM (GMT+4)",
         "webinarPlatform": "Platform: Zoom",
         "registerButton": "Register Now"
       },
@@ -3644,7 +3839,7 @@
         "description": "In this exclusive webinar, join Harsh Japee, Chief Markets Analyst, as he breaks down the key global asset trends of Q4 and the potential impact of the US Presidential race on investors worldwide.",
         "cards": [
           {
-            "title": "Q4 2025 Performance Insights: What’s Driving Global Assets?",
+            "title": "Q4 2024 Performance Insights: What’s Driving Global Assets?",
             "paragraph": "A snapshot of how global assets have performed so far and the risks to watch out for in the remainder of the year."
           },
           {
@@ -3663,7 +3858,7 @@
       },
       "registation": {
         "platform": "Platform: Zoom (Online)",
-        "date": "Date: November 15, 2025",
+        "date": "Date: November 15, 2024",
         "time": "Time: 3PM (GMT+4)",
         "note": "Note: This seminar serves an educational purpose and will not include any financial recommendation or advice."
       },
@@ -3805,7 +4000,7 @@
     },
     "content": {
       "heading1": "Swap Update",
-      "des1": "Swap details last updated on March 05, 2025.",
+      "des1": "Swap details last updated on March 13, 2025.",
       "des2": "Please note all the interest rates indicative only, actual rate can be seen on the client trading platform, symbol specification.",
       "tab1": "Forex",
       "tab2": "Metal",
@@ -3817,44 +4012,49 @@
   "market_overview": {
     "headers": {
       "instrument": "Instrument",
-      "date1": "Sun, 09 March 2025",
-      "date2": "Mon, 20 March 2025",
-      "date3": "Sun, 30 March 2025"
+      "date1": "11 August 2025, Monday",
+      "date2": "25 August 2025, Monday",
+      "date3": "26 August 2025, Tuesday"
     },
     "status": {
       "normal": "Normal Trading Hours",
-      "early_close": "Early Close at 21:30",
-      "early_close1": "Early Close 20:00",
-      "early_close2": "Early Close 23:00",
-      "closed": "Closed",
-      "daylight": "Daylight Saving Time USA",
-      "daylight1": "Daylight Saving Time Europe"
+      "early_close": "Early Close 20:00",
+      "early_close1": "Early Close 20:15",
+      "early_close2": "Early Close 20:30",
+      "early_close3": "Early Close 23:00",
+      "early_close4": "Early Close 19:30",
       
+      "closed": "Closed",
+      "daylight": "TBC",
+      "daylight1": "Late Open 03:00"
+    },
+    "TradingNotes": {
+      "line1":"Please note these times provided are subject to change, any changes to the times can always be found in the Specification of the instrument in the trading terminal.",
+      "line2":"Please note that there could be unexpected periods of volatility, low liquidity, and some LP’s will increase the spreads during holidays.",
+      "line3":"Dates are subject to change by the respective markets.",
+      "line4":"Clients are kindly requested to manage their accounts and positions during the trading hours of the company as listed above."
+    
     }
   },
-  "callback": { 
-    "metaData": {
-        "title": "Deposit & Trade Cashback – Earn Up to $1,000 | GTCFX",
-        "des": "Boost your trading profits with our Deposit & Trade Cashback Program! Earn up to $1,000 cashback when you trade Forex, Metals, and Oil. The more you deposit, the higher your reward. Start trading today! 🚀"
-      },
-    "banner":{
-      "para1":"Elevate Your Trading with an Exclusive Cashback Bonus!",
-      "heading":"Cashback Bonus",
-      "para2":"Trade Forex, Metals & Oil and Earn Up to $1,000 Cashback! Fund your account, hit the trading volume targets, and unlock exciting cash rewards."
+  "callback": {
+    "banner": {
+      "para1": "Elevate Your Trading with an Exclusive Cashback Bonus!",
+      "heading": "Cashback Bonus",
+      "para2": "Trade Forex, Metals & Oil and Earn Up to $1,000 Cashback! Fund your account, hit the trading volume targets, and unlock exciting cash rewards."
     },
-    "offers":{
-      "title":"GTCFX Offers Value to New & Existing Clients",
-      "para":"As the Deposits increase, volume increases and Prize money also increases.",
-      "card1":"Cashback <br/>up to 25%",
-      "card2":"Exclusive Client <br/>Support",
-      "card3":"Access to Real-Time <br/> Market Insights <br/> & Analysis"
+    "offers": {
+      "title": "GTCFX Offers Value to New & Existing Clients",
+      "para": "As the Deposits increase, volume increases and Prize money also increases.",
+      "card1": "Cashback <br/>up to 25%",
+      "card2": "Exclusive Client <br/>Support",
+      "card3": "Access to Real-Time <br/> Market Insights <br/> & Analysis"
     },
-    "table":{
-      "title1":"HERE THIS IS TO TARGET",
-      "title2":"THE INCREASE IN DEPOSITS AND INCREASE IN VOLUME",
-      "column1":"Deposit - USD",
-      "column2":"Volume",
-      "column3":"Cashback USD"
+    "table": {
+      "title1": "HERE THIS IS TO TARGET",
+      "title2": "THE INCREASE IN DEPOSITS AND INCREASE IN VOLUME",
+      "column1": "Deposit - USD",
+      "column2": "Volume",
+      "column3": "Cashback USD"
     },
     "terms": {
       "title": "Terms And Conditions",
@@ -3869,26 +4069,26 @@
       "note": "This Reward promotion is open to all entities."
     }
   },
-  "lp": { 
+  "lp": {
     "metaData": {
-        "title": "Direct Access to Top Tier Liquidity Provider | GTCFX",
-        "des": "Tailored Liquidity Solutions Powered by Advanced Technology to Deliver Superior Trading Experiences for Global Professional Clients."
-      },
-    "banner":{
+      "title": "Direct Access to Top Tier Liquidity Provider | GTCFX",
+      "des": "Tailored Liquidity Solutions Powered by Advanced Technology to Deliver Superior Trading Experiences for Global Professional Clients."
+    },
+    "banner": {
       "tabs1": {
-            "title": "Register as Liquidity Client",
-            "heading": "GTCFX LIQUIDITY SOLUTIONS",
-            "heading2": "Empower Your Trading with Deep Liquidity",
-            "des": "Tailored Liquidity Solutions Powered by Advanced Technology to Deliver Superior Trading Experiences for Global Professional Clients"
+        "title": "Register as Liquidity Client",
+        "heading": "GTCFX LIQUIDITY SOLUTIONS",
+        "heading2": "Empower Your Trading with Deep Liquidity",
+        "des": "Tailored Liquidity Solutions Powered by Advanced Technology to Deliver Superior Trading Experiences for Global Professional Clients"
       },
       "tabs2": {
-            "title": "Register as Introducing Broker",
-            "heading": "Become an Introducing Broker",
-            "heading2": "Grow Your Clients Network With Us!",
-            "des": "Power up your business expansion and client network while maximizing the advantages of our IB program."
+        "title": "Register as Introducing Broker",
+        "heading": "Become an Introducing Broker",
+        "heading2": "Grow Your Clients Network With Us!",
+        "des": "Power up your business expansion and client network while maximizing the advantages of our IB program."
       }
     },
-    "offers":{
+    "offers": {
       "heading": " Deep Liquidity Access",
       "subHeading": "Direct Access to Top Tier Liquidity Provider & Banks",
       "one": {
@@ -3934,13 +4134,27 @@
     }
   },
   "tutorialVideo": {
-    "metaData": {
-      "title": "How to Open a Live Trading Account, Deposit and Withdraw Through Tutorial Videos | GTCFX",
-      "des": "Watch GTCFX tutorial videos to learn how to open a live trading account, deposit funds, and withdraw easily. Start trading with confidence today with one of the best brokers!."
-    },
     "bannerSection": {
       "title": "GTCFX Tutorial Videos",
       "des": "Watch GTCFX tutorial videos and learn how to open, verify, and manage your trading account easily. Start trading with confidence today!"
     }
+  },
+  "exDividends": {
+    "title": "Ex-Dividends (14/07/2025)",
+    "headers": ["Indices", "Symbols", "Adjustment Points"],
+    "rows": [
+      { "indices": "Australia 200 CFD", "symbol": "AUS200c", "points": "/" },
+      { "indices": "FTSE CHINA 50 CFD", "symbol": "CN50c", "points": "11.08" },
+      { "indices": "Hong Kong 50 CFD", "symbol": "HK50c", "points": "/" },
+      { "indices": "EU Stocks 50 CFD", "symbol": "EU50c", "points": "/" },
+      { "indices": "France 40 CFD", "symbol": "FRA40c", "points": "/" },
+      { "indices": "Germany 40 CFD", "symbol": "GER40c", "points": "/" },
+      { "indices": "Japan 225 CFD", "symbol": "JPN225c", "points": "/" },
+      { "indices": "Spain 35 Index CFD", "symbol": "SPA35c", "points": "0.562" },
+      { "indices": "UK 100 CFD", "symbol": "UK100c", "points": "/" },
+      { "indices": "US 30 Index CFD", "symbol": "US30c", "points": "/" },
+      { "indices": "US SP 500 CFD", "symbol": "US500c", "points": "0.01" },
+      { "indices": "US Tech 100 CFD", "symbol": "USTECHc", "points": "/" }
+    ]
   }
 }
