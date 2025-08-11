@@ -43,7 +43,7 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
         }
     })();
 
-    const baseLink2 = isEuropean ? 'https://my.gtcfx.com' : isJapanese ? 'https://mygtcportal.com' : 'https://mygtcportal.com';
+    const baseLink2 = isEuropean ? 'https://mygtcportal.com' : isJapanese ? 'https://mygtcportal.com' : 'https://mygtcportal.com';
     
     const newClientPortalLink = `${baseLink2}/`;
     const accountLink = `${baseLink}`;
@@ -76,15 +76,10 @@ const TopBar = ({ currentLanguage, isAr, href }) => {
                     <div className="flex flex-col lg:flex-row">
                         <Link href='https://mygtcfx.com' target="_blank" className="hidden text-white uppercase hover:bg-white hover:text-secondary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
                             <MdOutlineLogin size={20} />
-                            {t("new_client_portal")} 1
+                            {t("new_client_portal")}
                         </Link>
                     </div>
-                    <div className="flex flex-col lg:flex-row">
-                        <Link href='https://web.mygtc.app/login/login' target="_blank" className="hidden text-white uppercase hover:bg-white hover:text-secondary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
-                            <MdOutlineLogin size={20} />
-                            {t("new_client_portal")} 2
-                        </Link>
-                    </div>
+                  
                     <div className="flex flex-col lg:flex-row">
                         <Link href='https://mygtcfx.com/getview?view=register&token=exhowww.z8owwwww' target="_blank" className="hidden text-white uppercase bg-[#29a643] hover:bg-white hover:text-primary text-sm border border-gray-200 px-3 py-[6px] md:flex gap-2 items-center">
                             {t("tobbar.account")}
